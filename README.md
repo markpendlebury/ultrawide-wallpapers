@@ -1,4 +1,4 @@
-# Ultrawide Wallpapers
+# Ultrawide wallpapers
 
 ---
 
