@@ -1,6 +1,6 @@
 # Ultrawide wallpapers
 
-A collection of ultrawide wallpapers, currently all papers are 5120x1440 simply becuase this is my desktop resolution. My aim here is to create a decent collection of wallpapers for ultrawide monitors so feel free to contribute: 
+A collection of ultrawide wallpapers, currently all papers are 5120x1440 simply because this is my desktop resolution. My aim here is to create a decent collection of wallpapers for ultrawide monitors so feel free to contribute: 
 
 ### Contributing
 - Feel free to add any images you like (following the rules below) 
