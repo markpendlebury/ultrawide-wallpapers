@@ -97,4 +97,3 @@ A collection of ultrawide wallpapers, currently all papers are 5120x1440 simply 
 <a href=5120x1440/zSGRPVMk.png target=_blank>![Credit: Unknown](5120x1440/zSGRPVMk.png)</a>
 <a href=5120x1440/ZTZm28Uw.png target=_blank>![Credit: Unknown](5120x1440/ZTZm28Uw.png)</a>
 <a href=5120x1440/XyrcdZobNE.jpg target=_blank>![Credit: Unknown](5120x1440/XyrcdZobNE.jpg)</a>
-<a href=3440x1440/4E7YTA8HRPHZIMKGVCW0.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/4E7YTA8HRPHZIMKGVCW0.png)</a>
