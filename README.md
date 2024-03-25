@@ -121,3 +121,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/AutumnLeaves,YokoyamaTaikan(2560x1080).png target=_blank>![Credit: KalimbaEnjoyer](2560x1080/AutumnLeaves,YokoyamaTaikan(2560x1080).png)</a>
 <a href=3440x1440/JeffWayne:WarOfTheWorlds[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/JeffWayne:WarOfTheWorlds[3440x1440].png)</a>
 <a href=3440x1440/CafeLights[3440x1440].png target=_blank>![Credit: rooliebong](3440x1440/CafeLights[3440x1440].png)</a>
+<a href=3440x1440/Planet[3440x1440].png target=_blank>![Credit: rooliebong](3440x1440/Planet[3440x1440].png)</a>
