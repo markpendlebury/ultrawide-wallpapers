@@ -112,4 +112,3 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Dr.Strangelove[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/Dr.Strangelove[3440x1440].png)</a>
 <a href=3440x1440/Surfer[3440x1440].png target=_blank>![Credit: DongKwang13](3440x1440/Surfer[3440x1440].png)</a>
 <a href=5160x2160/Nepal[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Nepal[5160x2160].png)</a>
-<a href=Unknown/GuideandRequestsSticky..jpg target=_blank>![Credit: --SaL--](Unknown/GuideandRequestsSticky..jpg)</a>
