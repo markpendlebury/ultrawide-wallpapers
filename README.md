@@ -117,3 +117,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Premonition[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/Premonition[3440x1440].png)</a>
 <a href=5120x2160/ChicagoDowntownFromPromontoryPoint[5120x2160].png target=_blank>![Credit: acoolrocket](5120x2160/ChicagoDowntownFromPromontoryPoint[5120x2160].png)</a>
 <a href=5120x1440/"Reset"bySimonBailly[5120x1440].png target=_blank>![Credit: PoshinoPoshi](5120x1440/"Reset"bySimonBailly[5120x1440].png)</a>
+<a href=3440x1440/JoelandEllie[3440x1440].jpeg target=_blank>![Credit: Rinkeli](3440x1440/JoelandEllie[3440x1440].jpeg)</a>
