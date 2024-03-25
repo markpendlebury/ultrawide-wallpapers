@@ -115,3 +115,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Streetlamp[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Streetlamp[5160x2160].png)</a>
 <a href=1560x2160/EscapingCriticism1874[51560x2160].jpeg target=_blank>![Credit: rooliebong](1560x2160/EscapingCriticism1874[51560x2160].jpeg)</a>
 <a href=3440x1440/Premonition[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/Premonition[3440x1440].png)</a>
+<a href=5120x2160/ChicagoDowntownFromPromontoryPoint[5120x2160].png target=_blank>![Credit: acoolrocket](5120x2160/ChicagoDowntownFromPromontoryPoint[5120x2160].png)</a>
