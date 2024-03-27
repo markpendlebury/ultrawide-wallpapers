@@ -126,3 +126,5 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/DJ[3440x1440].jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/DJ[3440x1440].jpeg)</a>
 <a href=7680x2160/Sci-FiArtbyRuiHuang[7680x2160].jpeg target=_blank>![Credit: Goosephat](7680x2160/Sci-FiArtbyRuiHuang[7680x2160].jpeg)</a>
 <a href=3440x1440/Sci-FiArtbyRuiHuang[3440x1440].png target=_blank>![Credit: Goosephat](3440x1440/Sci-FiArtbyRuiHuang[3440x1440].png)</a>
+
+<a href=3440x1440/FlowerPower[3440x1440].png target=_blank>![Credit: xXheroin-bobXx](3440x1440/FlowerPower[3440x1440].png)</a>
