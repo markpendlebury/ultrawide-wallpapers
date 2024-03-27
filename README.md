@@ -123,3 +123,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/CafeLights[3440x1440].png target=_blank>![Credit: rooliebong](3440x1440/CafeLights[3440x1440].png)</a>
 <a href=3440x1440/Planet[3440x1440].png target=_blank>![Credit: rooliebong](3440x1440/Planet[3440x1440].png)</a>
 <a href=3440x1440/Spaceman[3440x1440].png target=_blank>![Credit: DongKwang13](3440x1440/Spaceman[3440x1440].png)</a>
+<a href=3440x1440/DJ[3440x1440].jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/DJ[3440x1440].jpeg)</a>
