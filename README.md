@@ -130,3 +130,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/FlowerPower[3440x1440].png target=_blank>![Credit: xXheroin-bobXx](3440x1440/FlowerPower[3440x1440]_thumbnail.png)</a>
 <a href=3440x1440/SomewhereinSaudiArabia[3440x1440].jpeg target=_blank>![Credit: rooliebong](3440x1440/SomewhereinSaudiArabia[3440x1440]_thumbnail.jpeg)</a>
 <a href=3440x1440/ForrestandLake[3440x1440].png target=_blank>![Credit: ELTaco88](3440x1440/ForrestandLake[3440x1440]_thumbnail.png)</a>
+<a href=3440x1440/3k7skkd335rc1.png target=_blank>![Credit: lhurtado](3440x1440/3k7skkd335rc1_thumbnail.png)</a>
