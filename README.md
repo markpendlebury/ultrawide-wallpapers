@@ -162,3 +162,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/h896idptm0rc1.jpg target=_blank>![Credit: --SaL--](3440x1440/h896idptm0rc1_thumbnail.jpg)</a>
 <a href=3440x1440/yqdta9xtm0rc1.jpg target=_blank>![Credit: --SaL--](3440x1440/yqdta9xtm0rc1_thumbnail.jpg)</a>
 <a href=3440x1440/btjugo4um0rc1.jpg target=_blank>![Credit: --SaL--](3440x1440/btjugo4um0rc1_thumbnail.jpg)</a>
+<a href=3440x1440/y161lpbum0rc1.jpg target=_blank>![Credit: --SaL--](3440x1440/y161lpbum0rc1_thumbnail.jpg)</a>
