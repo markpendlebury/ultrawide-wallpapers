@@ -1,18 +1,18 @@
 # Ultrawide wallpapers
 
-A collection of ultrawide wallpapers. My aim here is to create a decent collection of wallpapers for ultrawide monitors so feel free to contribute: 
+A collection of ultrawide wallpapers. My aim here is to create a decent collection of wallpapers for ultrawide monitors so feel free to contribute:
 
 ### Contributing
-- Feel free to add any images you like (following the rules below) 
+- Feel free to add any images you like (following the rules below)
 - Create a subdirectory describing the resolution, or append to an existing resolution directory
 - Create an PR and I will review/approve.
 
 
 ### Rules
 - Keep it clean
-- Keep the quality good, 
+- Keep the quality good,
   - This goes for image quality as well as content quality, no MS Paint crap
-- Always include credit where possible when linking the images inside the readme, for example: 
+- Always include credit where possible when linking the images inside the readme, for example:
   - ```<a href=5120x1440/my_new_image.png target=_blank>![Credit: Mark Pendlebury](5120x1440/078402J3_thumbnail.png)</a>```
 
 
@@ -101,24 +101,18 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Notminejustreposting-Masterpiece[3440x1440].png target=_blank>![Credit: Doubletake_tech](3440x1440/Notminejustreposting-Masterpiece[3440x1440]_thumbnail.png)</a>
 <a href=3440x1440/InfluencerandGreatWhiteSelfie[3440x1440].png target=_blank>![Credit: DongKwang13](3440x1440/InfluencerandGreatWhiteSelfie[3440x1440]_thumbnail.png)</a>
 <a href=5120x1440/PlanetStrikes[5120x1440].jpeg target=_blank>![Credit: bearandlager](5120x1440/PlanetStrikes[5120x1440]_thumbnail.jpeg)</a>
-<a href=5120x1440/USS.DefiantSchematic[5120x1440].png target=_blank>![Credit: bearandlager](5120x1440/USS.DefiantSchematic[5120x1440]_thumbnail.png)</a>
 <a href=3440x1440/ColorWave[3440x1440].png target=_blank>![Credit: xXheroin-bobXx](3440x1440/ColorWave[3440x1440]_thumbnail.png)</a>
 <a href=5160x2160/SunflowerGirl[5160x2160].png target=_blank>![Credit: --SaL--](5160x2160/SunflowerGirl[5160x2160]_thumbnail.png)</a>
 <a href=5160x2160/ConceptArtbyIgnacioBazanLazcano[5160x2160].png target=_blank>![Credit: DongKwang13](5160x2160/ConceptArtbyIgnacioBazanLazcano[5160x2160]_thumbnail.png)</a>
 <a href=3440x1440/LocalHost[3440x1440].png target=_blank>![Credit: TerriblyAdjunct](3440x1440/LocalHost[3440x1440]_thumbnail.png)</a>
-<a href=3440x1440/Mt.FujiUltramarineLeftMonitorV.[3440x1440].png target=_blank>![Credit: KalimbaEnjoyer](3440x1440/Mt.FujiUltramarineLeftMonitorV.[3440x1440]_thumbnail.png)</a>
-<a href=3440x1440/YokoyamaTaikan,Mt.FujiUltramarine[3440x1440].png target=_blank>![Credit: KalimbaEnjoyer](3440x1440/YokoyamaTaikan,Mt.FujiUltramarine[3440x1440]_thumbnail.png)</a>
 <a href=8192x3430/MountainRange[8192x3430].jpeg target=_blank>![Credit: rooliebong](8192x3430/MountainRange[8192x3430]_thumbnail.jpeg)</a>
-<a href=3440x1440/Dr.Strangelove[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/Dr.Strangelove[3440x1440]_thumbnail.png)</a>
 <a href=3440x1440/Surfer[3440x1440].png target=_blank>![Credit: DongKwang13](3440x1440/Surfer[3440x1440]_thumbnail.png)</a>
 <a href=5160x2160/Nepal[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Nepal[5160x2160]_thumbnail.png)</a>
 <a href=5160x2160/Streetlamp[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Streetlamp[5160x2160]_thumbnail.png)</a>
 <a href=1560x2160/EscapingCriticism1874[51560x2160].jpeg target=_blank>![Credit: rooliebong](1560x2160/EscapingCriticism1874[51560x2160]_thumbnail.jpeg)</a>
 <a href=3440x1440/Premonition[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/Premonition[3440x1440]_thumbnail.png)</a>
 <a href=5120x2160/ChicagoDowntownFromPromontoryPoint[5120x2160].png target=_blank>![Credit: acoolrocket](5120x2160/ChicagoDowntownFromPromontoryPoint[5120x2160]_thumbnail.png)</a>
-
 <a href=3440x1440/JoelandEllie[3440x1440].jpeg target=_blank>![Credit: Rinkeli](3440x1440/JoelandEllie[3440x1440]_thumbnail.jpeg)</a>
-<a href=2560x1080/AutumnLeaves,YokoyamaTaikan(2560x1080).png target=_blank>![Credit: KalimbaEnjoyer](2560x1080/AutumnLeaves,YokoyamaTaikan(2560x1080)_thumbnail.png)</a>
 <a href=3440x1440/JeffWayne:WarOfTheWorlds[3440x1440].png target=_blank>![Credit: --SaL--](3440x1440/JeffWayne:WarOfTheWorlds[3440x1440]_thumbnail.png)</a>
 <a href=3440x1440/CafeLights[3440x1440].png target=_blank>![Credit: rooliebong](3440x1440/CafeLights[3440x1440]_thumbnail.png)</a>
 <a href=3440x1440/Planet[3440x1440].png target=_blank>![Credit: rooliebong](3440x1440/Planet[3440x1440]_thumbnail.png)</a>
@@ -126,7 +120,6 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/DJ[3440x1440].jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/DJ[3440x1440]_thumbnail.jpeg)</a>
 <a href=7680x2160/Sci-FiArtbyRuiHuang[7680x2160].jpeg target=_blank>![Credit: Goosephat](7680x2160/Sci-FiArtbyRuiHuang[7680x2160]_thumbnail.jpeg)</a>
 <a href=3440x1440/Sci-FiArtbyRuiHuang[3440x1440].png target=_blank>![Credit: Goosephat](3440x1440/Sci-FiArtbyRuiHuang[3440x1440]_thumbnail.png)</a>
-
 <a href=3440x1440/FlowerPower[3440x1440].png target=_blank>![Credit: xXheroin-bobXx](3440x1440/FlowerPower[3440x1440]_thumbnail.png)</a>
 <a href=3440x1440/SomewhereinSaudiArabia[3440x1440].jpeg target=_blank>![Credit: rooliebong](3440x1440/SomewhereinSaudiArabia[3440x1440]_thumbnail.jpeg)</a>
 <a href=3440x1440/ForrestandLake[3440x1440].png target=_blank>![Credit: ELTaco88](3440x1440/ForrestandLake[3440x1440]_thumbnail.png)</a>
