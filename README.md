@@ -158,3 +158,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/y161lpbum0rc1.jpg target=_blank>![Credit: --SaL--](3440x1440/y161lpbum0rc1_thumbnail.jpg)</a>
 <a href=3440x1440/6mzuloium0rc1.jpg target=_blank>![Credit: --SaL--](3440x1440/6mzuloium0rc1_thumbnail.jpg)</a>
 <a href=3440x1440/TheExorcist[3440x1440].png target=_blank>![Credit: qazifaran](3440x1440/TheExorcist[3440x1440]_thumbnail.png)</a>
+<a href=5160x2160/Waves[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Waves[5160x2160]_thumbnail.png)</a>
