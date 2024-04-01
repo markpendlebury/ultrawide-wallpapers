@@ -112,3 +112,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6880x2880/NonLinear[6880x2880].png target=_blank>![Credit: --SaL--](6880x2880/NonLinear[6880x2880]_thumbnail.png)</a>
 <a href=5160x2160/Waves[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Waves[5160x2160]_thumbnail.png)</a>
 <a href=3440x1440/OrganicBackground[3440x1440].png target=_blank>![Credit: DongKwang13](3440x1440/OrganicBackground[3440x1440]_thumbnail.png)</a>
+<a href=3440x1440/0wrnd9rr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/0wrnd9rr4crc1_thumbnail.png)</a>
