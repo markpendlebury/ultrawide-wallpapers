@@ -179,3 +179,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=1560x2160/Escaping_Criticism_1874_51560x2160.jpeg target=_blank>![Credit: rooliebong](1560x2160/Escaping_Criticism_1874_51560x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Batman_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Batman_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Bar_Graph_3440x1440.png target=_blank>![Credit: xXheroin-bobXx](3440x1440/Bar_Graph_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Not_mine_just_reposting_-Masterpiece_3440_x_1440.png target=_blank>![Credit: Doubletake_tech](3440x1440/Not_mine_just_reposting_-Masterpiece_3440_x_1440_thumbnail.png)</a>
