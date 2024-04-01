@@ -191,3 +191,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Clockwork_Circus_Color_3440x1440_15.jpg target=_blank>![Credit: sirgerg2](3440x1440/Clockwork_Circus_Color_3440x1440_15_thumbnail.jpg)</a>
 <a href=3440x1440/Clockwork_Circus_Color_3440x1440_16.jpg target=_blank>![Credit: sirgerg2](3440x1440/Clockwork_Circus_Color_3440x1440_16_thumbnail.jpg)</a>
 <a href=3440x1440/Clockwork_Circus_Color_3440x1440_17.jpg target=_blank>![Credit: sirgerg2](3440x1440/Clockwork_Circus_Color_3440x1440_17_thumbnail.jpg)</a>
+<a href=3440x1440/Surfer_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Surfer_3440x1440_thumbnail.png)</a>
