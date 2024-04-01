@@ -121,3 +121,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Abstract_3440x1440_1.png target=_blank>![Credit: lhurtado](3440x1440/Abstract_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/Abstract_3440x1440_2.png target=_blank>![Credit: lhurtado](3440x1440/Abstract_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/Somewhere_in_Saudi_Arabia_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Somewhere_in_Saudi_Arabia_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Some_Movie_Screens_3440x1440_0.jpg target=_blank>![Credit: SaL](3440x1440/Some_Movie_Screens_3440x1440_0_thumbnail.jpg)</a>
