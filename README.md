@@ -119,3 +119,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/u7udpirr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/u7udpirr4crc1_thumbnail.png)</a>
 <a href=3440x1440/25dhohrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/25dhohrr4crc1_thumbnail.png)</a>
 <a href=3440x1440/ForrestandLake[3440x1440].png target=_blank>![Credit: ELTaco88](3440x1440/ForrestandLake[3440x1440]_thumbnail.png)</a>
+<a href=3440x1440/3k7skkd335rc1.png target=_blank>![Credit: lhurtado](3440x1440/3k7skkd335rc1_thumbnail.png)</a>
