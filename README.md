@@ -155,3 +155,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Not_mine_just_reposting_Masterpiece_3440_x_1440.png target=_blank>![Credit: Doubletake_tech](3440x1440/Not_mine_just_reposting_Masterpiece_3440_x_1440_thumbnail.png)</a>
 <a href=3440x1440/Influencer_and_Great_White_Selfie_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Influencer_and_Great_White_Selfie_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/USS_Defiant_Schematic_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/USS_Defiant_Schematic_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/Planet_Strikes_5120x1440.jpeg target=_blank>![Credit: bearandlager](5120x1440/Planet_Strikes_5120x1440_thumbnail.jpeg)</a>
