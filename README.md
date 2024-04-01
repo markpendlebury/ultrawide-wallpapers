@@ -107,3 +107,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Dark_Abstract_3440x1440.png target=_blank>![Credit: lhurtado](3440x1440/Dark_Abstract_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Forrest_and_Lake_3440x1440.png target=_blank>![Credit: ELTaco88](3440x1440/Forrest_and_Lake_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Thundercats[3440x1440].png target=_blank>![Credit: qazifaran](3440x1440/Thundercats[3440x1440]_thumbnail.png)</a>
+<a href=3440x1440/Background[3440x1440].png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Background[3440x1440]_thumbnail.png)</a>
