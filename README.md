@@ -98,3 +98,5 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/ZTZm28Uw.png target=_blank>![Credit: Unknown](5120x1440/ZTZm28Uw_thumbnail.png)</a>
 <a href=5120x1440/XyrcdZobNE.jpg target=_blank>![Credit: Unknown](5120x1440/XyrcdZobNE_thumbnail.jpg)</a>
 
+
+<a href=3440x1440/Dark_Abstract_3440x1440_0.png target=_blank>![Credit: lhurtado](3440x1440/Dark_Abstract_3440x1440_0_thumbnail.png)</a>
