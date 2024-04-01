@@ -105,3 +105,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Sci-Fi_art_by_Victory_Luode_3440x1440.jpg target=_blank>![Credit: Goosephat](3440x1440/Sci-Fi_art_by_Victory_Luode_3440x1440_thumbnail.jpg)</a>
 <a href=3440x1440/Premonition_3440x1440.png target=_blank>![Credit: --SaL--](3440x1440/Premonition_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Chicago_Downtown_From_Promontory_Point_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Chicago_Downtown_From_Promontory_Point_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Minimal_Pack_#9_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_#9_3440x1440_thumbnail.png)</a>
