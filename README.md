@@ -130,3 +130,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=8192x3430/Mountain_Range_8192x3430.jpeg target=_blank>![Credit: rooliebong](8192x3430/Mountain_Range_8192x3430_thumbnail.jpeg)</a>
 <a href=3440x1440/Yokoyama_Taikan_Mt_Fuji_Ultramarine_3440x1440.png target=_blank>![Credit: KalimbaEnjoyer](3440x1440/Yokoyama_Taikan_Mt_Fuji_Ultramarine_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Mt_Fuji_Ultramarine_Left_Monitor_V_3440x1440.png target=_blank>![Credit: KalimbaEnjoyer](3440x1440/Mt_Fuji_Ultramarine_Left_Monitor_V_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/4-Pack_3440x1440.png target=_blank>![Credit: Euphoric-Pack-3411](3440x1440/4-Pack_3440x1440_thumbnail.png)</a>
