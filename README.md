@@ -223,3 +223,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Minimal_Pack_#9_3440x1440_12.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_#9_3440x1440_12_thumbnail.png)</a>
 <a href=3440x1440/Minimal_Pack_#9_3440x1440_13.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_#9_3440x1440_13_thumbnail.png)</a>
 <a href=3440x1440/Minimal_Pack_#9_3440x1440_14.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_#9_3440x1440_14_thumbnail.png)</a>
+<a href=3440x1440/Minimal_Pack_#9_3440x1440_15.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_#9_3440x1440_15_thumbnail.png)</a>
