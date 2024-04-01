@@ -145,3 +145,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Autumn_Leaves_Yokoyama_Taikan_2560_x_1080.png target=_blank>![Credit: KalimbaEnjoyer](2560x1080/Autumn_Leaves_Yokoyama_Taikan_2560_x_1080_thumbnail.png)</a>
 <a href=3440x1440/Jeff_Wayne_War_Of_The_Worlds_3440x1440.png target=_blank>![Credit: --SaL--](3440x1440/Jeff_Wayne_War_Of_The_Worlds_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Cafe_Lights_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Cafe_Lights_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Thundercats[3440x1440].png target=_blank>![Credit: qazifaran](3440x1440/Thundercats[3440x1440]_thumbnail.png)</a>
