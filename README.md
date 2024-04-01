@@ -203,3 +203,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/FJ5_Wallpapers_Pack_1_5120x1440.png target=_blank>![Credit: 180SX16](5120x1440/FJ5_Wallpapers_Pack_1_5120x1440_thumbnail.png)</a>
 <a href=5120x2160/Chicago_Downtown_From_Promontory_Point_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Chicago_Downtown_From_Promontory_Point_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Minimal_Pack_#9_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_#9_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Reset_by_Simon_Bailly_5120x1440.png target=_blank>![Credit: PoshinoPoshi](5120x1440/Reset_by_Simon_Bailly_5120x1440_thumbnail.png)</a>
