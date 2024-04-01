@@ -127,3 +127,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Concept_Art_by_Ignacio_Bazan_Lazcano_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Concept_Art_by_Ignacio_Bazan_Lazcano_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Local_Host_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Local_Host_3440x1440_thumbnail.png)</a>
 <a href=7160x2160/Princess_Mononoke_by_Paul_Nong_7160x2160.png target=_blank>![Credit: bearandlager](7160x2160/Princess_Mononoke_by_Paul_Nong_7160x2160_thumbnail.png)</a>
+<a href=8192x3430/Mountain_Range_8192x3430.jpeg target=_blank>![Credit: rooliebong](8192x3430/Mountain_Range_8192x3430_thumbnail.jpeg)</a>
