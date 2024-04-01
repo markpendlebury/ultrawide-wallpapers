@@ -98,27 +98,3 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/ZTZm28Uw.png target=_blank>![Credit: Unknown](5120x1440/ZTZm28Uw_thumbnail.png)</a>
 <a href=5120x1440/XyrcdZobNE.jpg target=_blank>![Credit: Unknown](5120x1440/XyrcdZobNE_thumbnail.jpg)</a>
 
-<a href=3440x1440/Thundercats_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Thundercats_3440x1440_thumbnail.png)</a>
-<a href=3440x1440/Background_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Background_3440x1440_thumbnail.png)</a>
-<a href=3440x1440/The_Exorcist_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/The_Exorcist_3440x1440_thumbnail.png)</a>
-<a href=5160x2160/Waves_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Waves_5160x2160_thumbnail.png)</a>
-<a href=6880x2880/Non_Linear_6880x2880.png target=_blank>![Credit: --SaL--](6880x2880/Non_Linear_6880x2880_thumbnail.png)</a>
-<a href=3440x1440/Organic_Background_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Organic_Background_3440x1440_thumbnail.png)</a>
-<a href=3440x1440/Dark_Abstract_3440x1440.png target=_blank>![Credit: lhurtado](3440x1440/Dark_Abstract_3440x1440_thumbnail.png)</a>
-<a href=3440x1440/Forrest_and_Lake_3440x1440.png target=_blank>![Credit: ELTaco88](3440x1440/Forrest_and_Lake_3440x1440_thumbnail.png)</a>
-<a href=3440x1440/Thundercats[3440x1440].png target=_blank>![Credit: qazifaran](3440x1440/Thundercats[3440x1440]_thumbnail.png)</a>
-<a href=3440x1440/Background[3440x1440].png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Background[3440x1440]_thumbnail.png)</a>
-<a href=3440x1440/TheExorcist[3440x1440].png target=_blank>![Credit: qazifaran](3440x1440/TheExorcist[3440x1440]_thumbnail.png)</a>
-<a href=6880x2880/NonLinear[6880x2880].png target=_blank>![Credit: --SaL--](6880x2880/NonLinear[6880x2880]_thumbnail.png)</a>
-<a href=5160x2160/Waves[5160x2160].png target=_blank>![Credit: rooliebong](5160x2160/Waves[5160x2160]_thumbnail.png)</a>
-<a href=3440x1440/OrganicBackground[3440x1440].png target=_blank>![Credit: DongKwang13](3440x1440/OrganicBackground[3440x1440]_thumbnail.png)</a>
-<a href=3440x1440/0wrnd9rr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/0wrnd9rr4crc1_thumbnail.png)</a>
-<a href=3440x1440/bzf8larr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/bzf8larr4crc1_thumbnail.png)</a>
-<a href=3440x1440/qyte7arr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/qyte7arr4crc1_thumbnail.png)</a>
-<a href=3440x1440/crc7qbrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/crc7qbrr4crc1_thumbnail.png)</a>
-<a href=3440x1440/pixtzbrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/pixtzbrr4crc1_thumbnail.png)</a>
-<a href=3440x1440/p6z2kdrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/p6z2kdrr4crc1_thumbnail.png)</a>
-<a href=3440x1440/fs9uhfrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/fs9uhfrr4crc1_thumbnail.png)</a>
-<a href=3440x1440/dqd4rfrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/dqd4rfrr4crc1_thumbnail.png)</a>
-<a href=3440x1440/f2fgxfrr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/f2fgxfrr4crc1_thumbnail.png)</a>
-<a href=3440x1440/u7udpirr4crc1.png target=_blank>![Credit: lhurtado](3440x1440/u7udpirr4crc1_thumbnail.png)</a>
