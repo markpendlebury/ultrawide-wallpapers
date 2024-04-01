@@ -196,3 +196,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Dr_Strangelove_3440x1440.png target=_blank>![Credit: --SaL--](3440x1440/Dr_Strangelove_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Clockwork_Circus_Color_3440x1440.jpg target=_blank>![Credit: sirgerg2](3440x1440/Clockwork_Circus_Color_3440x1440_thumbnail.jpg)</a>
 <a href=3440x1440/Surfer_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Surfer_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Nepal_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Nepal_5160x2160_thumbnail.png)</a>
