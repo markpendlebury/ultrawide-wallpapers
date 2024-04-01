@@ -215,3 +215,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Planet_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Planet_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/PostandBeam_Residence_by_Syd_Mead_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/PostandBeam_Residence_by_Syd_Mead_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Minimal_Pack_9_3440x1440_0.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Minimal_Pack_9_3440x1440_1.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_1_thumbnail.png)</a>
