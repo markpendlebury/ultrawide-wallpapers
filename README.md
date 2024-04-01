@@ -110,3 +110,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Jeff_Wayne_War_Of_The_Worlds_3440x1440.png target=_blank>![Credit: --SaL--](3440x1440/Jeff_Wayne_War_Of_The_Worlds_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Cafe_Lights_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Cafe_Lights_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Thundercats[3440x1440].png target=_blank>![Credit: qazifaran](3440x1440/Thundercats[3440x1440]_thumbnail.png)</a>
+<a href=3440x1440/Background[3440x1440].png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Background[3440x1440]_thumbnail.png)</a>
