@@ -236,3 +236,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Minimal_Pack_9_3440x1440_19.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_19_thumbnail.png)</a>
 <a href=5120x2160/Swimming_5120x2160.jpeg target=_blank>![Credit: SaL](5120x2160/Swimming_5120x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/untitled_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/untitled_7680x2160_thumbnail.jpeg)</a>
+<a href=5160x2160/untitled_5160x2160_0.jpg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_0_thumbnail.jpg)</a>
