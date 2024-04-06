@@ -261,3 +261,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Banishers_3440x1440.png target=_blank>![Credit: Aleksanterinleivos](3440x1440/Banishers_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Cyber_Mars_3440x1440.png target=_blank>![Credit: Aleksanterinleivos](3440x1440/Cyber_Mars_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Scorched_Earth_by_Daniel_Conway_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Scorched_Earth_by_Daniel_Conway_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Vector_Control_Upscaled_5160x2160.jpeg target=_blank>![Credit: SaL](5160x2160/Vector_Control_Upscaled_5160x2160_thumbnail.jpeg)</a>
