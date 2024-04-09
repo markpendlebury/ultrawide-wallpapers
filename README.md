@@ -267,3 +267,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5220x2250/Crow_and_Layered_Waves_5220x2250.png target=_blank>![Credit: PCLoadR](5220x2250/Crow_and_Layered_Waves_5220x2250_thumbnail.png)</a>
 <a href=7680x2160/Stars_7680x2160.jpeg target=_blank>![Credit: HeavyElderberry9585](7680x2160/Stars_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Dune_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Dune_3440x1440_thumbnail.png)</a>
+<a href=3840x1600/Crystal_Tree_3840x1600.jpeg target=_blank>![Credit: TerriblyAdjunct](3840x1600/Crystal_Tree_3840x1600_thumbnail.jpeg)</a>
