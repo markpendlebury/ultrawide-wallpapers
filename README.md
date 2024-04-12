@@ -292,3 +292,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Art_of_Hua_Lu_5160x2160_2.jpg target=_blank>![Credit: DongKwang13](5160x2160/Art_of_Hua_Lu_5160x2160_2_thumbnail.jpg)</a>
 <a href=5120x2160/River_by_Leksø_Tiger_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/River_by_Leksø_Tiger_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Bad_AI_The_Wild_Man_of_Wonga_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Bad_AI_The_Wild_Man_of_Wonga_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Interceptor_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Interceptor_3440x1440_thumbnail.jpeg)</a>
