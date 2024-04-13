@@ -294,3 +294,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Bad_AI_The_Wild_Man_of_Wonga_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Bad_AI_The_Wild_Man_of_Wonga_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Interceptor_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Interceptor_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Treasure_Island_Illustrated_by_N_C_Wyeth_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Treasure_Island_Illustrated_by_N_C_Wyeth_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/The_Dolomites_Tre_Cime_di_Lavaredo_5160x2160.jpeg target=_blank>![Credit: rooliebong](5160x2160/The_Dolomites_Tre_Cime_di_Lavaredo_5160x2160_thumbnail.jpeg)</a>
