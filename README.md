@@ -296,3 +296,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Treasure_Island_Illustrated_by_N_C_Wyeth_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Treasure_Island_Illustrated_by_N_C_Wyeth_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/The_Dolomites_Tre_Cime_di_Lavaredo_5160x2160.jpeg target=_blank>![Credit: rooliebong](5160x2160/The_Dolomites_Tre_Cime_di_Lavaredo_5160x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Aurora_from_Space_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Aurora_from_Space_3440x1440_thumbnail.jpeg)</a>
+<a href=6720x2880/Red_Betta_OLED_6720x2880.png target=_blank>![Credit: phamat0n](6720x2880/Red_Betta_OLED_6720x2880_thumbnail.png)</a>
