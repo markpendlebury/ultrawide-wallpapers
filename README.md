@@ -299,3 +299,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6720x2880/Red_Betta_OLED_6720x2880.png target=_blank>![Credit: phamat0n](6720x2880/Red_Betta_OLED_6720x2880_thumbnail.png)</a>
 <a href=3440x1440/Sea_Monster_Repost_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Sea_Monster_Repost_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Blood_Meridian_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Blood_Meridian_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/NCR_3440x1440.png target=_blank>![Credit: ezb14](3440x1440/NCR_3440x1440_thumbnail.png)</a>
