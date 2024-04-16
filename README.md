@@ -316,3 +316,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Edifice_3440x1440_12.jpg target=_blank>![Credit: sirgerg2](3440x1440/Edifice_3440x1440_12_thumbnail.jpg)</a>
 <a href=3440x1440/Edifice_3440x1440_13.jpg target=_blank>![Credit: sirgerg2](3440x1440/Edifice_3440x1440_13_thumbnail.jpg)</a>
 <a href=3440x1440/Edifice_3440x1440_14.jpg target=_blank>![Credit: sirgerg2](3440x1440/Edifice_3440x1440_14_thumbnail.jpg)</a>
+<a href=3440x1440/Glowfi_3440x1440_0.png target=_blank>![Credit: lhurtado](3440x1440/Glowfi_3440x1440_0_thumbnail.png)</a>
