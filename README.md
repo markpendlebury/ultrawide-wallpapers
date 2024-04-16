@@ -320,3 +320,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Glowfi_3440x1440_1.png target=_blank>![Credit: lhurtado](3440x1440/Glowfi_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/Glowfi_3440x1440_2.png target=_blank>![Credit: lhurtado](3440x1440/Glowfi_3440x1440_2_thumbnail.png)</a>
 <a href=5160x2160/untitled_5160x2160.jpeg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_thumbnail.jpeg)</a>
+<a href=5120x1440/Pastel_Breaks_5120x1440.jpeg target=_blank>![Credit: IconicNunb](5120x1440/Pastel_Breaks_5120x1440_thumbnail.jpeg)</a>
