@@ -302,3 +302,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/NCR_3440x1440.png target=_blank>![Credit: ezb14](3440x1440/NCR_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Island_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Island_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Edifice_3440x1440_0.jpg target=_blank>![Credit: sirgerg2](3440x1440/Edifice_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Edifice_3440x1440_1.jpg target=_blank>![Credit: sirgerg2](3440x1440/Edifice_3440x1440_1_thumbnail.jpg)</a>
