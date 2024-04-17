@@ -334,3 +334,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/robot_+_rust_+_dust_+_girl_3440x1440_1.png target=_blank>![Credit: 1oo1o11o](3440x1440/robot_+_rust_+_dust_+_girl_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/robot_+_rust_+_dust_+_girl_3440x1440_2.png target=_blank>![Credit: 1oo1o11o](3440x1440/robot_+_rust_+_dust_+_girl_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/robot_+_rust_+_dust_+_girl_3440x1440_3.png target=_blank>![Credit: 1oo1o11o](3440x1440/robot_+_rust_+_dust_+_girl_3440x1440_3_thumbnail.png)</a>
+<a href=3440x1440/RDR2_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/RDR2_3440x1440_thumbnail.png)</a>
