@@ -329,3 +329,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/strands_3440x1440_1.png target=_blank>![Credit: Ooh_Cyanide](3440x1440/strands_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/strands_3440x1440_2.png target=_blank>![Credit: Ooh_Cyanide](3440x1440/strands_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/strands_3440x1440_3.png target=_blank>![Credit: Ooh_Cyanide](3440x1440/strands_3440x1440_3_thumbnail.png)</a>
+<a href=3440x1440/Into_the_Storm_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Into_the_Storm_3440x1440_thumbnail.jpeg)</a>
