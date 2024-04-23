@@ -384,3 +384,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Steel_Sphere_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Steel_Sphere_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Tower_5160x2160.jpeg target=_blank>![Credit: Goosephat](5160x2160/Tower_5160x2160_thumbnail.jpeg)</a>
 <a href=3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_0.png target=_blank>![Credit: BeardedOni](3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_0_thumbnail.png)</a>
+<a href=3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_1.png target=_blank>![Credit: BeardedOni](3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_1_thumbnail.png)</a>
