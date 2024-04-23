@@ -379,3 +379,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=8192x2304/coffee_girl_second_try_8192x2304.png target=_blank>![Credit: 1oo1o11o](8192x2304/coffee_girl_second_try_8192x2304_thumbnail.png)</a>
 <a href=3440x1440/Astral_Realm_3440x1440.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Astral_Realm_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Fallout_Minimal_Wallpaper_3440x1440_0.png target=_blank>![Credit: LucaffoGameDev](3440x1440/Fallout_Minimal_Wallpaper_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Fallout_Minimal_Wallpaper_3440x1440_1.png target=_blank>![Credit: LucaffoGameDev](3440x1440/Fallout_Minimal_Wallpaper_3440x1440_1_thumbnail.png)</a>
