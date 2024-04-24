@@ -386,3 +386,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_0.png target=_blank>![Credit: BeardedOni](3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_0_thumbnail.png)</a>
 <a href=3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_1.png target=_blank>![Credit: BeardedOni](3440x1400/Final_Fantasy_VII_Remake_+_Rebirth_3440x1400_1_thumbnail.png)</a>
 <a href=3440x1440/Cyberdyne_Skynet_Systems_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Cyberdyne_Skynet_Systems_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/The_Batman_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/The_Batman_3440x1440_thumbnail.png)</a>
