@@ -389,3 +389,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/The_Batman_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/The_Batman_3440x1440_thumbnail.png)</a>
 <a href=3200x1200/The_View_From_Atop_Kukulcan_2003_3200x1200.jpeg target=_blank>![Credit: z7q2](3200x1200/The_View_From_Atop_Kukulcan_2003_3200x1200_thumbnail.jpeg)</a>
 <a href=5120x1440/Warhammer_40K_5120x1440.jpeg target=_blank>![Credit: bearandlager](5120x1440/Warhammer_40K_5120x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Desperado_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Desperado_3440x1440_thumbnail.png)</a>
