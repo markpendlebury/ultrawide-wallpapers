@@ -396,3 +396,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Satoru_Gojo_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Satoru_Gojo_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Phoenix_out_of_the_ashes_5120x1440.jpeg target=_blank>![Credit: Sp00ner87](5120x1440/Phoenix_out_of_the_ashes_5120x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Stalker_2_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Stalker_2_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Man_Ray_3440x1440.jpeg target=_blank>![Credit: SaL](3440x1440/Man_Ray_3440x1440_thumbnail.jpeg)</a>
