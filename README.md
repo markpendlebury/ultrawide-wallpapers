@@ -416,3 +416,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Landscape_Sunset_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Landscape_Sunset_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Rocky_River_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Rocky_River_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x2160/In_the_beginning_Stonestown_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/In_the_beginning_Stonestown_5120x2160_thumbnail.png)</a>
+<a href=3840x1080/Manor_Lords_3840x1080_0.jpg target=_blank>![Credit: Big_Gwinga](3840x1080/Manor_Lords_3840x1080_0_thumbnail.jpg)</a>
