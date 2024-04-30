@@ -413,3 +413,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Good_Bad_Ugly_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Good_Bad_Ugly_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Minimalist_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Minimalist_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x2160/One_World_Trade_Center_shimmers_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/One_World_Trade_Center_shimmers_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Landscape_Sunset_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Landscape_Sunset_3440x1440_thumbnail.png)</a>
