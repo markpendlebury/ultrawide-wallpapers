@@ -446,3 +446,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1600/The_Cub_2_3840x1600_17.jpg target=_blank>![Credit: bullsized](3840x1600/The_Cub_2_3840x1600_17_thumbnail.jpg)</a>
 <a href=3840x1600/The_Cub_2_3840x1600_18.jpg target=_blank>![Credit: bullsized](3840x1600/The_Cub_2_3840x1600_18_thumbnail.jpg)</a>
 <a href=3840x1600/The_Cub_2_3840x1600_19.jpg target=_blank>![Credit: bullsized](3840x1600/The_Cub_2_3840x1600_19_thumbnail.jpg)</a>
+<a href=3440x1440/Attitude_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Attitude_3440x1440_thumbnail.jpeg)</a>
