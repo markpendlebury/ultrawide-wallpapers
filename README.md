@@ -450,3 +450,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Light_of_Dawn_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Light_of_Dawn_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Attack_on_Titan__Sasha_5120x1440.jpeg target=_blank>![Credit: AggressiveFoodStamps](5120x1440/Attack_on_Titan__Sasha_5120x1440_thumbnail.jpeg)</a>
 <a href=3820x1600/Deadpool_3820x1600.jpeg target=_blank>![Credit: TerriblyAdjunct](3820x1600/Deadpool_3820x1600_thumbnail.jpeg)</a>
+<a href=5160x2160/Bar_Cats_5160x2160.jpeg target=_blank>![Credit: SaL](5160x2160/Bar_Cats_5160x2160_thumbnail.jpeg)</a>
