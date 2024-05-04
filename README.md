@@ -452,3 +452,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3820x1600/Deadpool_3820x1600.jpeg target=_blank>![Credit: TerriblyAdjunct](3820x1600/Deadpool_3820x1600_thumbnail.jpeg)</a>
 <a href=5160x2160/Bar_Cats_5160x2160.jpeg target=_blank>![Credit: SaL](5160x2160/Bar_Cats_5160x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Spike_Spiegel_Cowboy_Bebop_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Spike_Spiegel_Cowboy_Bebop_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Stained_Glass_3440x1440.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Stained_Glass_3440x1440_thumbnail.png)</a>
