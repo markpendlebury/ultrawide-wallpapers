@@ -467,3 +467,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x210/Singularity_5160x210_5.jpg target=_blank>![Credit: SaL](5160x210/Singularity_5160x210_5_thumbnail.jpg)</a>
 <a href=5160x210/Singularity_5160x210_6.jpg target=_blank>![Credit: SaL](5160x210/Singularity_5160x210_6_thumbnail.jpg)</a>
 <a href=5160x210/Singularity_5160x210_7.jpg target=_blank>![Credit: SaL](5160x210/Singularity_5160x210_7_thumbnail.jpg)</a>
+<a href=5160x210/Singularity_5160x210_8.jpg target=_blank>![Credit: SaL](5160x210/Singularity_5160x210_8_thumbnail.jpg)</a>
