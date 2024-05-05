@@ -460,3 +460,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Sharks_3440x1440_4.jpg target=_blank>![Credit: DongKwang13](3440x1440/Sharks_3440x1440_4_thumbnail.jpg)</a>
 <a href=3440x1440/Sharks_3440x1440_5.jpg target=_blank>![Credit: DongKwang13](3440x1440/Sharks_3440x1440_5_thumbnail.jpg)</a>
 <a href=5160x210/Singularity_5160x210_0.jpg target=_blank>![Credit: SaL](5160x210/Singularity_5160x210_0_thumbnail.jpg)</a>
+<a href=5160x210/Singularity_5160x210_1.jpg target=_blank>![Credit: SaL](5160x210/Singularity_5160x210_1_thumbnail.jpg)</a>
