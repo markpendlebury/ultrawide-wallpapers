@@ -482,3 +482,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Bluebells_Wood_5160x2160.jpeg target=_blank>![Credit: rooliebong](5160x2160/Bluebells_Wood_5160x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Skateboard_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Skateboard_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Jennie_from_BLACKPINK_Kim_Jennie_3440x1440.png target=_blank>![Credit: MadMort](3440x1440/Jennie_from_BLACKPINK_Kim_Jennie_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Lamborghini_Terzo_Millennio_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Lamborghini_Terzo_Millennio_3440x1440_thumbnail.jpeg)</a>
