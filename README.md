@@ -497,3 +497,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/working_on_some_oled_329_5120x1440_wallpapers_4.png target=_blank>![Credit: Suitable_Cod_6356](5120x1440/working_on_some_oled_329_5120x1440_wallpapers_4_thumbnail.png)</a>
 <a href=5120x1440/working_on_some_oled_329_5120x1440_wallpapers_5.png target=_blank>![Credit: Suitable_Cod_6356](5120x1440/working_on_some_oled_329_5120x1440_wallpapers_5_thumbnail.png)</a>
 <a href=5120x1440/working_on_some_oled_329_5120x1440_wallpapers_6.png target=_blank>![Credit: Suitable_Cod_6356](5120x1440/working_on_some_oled_329_5120x1440_wallpapers_6_thumbnail.png)</a>
+<a href=5120x1440/working_on_some_oled_329_5120x1440_wallpapers_7.png target=_blank>![Credit: Suitable_Cod_6356](5120x1440/working_on_some_oled_329_5120x1440_wallpapers_7_thumbnail.png)</a>
