@@ -524,3 +524,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Astral_Pets_3440x1440_3.jpg target=_blank>![Credit: DongKwang13](3440x1440/Astral_Pets_3440x1440_3_thumbnail.jpg)</a>
 <a href=3440x1440/Astral_Pets_3440x1440_4.jpg target=_blank>![Credit: DongKwang13](3440x1440/Astral_Pets_3440x1440_4_thumbnail.jpg)</a>
 <a href=3440x1440/Astral_Pets_3440x1440_5.jpg target=_blank>![Credit: DongKwang13](3440x1440/Astral_Pets_3440x1440_5_thumbnail.jpg)</a>
+<a href=5120x1440/Graphic_Romanticism_5120x1440.jpeg target=_blank>![Credit: bearandlager](5120x1440/Graphic_Romanticism_5120x1440_thumbnail.jpeg)</a>
