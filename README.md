@@ -528,3 +528,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/New_Zealand_from_Orbit_3440x1440.jpeg target=_blank>![Credit: SirJBar](3440x1440/New_Zealand_from_Orbit_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/The_Crow_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/The_Crow_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Ormal_by_Artist_Andrey_Maximov_5160x2160.jpeg target=_blank>![Credit: Goosephat](5160x2160/Ormal_by_Artist_Andrey_Maximov_5160x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Lost_on_the_Way_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Lost_on_the_Way_3440x1440_thumbnail.png)</a>
