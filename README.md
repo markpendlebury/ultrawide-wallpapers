@@ -554,3 +554,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Test__Uploaded_with_2nd_Gen_UI_3440x1440_6.jpg target=_blank>![Credit: SaL](3440x1440/Test__Uploaded_with_2nd_Gen_UI_3440x1440_6_thumbnail.jpg)</a>
 <a href=3440x1440/Planet_Earth_Art_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Planet_Earth_Art_3440x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Lady_Liberty_5160x2160.jpeg target=_blank>![Credit: rooliebong](5160x2160/Lady_Liberty_5160x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Tears_of_the_Kingdom_Anniversary_3440x1440.jpeg target=_blank>![Credit: lockee0](3440x1440/Tears_of_the_Kingdom_Anniversary_3440x1440_thumbnail.jpeg)</a>
