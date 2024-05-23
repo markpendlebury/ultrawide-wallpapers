@@ -557,3 +557,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Tears_of_the_Kingdom_Anniversary_3440x1440.jpeg target=_blank>![Credit: lockee0](3440x1440/Tears_of_the_Kingdom_Anniversary_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Ghost_of_Tsushima_Hidden_Spring_3440x1440.jpeg target=_blank>![Credit: Bradley_Of_Thorofare](3440x1440/Ghost_of_Tsushima_Hidden_Spring_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Ghost_of_Tsushima_Hot_Springs_3440x1440.jpeg target=_blank>![Credit: Bradley_Of_Thorofare](3440x1440/Ghost_of_Tsushima_Hot_Springs_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/New_Babylon_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/New_Babylon_3440x1440_thumbnail.jpeg)</a>
