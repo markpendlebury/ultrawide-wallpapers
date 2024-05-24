@@ -561,3 +561,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/A_glass_of_adventure_3440x1440.jpeg target=_blank>![Credit: mjswooper](3440x1440/A_glass_of_adventure_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Warp_Tunnel_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Warp_Tunnel_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Warp_Tunnel_7680x2160.jpeg target=_blank>![Credit: DongKwang13](7680x2160/Warp_Tunnel_7680x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Senua's_Saga_Hellblade_II_3440x1440.jpeg target=_blank>![Credit: Pec0ne](3440x1440/Senua's_Saga_Hellblade_II_3440x1440_thumbnail.jpeg)</a>
