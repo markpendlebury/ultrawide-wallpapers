@@ -568,3 +568,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Hellblade_2_3440_x_1440_3.png target=_blank>![Credit: SanboneSolo](3440x1440/Hellblade_2_3440_x_1440_3_thumbnail.png)</a>
 <a href=3440x1440/Hellblade_2_3440_x_1440_4.png target=_blank>![Credit: SanboneSolo](3440x1440/Hellblade_2_3440_x_1440_4_thumbnail.png)</a>
 <a href=3440x1440/Hellblade_2_3440_x_1440_5.png target=_blank>![Credit: SanboneSolo](3440x1440/Hellblade_2_3440_x_1440_5_thumbnail.png)</a>
+<a href=5160x2160/Red_and_Blue_Dancing_Colors__Upscaled_5160x2160.jpeg target=_blank>![Credit: Goosephat](5160x2160/Red_and_Blue_Dancing_Colors__Upscaled_5160x2160_thumbnail.jpeg)</a>
