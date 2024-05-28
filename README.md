@@ -601,3 +601,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Hair_Bear_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Hair_Bear_3440x1440_thumbnail.png)</a>
 <a href=1600x669/I_cropped_this_OPM_panel_for_43x18_1600x669.png target=_blank>![Credit: East_Court_7423](1600x669/I_cropped_this_OPM_panel_for_43x18_1600x669_thumbnail.png)</a>
 <a href=3440x1440/Sierra_Nevada__The_Granite_Fields_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Sierra_Nevada__The_Granite_Fields_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/A_mystical_aura_in_Space_5120x1440.jpeg target=_blank>![Credit: Sp00ner87](5120x1440/A_mystical_aura_in_Space_5120x1440_thumbnail.jpeg)</a>
