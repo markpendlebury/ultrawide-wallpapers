@@ -604,3 +604,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/A_mystical_aura_in_Space_5120x1440.jpeg target=_blank>![Credit: Sp00ner87](5120x1440/A_mystical_aura_in_Space_5120x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Colourful_Smoke_Background_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Colourful_Smoke_Background_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/One_for_the_Brits_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/One_for_the_Brits_3440x1440_thumbnail.jpeg)</a>
+<a href=3840x1608/Pyramids_3840x1608.jpeg target=_blank>![Credit: TerriblyAdjunct](3840x1608/Pyramids_3840x1608_thumbnail.jpeg)</a>
