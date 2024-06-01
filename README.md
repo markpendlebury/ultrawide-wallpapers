@@ -631,3 +631,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Various_SciFi_3440x1440_12.jpg target=_blank>![Credit: Goosephat](3440x1440/Various_SciFi_3440x1440_12_thumbnail.jpg)</a>
 <a href=3440x1440/Various_SciFi_3440x1440_13.jpg target=_blank>![Credit: Goosephat](3440x1440/Various_SciFi_3440x1440_13_thumbnail.jpg)</a>
 <a href=3440x1440/Streamers_3440x1440.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Streamers_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Purple_Planet_Eater_3440x1440_0.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Purple_Planet_Eater_3440x1440_0_thumbnail.png)</a>
