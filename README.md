@@ -680,3 +680,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/lava_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/lava_7680x2160_thumbnail.jpeg)</a>
 <a href=4676x1959/NASA_Juno_view_of_Jupiters_Moon_IO_4676x1959.png target=_blank>![Credit: SaL](4676x1959/NASA_Juno_view_of_Jupiters_Moon_IO_4676x1959_thumbnail.png)</a>
 <a href=3440x1440/Senuas_Saga_Hellblade_II_3440x1440_0.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senuas_Saga_Hellblade_II_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Senuas_Saga_Hellblade_II_3440x1440_1.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senuas_Saga_Hellblade_II_3440x1440_1_thumbnail.jpg)</a>
