@@ -714,3 +714,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Senua_s_Saga_Hellblade_II_3440x1440.jpeg target=_blank>![Credit: Pec0ne](3440x1440/Senua_s_Saga_Hellblade_II_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Assassins_Creed_Shadows___5120×1440p_0.jpg target=_blank>![Credit: Daveke77](5120x1440/Assassins_Creed_Shadows___5120×1440p_0_thumbnail.jpg)</a>
 <a href=5120x1440/Assassins_Creed_Shadows___5120×1440p_1.png target=_blank>![Credit: Daveke77](5120x1440/Assassins_Creed_Shadows___5120×1440p_1_thumbnail.png)</a>
+<a href=5120x1440/Assassins_Creed_Shadows___5120×1440p_2.png target=_blank>![Credit: Daveke77](5120x1440/Assassins_Creed_Shadows___5120×1440p_2_thumbnail.png)</a>
