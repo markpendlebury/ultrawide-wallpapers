@@ -650,3 +650,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_9.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_9_thumbnail.png)</a>
 <a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_10.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_10_thumbnail.png)</a>
 <a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_11.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_11_thumbnail.png)</a>
+<a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_12.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_12_thumbnail.png)</a>
