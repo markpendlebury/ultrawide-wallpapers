@@ -683,3 +683,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Senuas_Saga_Hellblade_II_3440x1440_1.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senuas_Saga_Hellblade_II_3440x1440_1_thumbnail.jpg)</a>
 <a href=3440x1440/Senuas_Saga_Hellblade_II_3440x1440_2.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senuas_Saga_Hellblade_II_3440x1440_2_thumbnail.jpg)</a>
 <a href=3440x1440/Senuas_Saga_Hellblade_II_3440x1440_3.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senuas_Saga_Hellblade_II_3440x1440_3_thumbnail.jpg)</a>
+<a href=3840X1600/Ghost_of_Tsushima_3840X1600.jpeg target=_blank>![Credit: bolo562](3840X1600/Ghost_of_Tsushima_3840X1600_thumbnail.jpeg)</a>
