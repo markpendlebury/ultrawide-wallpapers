@@ -655,3 +655,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Beach_Aerial_View_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Beach_Aerial_View_5160x2160_thumbnail.png)</a>
 <a href=3840x1600/Instrument_Series_3840x1600_0.png target=_blank>![Credit: FallDonuts](3840x1600/Instrument_Series_3840x1600_0_thumbnail.png)</a>
 <a href=3840x1600/Instrument_Series_3840x1600_1.png target=_blank>![Credit: FallDonuts](3840x1600/Instrument_Series_3840x1600_1_thumbnail.png)</a>
+<a href=3840x1600/Instrument_Series_3840x1600_2.png target=_blank>![Credit: FallDonuts](3840x1600/Instrument_Series_3840x1600_2_thumbnail.png)</a>
