@@ -686,3 +686,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840X1600/Ghost_of_Tsushima_3840X1600.jpeg target=_blank>![Credit: bolo562](3840X1600/Ghost_of_Tsushima_3840X1600_thumbnail.jpeg)</a>
 <a href=5120x1440/Through_the_black_forest__5120x1440.jpeg target=_blank>![Credit: Sp00ner87](5120x1440/Through_the_black_forest__5120x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Senuas_Saga_Hellblade_II_3440x1440.jpeg target=_blank>![Credit: Pec0ne](3440x1440/Senuas_Saga_Hellblade_II_3440x1440_thumbnail.jpeg)</a>
+<a href=4676x1959/NASA_Juno_view_of_Jupiter_s_Moon_IO_4676x1959.png target=_blank>![Credit: SaL](4676x1959/NASA_Juno_view_of_Jupiter_s_Moon_IO_4676x1959_thumbnail.png)</a>
