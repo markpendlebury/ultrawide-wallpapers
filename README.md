@@ -704,3 +704,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Blue_key_leaves_3440x1440.png target=_blank>![Credit: phamat0n](3440x1440/Blue_key_leaves_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Sierra_Nevada___The_Granite_Fields_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Sierra_Nevada___The_Granite_Fields_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Senua_s_Saga_Hellblade_II_3440x1440_0.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senua_s_Saga_Hellblade_II_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Senua_s_Saga_Hellblade_II_3440x1440_1.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senua_s_Saga_Hellblade_II_3440x1440_1_thumbnail.jpg)</a>
