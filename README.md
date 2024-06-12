@@ -737,3 +737,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Hexagons_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Hexagons_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Exoplanet_3440x1440.jpeg target=_blank>![Credit: Marcus_Nery](3440x1440/Exoplanet_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Destination_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Destination_3440x1440_thumbnail.jpeg)</a>
+<a href=5120x1440/Resident_Evil_Village_5120x1440.jpeg target=_blank>![Credit: Elite4alex](5120x1440/Resident_Evil_Village_5120x1440_thumbnail.jpeg)</a>
