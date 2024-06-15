@@ -748,3 +748,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Star_Destroyer_Bridge_7680x2160.jpeg target=_blank>![Credit: bearandlager](7680x2160/Star_Destroyer_Bridge_7680x2160_thumbnail.jpeg)</a>
 <a href=3836x1606/Mu_Cang_Chai_Vietnam_3836x1606_0.jpg target=_blank>![Credit: Tadghostal09](3836x1606/Mu_Cang_Chai_Vietnam_3836x1606_0_thumbnail.jpg)</a>
 <a href=3836x1606/Mu_Cang_Chai_Vietnam_3836x1606_1.jpg target=_blank>![Credit: Tadghostal09](3836x1606/Mu_Cang_Chai_Vietnam_3836x1606_1_thumbnail.jpg)</a>
+<a href=3440x1440/macOS_Sequoia_Wallpapers___Dump_2_3440x1440_0.png target=_blank>![Credit: ezb14](3440x1440/macOS_Sequoia_Wallpapers___Dump_2_3440x1440_0_thumbnail.png)</a>
