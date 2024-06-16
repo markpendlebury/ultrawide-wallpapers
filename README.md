@@ -772,3 +772,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Jennie_3440x1440.jpeg target=_blank>![Credit: MadMort](3440x1440/Jennie_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Azure_Shore_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Azure_Shore_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/The_Searing_Exarch_from_Path_of_Exile_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/The_Searing_Exarch_from_Path_of_Exile_3440x1440_thumbnail.png)</a>
+<a href=3840x1600/Phonograph__Gramophone_Series_3840x1600_0.png target=_blank>![Credit: FallDonuts](3840x1600/Phonograph__Gramophone_Series_3840x1600_0_thumbnail.png)</a>
