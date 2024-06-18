@@ -795,3 +795,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/AI_Downtime_3440x1440_13.jpg target=_blank>![Credit: sirgerg2](3440x1440/AI_Downtime_3440x1440_13_thumbnail.jpg)</a>
 <a href=3440x1440/AI_Downtime_3440x1440_14.jpg target=_blank>![Credit: sirgerg2](3440x1440/AI_Downtime_3440x1440_14_thumbnail.jpg)</a>
 <a href=7680x2160/Azure_Shore_7680x2160.jpeg target=_blank>![Credit: Goosephat](7680x2160/Azure_Shore_7680x2160_thumbnail.jpeg)</a>
+<a href=6880x2880/Space_Voyage_by_dpcdpc11_6880x2880.png target=_blank>![Credit: dpcdpc11](6880x2880/Space_Voyage_by_dpcdpc11_6880x2880_thumbnail.png)</a>
