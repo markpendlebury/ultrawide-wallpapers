@@ -802,3 +802,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Heavy_Metal_by_Hajime_Sorayama_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Heavy_Metal_by_Hajime_Sorayama_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/NASA_s_Cassini_Saturn_and_Titan_3440x1440.png target=_blank>![Credit: SaL](3440x1440/NASA_s_Cassini_Saturn_and_Titan_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Sandy_Beach_and_Pier_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Sandy_Beach_and_Pier_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/Ford_Greyhound_Hood_Ornament_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/Ford_Greyhound_Hood_Ornament_7680x2160_thumbnail.jpeg)</a>
