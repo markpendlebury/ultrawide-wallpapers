@@ -806,3 +806,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Star_Wars_Imperial_Stormtrooper_7680x2160.png target=_blank>![Credit: bearandlager](7680x2160/Star_Wars_Imperial_Stormtrooper_7680x2160_thumbnail.png)</a>
 <a href=3440x1440/Tropical_Paradise_Painting_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Tropical_Paradise_Painting_3440x1440_thumbnail.png)</a>
 <a href=3840x1080/Namibian_red_desert_with_dunes_and_tree_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Namibian_red_desert_with_dunes_and_tree_3840x1080_thumbnail.jpeg)</a>
+<a href=3840x1080/DOOM_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/DOOM_3840x1080_thumbnail.jpeg)</a>
