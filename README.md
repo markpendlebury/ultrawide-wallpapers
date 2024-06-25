@@ -816,3 +816,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Synthwave_Pyramid_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Synthwave_Pyramid_3840x1080_thumbnail.jpeg)</a>
 <a href=3840x1080/Battlefield_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Battlefield_3840x1080_thumbnail.jpeg)</a>
 <a href=3840x1080/Castiel_from_Supernatural_3840x1080.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Castiel_from_Supernatural_3840x1080_thumbnail.png)</a>
+<a href=3840x1080/Featherlight_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Featherlight_3840x1080_thumbnail.jpeg)</a>
