@@ -814,3 +814,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Surface_of_Moon_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Surface_of_Moon_3840x1080_thumbnail.jpeg)</a>
 <a href=3840x1080/Goldfish_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Goldfish_3840x1080_thumbnail.jpeg)</a>
 <a href=3840x1080/Synthwave_Pyramid_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Synthwave_Pyramid_3840x1080_thumbnail.jpeg)</a>
+<a href=3840x1080/Battlefield_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Battlefield_3840x1080_thumbnail.jpeg)</a>
