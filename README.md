@@ -912,3 +912,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Fantasy_Art_3440x1440_17.jpg target=_blank>![Credit: Goosephat](3440x1440/Fantasy_Art_3440x1440_17_thumbnail.jpg)</a>
 <a href=3440x1440/Nightmare_3440x1440.png target=_blank>![Credit: R3garded](3440x1440/Nightmare_3440x1440_thumbnail.png)</a>
 <a href=3840x1080/Synthwave_Dump_3840x1080_0.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Synthwave_Dump_3840x1080_0_thumbnail.jpg)</a>
+<a href=3840x1080/Synthwave_Dump_3840x1080_1.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Synthwave_Dump_3840x1080_1_thumbnail.jpg)</a>
