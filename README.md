@@ -925,3 +925,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Synthwave_Dump_3840x1080_11.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Synthwave_Dump_3840x1080_11_thumbnail.jpg)</a>
 <a href=3840x1080/Synthwave_Dump_3840x1080_12.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Synthwave_Dump_3840x1080_12_thumbnail.jpg)</a>
 <a href=5120x2160/Icons_5120x2160.jpeg target=_blank>![Credit: phamat0n](5120x2160/Icons_5120x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/NASA_Space_Shuttle_Launch_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/NASA_Space_Shuttle_Launch_3440x1440_thumbnail.png)</a>
