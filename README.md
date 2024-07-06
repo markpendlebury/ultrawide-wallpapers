@@ -928,3 +928,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/NASA_Space_Shuttle_Launch_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/NASA_Space_Shuttle_Launch_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/NASA_Space_Shuttle_Launch_7680x2160.png target=_blank>![Credit: Goosephat](7680x2160/NASA_Space_Shuttle_Launch_7680x2160_thumbnail.png)</a>
 <a href=5160x2160/Prairie_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Prairie_5160x2160_thumbnail.png)</a>
+<a href=5160x2160/Seaward_View_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Seaward_View_5160x2160_thumbnail.png)</a>
