@@ -981,3 +981,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Nature_Dump_9_3440x1440_5.png target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_9_3440x1440_5_thumbnail.png)</a>
 <a href=3440x1440/Nature_Dump_9_3440x1440_6.jpg target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_9_3440x1440_6_thumbnail.jpg)</a>
 <a href=3440x1440/Nature_Dump_9_3440x1440_7.png target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_9_3440x1440_7_thumbnail.png)</a>
+<a href=3440x1440/Nature_Dump_9_3440x1440_8.png target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_9_3440x1440_8_thumbnail.png)</a>
