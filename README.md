@@ -1082,3 +1082,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Neon_Foliage_5160x2160_0.jpg target=_blank>![Credit: DongKwang13](5160x2160/Neon_Foliage_5160x2160_0_thumbnail.jpg)</a>
 <a href=5160x2160/Neon_Foliage_5160x2160_1.jpg target=_blank>![Credit: DongKwang13](5160x2160/Neon_Foliage_5160x2160_1_thumbnail.jpg)</a>
 <a href=3440x1440/Nature_Dump_11_3440x1440_5.png target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_11_3440x1440_5_thumbnail.png)</a>
+<a href=3440x1440/Nature_Dump_11_3440x1440_6.png target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_11_3440x1440_6_thumbnail.png)</a>
