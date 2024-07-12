@@ -1178,3 +1178,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Nature_Dump_3_3440x1440_19.jpg target=_blank>![Credit: Newslastein420](3440x1440/Nature_Dump_3_3440x1440_19_thumbnail.jpg)</a>
 <a href=6880x2880/Space_Voyage_II_by_dpcdpc11_6880x2880.png target=_blank>![Credit: dpcdpc11](6880x2880/Space_Voyage_II_by_dpcdpc11_6880x2880_thumbnail.png)</a>
 <a href=3440x1440/Dust_Storm_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Dust_Storm_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/Lake_Louise_5120x2160.png target=_blank>![Credit: rooliebong](5120x2160/Lake_Louise_5120x2160_thumbnail.png)</a>
