@@ -1181,3 +1181,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Lake_Louise_5120x2160.png target=_blank>![Credit: rooliebong](5120x2160/Lake_Louise_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/The_Last_of_Us_Part_1_3440x1440.png target=_blank>![Credit: SatisfactionFuture44](3440x1440/The_Last_of_Us_Part_1_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Twilight_by_BisBiswas_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Twilight_by_BisBiswas_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Calavera_Fantástica_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Calavera_Fantástica_3440x1440_thumbnail.jpeg)</a>
