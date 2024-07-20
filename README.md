@@ -1293,3 +1293,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Some_pictures_of_Florida_2560x1080p_13.jpg target=_blank>![Credit: IEscapedFromALab](2560x1080/Some_pictures_of_Florida_2560x1080p_13_thumbnail.jpg)</a>
 <a href=2560x1080/Some_pictures_of_Florida_2560x1080p_14.jpg target=_blank>![Credit: IEscapedFromALab](2560x1080/Some_pictures_of_Florida_2560x1080p_14_thumbnail.jpg)</a>
 <a href=2560x1080/Some_pictures_of_Florida_2560x1080p_15.jpg target=_blank>![Credit: IEscapedFromALab](2560x1080/Some_pictures_of_Florida_2560x1080p_15_thumbnail.jpg)</a>
+<a href=2560x1080/Some_pictures_of_Florida_2560x1080p_16.jpg target=_blank>![Credit: IEscapedFromALab](2560x1080/Some_pictures_of_Florida_2560x1080p_16_thumbnail.jpg)</a>
