@@ -1274,3 +1274,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Earth_After_Death_3440x1440.jpeg target=_blank>![Credit: SaL](3440x1440/Earth_After_Death_3440x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Arches_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Arches_5160x2160_thumbnail.png)</a>
 <a href=2560x1080/Random_Pictures_of_Florida_2560x1080p__AIC.jpeg target=_blank>![Credit: IEscapedFromALab](2560x1080/Random_Pictures_of_Florida_2560x1080p__AIC_thumbnail.jpeg)</a>
+<a href=3440x1440/Black_Sand_2_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Black_Sand_2_3440x1440_thumbnail.png)</a>
