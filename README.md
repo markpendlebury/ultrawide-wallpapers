@@ -1277,3 +1277,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Black_Sand_2_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Black_Sand_2_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Tower_Bridge_5120x2160.jpeg target=_blank>![Credit: Basic_Extension_2120](5120x2160/Tower_Bridge_5120x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Black_Sand_1_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Black_Sand_1_3440x1440_thumbnail.png)</a>
+<a href=2560x1080/Some_pictures_of_Florida_2560x1080p_0.jpg target=_blank>![Credit: IEscapedFromALab](2560x1080/Some_pictures_of_Florida_2560x1080p_0_thumbnail.jpg)</a>
