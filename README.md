@@ -1317,3 +1317,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Dump_Mix_1_3840x1080_17.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Dump_Mix_1_3840x1080_17_thumbnail.jpg)</a>
 <a href=3840x1080/Dump_Mix_1_3840x1080_18.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Dump_Mix_1_3840x1080_18_thumbnail.jpg)</a>
 <a href=3440x1440/Waves_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Waves_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Morning_in_Miami_5160x2160_0.jpg target=_blank>![Credit: IEscapedFromALab](5160x2160/Morning_in_Miami_5160x2160_0_thumbnail.jpg)</a>
