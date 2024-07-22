@@ -1340,3 +1340,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Art_of_Sylvain_Sarrailh_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Art_of_Sylvain_Sarrailh_3440x1440_thumbnail.png)</a>
 <a href=2560x1080/Babylon_5___1993_2560x1080.jpeg target=_blank>![Credit: CKCartman](2560x1080/Babylon_5___1993_2560x1080_thumbnail.jpeg)</a>
 <a href=2560x1080/Battlestar_Galactica_2005_2560x1080_0.jpg target=_blank>![Credit: CKCartman](2560x1080/Battlestar_Galactica_2005_2560x1080_0_thumbnail.jpg)</a>
+<a href=2560x1080/Battlestar_Galactica_2005_2560x1080_1.jpg target=_blank>![Credit: CKCartman](2560x1080/Battlestar_Galactica_2005_2560x1080_1_thumbnail.jpg)</a>
