@@ -1348,3 +1348,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Naval_Cats_3440x1440_2.jpg target=_blank>![Credit: sirgerg2](3440x1440/Naval_Cats_3440x1440_2_thumbnail.jpg)</a>
 <a href=3440x1440/Naval_Cats_3440x1440_3.jpg target=_blank>![Credit: sirgerg2](3440x1440/Naval_Cats_3440x1440_3_thumbnail.jpg)</a>
 <a href=3440x1440/Naval_Cats_3440x1440_4.jpg target=_blank>![Credit: sirgerg2](3440x1440/Naval_Cats_3440x1440_4_thumbnail.jpg)</a>
+<a href=9154x3923/Surfer_Dancing_9154x3923.jpeg target=_blank>![Credit: CartographerUpbeat54](9154x3923/Surfer_Dancing_9154x3923_thumbnail.jpeg)</a>
