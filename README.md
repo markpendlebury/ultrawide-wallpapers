@@ -1343,3 +1343,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Battlestar_Galactica_2005_2560x1080_1.jpg target=_blank>![Credit: CKCartman](2560x1080/Battlestar_Galactica_2005_2560x1080_1_thumbnail.jpg)</a>
 <a href=2560x1080/Terminator_2___2_wallpapers_2560x1080_0.jpg target=_blank>![Credit: CKCartman](2560x1080/Terminator_2___2_wallpapers_2560x1080_0_thumbnail.jpg)</a>
 <a href=2560x1080/Terminator_2___2_wallpapers_2560x1080_1.jpg target=_blank>![Credit: CKCartman](2560x1080/Terminator_2___2_wallpapers_2560x1080_1_thumbnail.jpg)</a>
+<a href=3440x1440/Naval_Cats_3440x1440_0.jpg target=_blank>![Credit: sirgerg2](3440x1440/Naval_Cats_3440x1440_0_thumbnail.jpg)</a>
