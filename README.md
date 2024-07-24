@@ -1354,3 +1354,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Anomalous_by_Tegnemaskin_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Anomalous_by_Tegnemaskin_3440x1440_thumbnail.png)</a>
 <a href=3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_0.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_0_thumbnail.png)</a>
 <a href=3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_1.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_1_thumbnail.png)</a>
+<a href=3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_2.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_2_thumbnail.png)</a>
