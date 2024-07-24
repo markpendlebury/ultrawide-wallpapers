@@ -1371,3 +1371,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_16.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_16_thumbnail.png)</a>
 <a href=3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_17.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_17_thumbnail.png)</a>
 <a href=3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_18.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Artworks_by_Hiroshi_Nagai_3840x1080_18_thumbnail.png)</a>
+<a href=3840x1080/Space_Mix_Vol_2_3840x1080_0.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Space_Mix_Vol_2_3840x1080_0_thumbnail.png)</a>
