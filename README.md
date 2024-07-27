@@ -1407,3 +1407,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Fire_Chant_by_Alexey_Gogin_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Fire_Chant_by_Alexey_Gogin_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Neon_Moon_Valley_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Neon_Moon_Valley_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Oasis_Multifunction_Vehicle_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Oasis_Multifunction_Vehicle_5160x2160_thumbnail.png)</a>
+<a href=5120x1440/Neon_Moon_Valley_5120x1440.png target=_blank>![Credit: DongKwang13](5120x1440/Neon_Moon_Valley_5120x1440_thumbnail.png)</a>
