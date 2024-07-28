@@ -1412,3 +1412,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/The_Last_Supper_by_Leonardo_Da_Vinci_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/The_Last_Supper_by_Leonardo_Da_Vinci_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_0.png target=_blank>![Credit: PugMcThug](3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_0_thumbnail.png)</a>
 <a href=3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_1.png target=_blank>![Credit: PugMcThug](3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_1_thumbnail.png)</a>
+<a href=3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_2.png target=_blank>![Credit: PugMcThug](3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_2_thumbnail.png)</a>
