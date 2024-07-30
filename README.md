@@ -1415,3 +1415,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_2.png target=_blank>![Credit: PugMcThug](3440x1440/Three_Illustrations_by_Astral_Grave_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/Deadpool_&_Wolverine_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Deadpool_&_Wolverine_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Zermatt_Matterhorn_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Zermatt_Matterhorn_3440x1440_thumbnail.png)</a>
+<a href=3840x1080/Nature_Mix_Vol_1_3840x1080_0.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Nature_Mix_Vol_1_3840x1080_0_thumbnail.jpg)</a>
