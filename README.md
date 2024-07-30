@@ -1461,3 +1461,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Wallpapers_I_made_5160x2160_5.png target=_blank>![Credit: NeuralArchitect_234](5160x2160/Wallpapers_I_made_5160x2160_5_thumbnail.png)</a>
 <a href=5160x2160/Wallpapers_I_made_5160x2160_6.png target=_blank>![Credit: NeuralArchitect_234](5160x2160/Wallpapers_I_made_5160x2160_6_thumbnail.png)</a>
 <a href=5160x2160/Wallpapers_I_made_5160x2160_7.png target=_blank>![Credit: NeuralArchitect_234](5160x2160/Wallpapers_I_made_5160x2160_7_thumbnail.png)</a>
+<a href=5160x2160/Wallpapers_I_made_5160x2160_8.png target=_blank>![Credit: NeuralArchitect_234](5160x2160/Wallpapers_I_made_5160x2160_8_thumbnail.png)</a>
