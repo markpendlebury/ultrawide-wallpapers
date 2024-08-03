@@ -1507,3 +1507,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Mia_Goth_as_Maxine_Minx_in_MaXXXine_3440x1440.png target=_blank>![Credit: Dark_Arts](3440x1440/Mia_Goth_as_Maxine_Minx_in_MaXXXine_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Kodachrome_3440x1440.png target=_blank>![Credit: Dark_Arts](3440x1440/Kodachrome_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Red_Nebula_3440_x_1440.png target=_blank>![Credit: SockpoppetDraws](3440x1440/Red_Nebula_3440_x_1440_thumbnail.png)</a>
+<a href=3440x1440/Green_Fern_Leaves_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Green_Fern_Leaves_3440x1440_thumbnail.png)</a>
