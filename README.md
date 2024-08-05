@@ -1506,3 +1506,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Vertical_Neon_Lights_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Vertical_Neon_Lights_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Island_of_Oracles_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Island_of_Oracles_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Gaze_3440x1440_0.jpg target=_blank>![Credit: sirgerg2](3440x1440/Gaze_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Gaze_3440x1440_1.jpg target=_blank>![Credit: sirgerg2](3440x1440/Gaze_3440x1440_1_thumbnail.jpg)</a>
