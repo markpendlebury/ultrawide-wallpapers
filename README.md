@@ -232,12 +232,8 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Minimal_Pack_9_3440x1440_15.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_15_thumbnail.png)</a>
 <a href=3440x1440/Minimal_Pack_9_3440x1440_16.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_16_thumbnail.png)</a>
 <a href=3440x1440/Minimal_Pack_9_3440x1440_17.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_17_thumbnail.png)</a>
-<a href=3440x1440/Minimal_Pack_9_3440x1440_18.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_18_thumbnail.png)</a>
-<a href=3440x1440/Minimal_Pack_9_3440x1440_19.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_19_thumbnail.png)</a>
-<a href=5120x2160/Swimming_5120x2160.jpeg target=_blank>![Credit: SaL](5120x2160/Swimming_5120x2160_thumbnail.jpeg)</a>
-<a href=7680x2160/untitled_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/untitled_7680x2160_thumbnail.jpeg)</a>
-<a href=5160x2160/untitled_5160x2160_0.jpg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_0_thumbnail.jpg)</a>
-<a href=5160x2160/untitled_5160x2160_1.jpg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_1_thumbnail.jpg)</a>
+<a href=3440x1440/Minimal_Pack_9_3440x1440_18.png target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_9_3440x1440_18_thumbnail.png)</a><a href=4676x1959/NASA_Juno_view_of_Jupiter's_Moon_IO_4676x1959.png target=_blank>![Credit: SaL](4676x1959/NASA_Juno_view_of_Jupiter's_Moon_IO_4676x1959_thumbnail.png)</a>
+
 <a href=5160x2160/untitled_5160x2160_2.jpg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_2_thumbnail.jpg)</a>
 <a href=5160x2160/untitled_5160x2160_3.jpg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_3_thumbnail.jpg)</a>
 <a href=5160x2160/untitled_5160x2160_4.jpg target=_blank>![Credit: jesterjunk](5160x2160/untitled_5160x2160_4_thumbnail.jpg)</a>
@@ -561,7 +557,6 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/A_glass_of_adventure_3440x1440.jpeg target=_blank>![Credit: mjswooper](3440x1440/A_glass_of_adventure_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Warp_Tunnel_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Warp_Tunnel_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Warp_Tunnel_7680x2160.jpeg target=_blank>![Credit: DongKwang13](7680x2160/Warp_Tunnel_7680x2160_thumbnail.jpeg)</a>
-<a href=3440x1440/Senua's_Saga_Hellblade_II_3440x1440.jpeg target=_blank>![Credit: Pec0ne](3440x1440/Senua's_Saga_Hellblade_II_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Hellblade_2_3440_x_1440_0.png target=_blank>![Credit: SanboneSolo](3440x1440/Hellblade_2_3440_x_1440_0_thumbnail.png)</a>
 <a href=3440x1440/Hellblade_2_3440_x_1440_1.png target=_blank>![Credit: SanboneSolo](3440x1440/Hellblade_2_3440_x_1440_1_thumbnail.png)</a>
 <a href=3440x1440/Hellblade_2_3440_x_1440_2.png target=_blank>![Credit: SanboneSolo](3440x1440/Hellblade_2_3440_x_1440_2_thumbnail.png)</a>
@@ -594,10 +589,6 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Minimal_Pack_10_3440x1440_19.jpg target=_blank>![Credit: Goosephat](3440x1440/Minimal_Pack_10_3440x1440_19_thumbnail.jpg)</a>
 <a href=3440x1440/Robot_Smash_3440x1440.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Robot_Smash_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Hell_5160x2160.jpeg target=_blank>![Credit: SaL](5160x2160/Hell_5160x2160_thumbnail.jpeg)</a>
-<a href=3440x1440/Senua's_Saga_Hellblade_II_3440x1440_0.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senua's_Saga_Hellblade_II_3440x1440_0_thumbnail.jpg)</a>
-<a href=3440x1440/Senua's_Saga_Hellblade_II_3440x1440_1.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senua's_Saga_Hellblade_II_3440x1440_1_thumbnail.jpg)</a>
-<a href=3440x1440/Senua's_Saga_Hellblade_II_3440x1440_2.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senua's_Saga_Hellblade_II_3440x1440_2_thumbnail.jpg)</a>
-<a href=3440x1440/Senua's_Saga_Hellblade_II_3440x1440_3.jpg target=_blank>![Credit: Pec0ne](3440x1440/Senua's_Saga_Hellblade_II_3440x1440_3_thumbnail.jpg)</a>
 <a href=3440x1440/Hair_Bear_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Hair_Bear_3440x1440_thumbnail.png)</a>
 <a href=1600x669/I_cropped_this_OPM_panel_for_43x18_1600x669.png target=_blank>![Credit: East_Court_7423](1600x669/I_cropped_this_OPM_panel_for_43x18_1600x669_thumbnail.png)</a>
 <a href=3440x1440/Sierra_Nevada__The_Granite_Fields_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Sierra_Nevada__The_Granite_Fields_3440x1440_thumbnail.png)</a>
@@ -637,7 +628,6 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Cube_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Cube_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Neon_Smoke_3440x1440_0.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Neon_Smoke_3440x1440_0_thumbnail.png)</a>
 <a href=3440x1440/Neon_Smoke_3440x1440_1.png target=_blank>![Credit: xXheroinbobXx](3440x1440/Neon_Smoke_3440x1440_1_thumbnail.png)</a>
-<a href=4676x1959/NASA_Juno_view_of_Jupiter's_Moon_IO_4676x1959.png target=_blank>![Credit: SaL](4676x1959/NASA_Juno_view_of_Jupiter's_Moon_IO_4676x1959_thumbnail.png)</a>
 <a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_0.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_0_thumbnail.png)</a>
 <a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_1.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_1_thumbnail.png)</a>
 <a href=3840x1600/Colorful_Guns_and_Blasters_3840x1600_2.png target=_blank>![Credit: FallDonuts](3840x1600/Colorful_Guns_and_Blasters_3840x1600_2_thumbnail.png)</a>
