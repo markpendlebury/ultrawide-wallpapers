@@ -1548,3 +1548,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/150_new_images_added_to_my_wallpapers_7680x2160_3.jpg target=_blank>![Credit: shootthesound](7680x2160/150_new_images_added_to_my_wallpapers_7680x2160_3_thumbnail.jpg)</a>
 <a href=3440x1440/Minimalist_Wallpaperc_3440x1440.png target=_blank>![Credit: Tinah_Valih](3440x1440/Minimalist_Wallpaperc_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_1_thumbnail.jpg)</a>
