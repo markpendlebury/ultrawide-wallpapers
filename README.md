@@ -1551,3 +1551,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_1_thumbnail.jpg)</a>
 <a href=7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_2.jpg target=_blank>![Credit: shootthesound](7680x2160/A_*uckup_and_a_fix___info_in_comments_7680x2160_2_thumbnail.jpg)</a>
 <a href=7680x2160/Star_Citizen_7680x2160.jpeg target=_blank>![Credit: bearandlager](7680x2160/Star_Citizen_7680x2160_thumbnail.jpeg)</a>
+<a href=7680x2160/Sparks_7680x2160.jpeg target=_blank>![Credit: bearandlager](7680x2160/Sparks_7680x2160_thumbnail.jpeg)</a>
