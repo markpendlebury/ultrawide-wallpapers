@@ -1556,3 +1556,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Mountain_Lake_in_Trondheim_Norway_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Mountain_Lake_in_Trondheim_Norway_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Midnight_in_Iceland_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Midnight_in_Iceland_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Psychic_Mindwarp_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Psychic_Mindwarp_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/macOS_Sequoia_3440x1440_0.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/macOS_Sequoia_3440x1440_0_thumbnail.png)</a>
