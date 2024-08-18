@@ -1561,3 +1561,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/macOS_Sequoia_3440x1440_2.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/macOS_Sequoia_3440x1440_2_thumbnail.png)</a>
 <a href=5220x2160/I_made_this_one_in_ultrawide_21_9_5220x2160.png target=_blank>![Credit: InvokerSS](5220x2160/I_made_this_one_in_ultrawide_21_9_5220x2160_thumbnail.png)</a>
 <a href=3440x1440/Monstera_Enhanced_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Monstera_Enhanced_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Waves_Of_L_A_i_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Waves_Of_L_A_i_3440x1440_thumbnail.png)</a>
