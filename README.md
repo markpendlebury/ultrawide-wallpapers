@@ -1563,3 +1563,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Monstera_Enhanced_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Monstera_Enhanced_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Waves_Of_L_A_i_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Waves_Of_L_A_i_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Highway_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Highway_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/A_Matter_of_Life_and_Death_1946_3440x1440.png target=_blank>![Credit: SaL](3440x1440/A_Matter_of_Life_and_Death_1946_3440x1440_thumbnail.png)</a>
