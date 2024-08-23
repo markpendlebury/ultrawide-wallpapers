@@ -1594,3 +1594,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Revisiting_Chicago_after_13_Years_OC__5120x2160_16.jpg target=_blank>![Credit: acoolrocket](5120x2160/Revisiting_Chicago_after_13_Years_OC__5120x2160_16_thumbnail.jpg)</a>
 <a href=5120x2160/Magdalena_Bay___Mercurial_World_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Magdalena_Bay___Mercurial_World_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Radiohead___In_Rainbows_3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/Radiohead___In_Rainbows_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/The_Fellowship_Of_The_Ring_3440x1440.png target=_blank>![Credit: SaL](3440x1440/The_Fellowship_Of_The_Ring_3440x1440_thumbnail.png)</a>
