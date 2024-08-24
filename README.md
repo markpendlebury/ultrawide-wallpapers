@@ -1596,3 +1596,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Radiohead___In_Rainbows_3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/Radiohead___In_Rainbows_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/The_Fellowship_Of_The_Ring_3440x1440.png target=_blank>![Credit: SaL](3440x1440/The_Fellowship_Of_The_Ring_3440x1440_thumbnail.png)</a>
 <a href=9154x5149/Surfer_Dancing_9154x5149_photo_taken_by_me.jpeg target=_blank>![Credit: CartographerUpbeat54](9154x5149/Surfer_Dancing_9154x5149_photo_taken_by_me_thumbnail.jpeg)</a>
+<a href=3440x1440/Vader_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Vader_3440x1440_thumbnail.jpeg)</a>
