@@ -1598,3 +1598,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=9154x5149/Surfer_Dancing_9154x5149_photo_taken_by_me.jpeg target=_blank>![Credit: CartographerUpbeat54](9154x5149/Surfer_Dancing_9154x5149_photo_taken_by_me_thumbnail.jpeg)</a>
 <a href=3440x1440/Vader_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Vader_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/The_Quiet_Inn_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/The_Quiet_Inn_3440x1440_thumbnail.png)</a>
+<a href=7680x3215/Juno___Overwatch_2_Throne_of_Anubis_7680x3215.jpeg target=_blank>![Credit: Masiha](7680x3215/Juno___Overwatch_2_Throne_of_Anubis_7680x3215_thumbnail.jpeg)</a>
