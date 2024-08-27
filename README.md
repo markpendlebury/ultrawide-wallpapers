@@ -1602,3 +1602,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Approach_Storm_by_Martin_Johnson_Heade_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Approach_Storm_by_Martin_Johnson_Heade_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Shadow_over_Innsmouth_3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/Shadow_over_Innsmouth_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/I_made_a_pixel_art_forest_scene_3440x1440.png target=_blank>![Credit: ShaderKong](3440x1440/I_made_a_pixel_art_forest_scene_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Watchmen_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Watchmen_3440x1440_thumbnail.jpeg)</a>
