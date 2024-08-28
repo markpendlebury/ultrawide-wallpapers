@@ -1605,3 +1605,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Watchmen_3440x1440.jpeg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Watchmen_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x2160/Made_in_Abyss_5120x2160.png target=_blank>![Credit: DongKwang13](5120x2160/Made_in_Abyss_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Mars_by_Maciej_Rebisz_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Mars_by_Maciej_Rebisz_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/St_Nicholas_Church_by_Petra_Ramešová_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/St_Nicholas_Church_by_Petra_Ramešová_5120x2160_thumbnail.png)</a>
