@@ -1607,3 +1607,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Mars_by_Maciej_Rebisz_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Mars_by_Maciej_Rebisz_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/St_Nicholas_Church_by_Petra_Ramešová_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/St_Nicholas_Church_by_Petra_Ramešová_5120x2160_thumbnail.png)</a>
 <a href=5120x2160/The_Face_of_Creation_and_Destruction_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/The_Face_of_Creation_and_Destruction_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/have_something_like_those__3440x1440_0.jpg target=_blank>![Credit: Kernel_Panic3301](3440x1440/have_something_like_those__3440x1440_0_thumbnail.jpg)</a>
