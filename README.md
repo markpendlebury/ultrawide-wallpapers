@@ -1619,3 +1619,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Come_and_See_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Come_and_See_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Sunset_3440x1440.png target=_blank>![Credit: bearandlager](3440x1440/Sunset_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Tracer_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Tracer_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Skyrim_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Skyrim_5160x2160_thumbnail.png)</a>
