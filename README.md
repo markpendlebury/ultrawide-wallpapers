@@ -1621,3 +1621,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Tracer_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Tracer_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Skyrim_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Skyrim_5160x2160_thumbnail.png)</a>
 <a href=5120x2160/Burning_Women_2024_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Burning_Women_2024_5120x2160_thumbnail.png)</a>
+<a href=5160x2160/Mauve_blend_5160x2160.jpeg target=_blank>![Credit: phamat0n](5160x2160/Mauve_blend_5160x2160_thumbnail.jpeg)</a>
