@@ -1643,3 +1643,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Forest_Walk_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Forest_Walk_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/J_R_R_Tolkien_1892_1973_3440x1440.png target=_blank>![Credit: SaL](3440x1440/J_R_R_Tolkien_1892_1973_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Scorched_Essence_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Scorched_Essence_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Mountain_Top_House_by_BisBiswas_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Mountain_Top_House_by_BisBiswas_3440x1440_thumbnail.png)</a>
