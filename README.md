@@ -1646,3 +1646,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Mountain_Top_House_by_BisBiswas_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Mountain_Top_House_by_BisBiswas_3440x1440_thumbnail.png)</a>
 <a href=6880x2880/Reine_Norway_6880x2880.jpeg target=_blank>![Credit: torturingbatteries](6880x2880/Reine_Norway_6880x2880_thumbnail.jpeg)</a>
 <a href=3440x1440/Parallax_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Parallax_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/Midnight_Currents_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Midnight_Currents_5120x2160_thumbnail.png)</a>
