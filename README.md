@@ -1648,3 +1648,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Parallax_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Parallax_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Midnight_Currents_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Midnight_Currents_5120x2160_thumbnail.png)</a>
 <a href=5120x2160/Color_Cascade_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Color_Cascade_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Spider_Man_India___Pavitr_Prabhakar_3440x1440.jpeg target=_blank>![Credit: Tinah_Valih](3440x1440/Spider_Man_India___Pavitr_Prabhakar_3440x1440_thumbnail.jpeg)</a>
