@@ -1651,3 +1651,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Spider_Man_India___Pavitr_Prabhakar_3440x1440.jpeg target=_blank>![Credit: Tinah_Valih](3440x1440/Spider_Man_India___Pavitr_Prabhakar_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Polynesian_Paradise_Enhanced_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Polynesian_Paradise_Enhanced_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Weird_Trees_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Weird_Trees_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Small_Robot_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Small_Robot_3440x1440_thumbnail.png)</a>
