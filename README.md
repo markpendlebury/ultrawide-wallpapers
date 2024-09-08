@@ -1653,3 +1653,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Weird_Trees_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Weird_Trees_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Small_Robot_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Small_Robot_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Luminous_Motion_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Luminous_Motion_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Redsun_Sweden__3440x1440.jpeg target=_blank>![Credit: Stone0cean](3440x1440/Redsun_Sweden__3440x1440_thumbnail.jpeg)</a>
