@@ -1657,3 +1657,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Rainman_Luminescent_Tree_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Rainman_Luminescent_Tree_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/The_Dream_Garden_Mosaic_1916_7680x2160.jpeg target=_blank>![Credit: SaL](7680x2160/The_Dream_Garden_Mosaic_1916_7680x2160_thumbnail.jpeg)</a>
 <a href=5120x2160/Chicago_Sunsets_by_Shimmy_Castle_5120x2160_0.png target=_blank>![Credit: acoolrocket](5120x2160/Chicago_Sunsets_by_Shimmy_Castle_5120x2160_0_thumbnail.png)</a>
+<a href=5120x2160/Chicago_Sunsets_by_Shimmy_Castle_5120x2160_1.png target=_blank>![Credit: acoolrocket](5120x2160/Chicago_Sunsets_by_Shimmy_Castle_5120x2160_1_thumbnail.png)</a>
