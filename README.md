@@ -1661,3 +1661,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Cosmic_Waveform_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Cosmic_Waveform_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Retro_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Retro_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Floral_Radiance_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Floral_Radiance_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Metal_Gear_Solid_V_Wallpaper_3440x1440.jpeg target=_blank>![Credit: Jerricoda](3440x1440/Metal_Gear_Solid_V_Wallpaper_3440x1440_thumbnail.jpeg)</a>
