@@ -1670,3 +1670,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Zelda_Master_Works_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/Zelda_Master_Works_5120x1440_thumbnail.png)</a>
 <a href=5120x2160/Vivid_Reflection_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Vivid_Reflection_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/FemaleKnight_3440x1440.png target=_blank>![Credit: LunaMagicc](3440x1440/FemaleKnight_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Monster_play_3440x1440.png target=_blank>![Credit: LunaMagicc](3440x1440/Monster_play_3440x1440_thumbnail.png)</a>
