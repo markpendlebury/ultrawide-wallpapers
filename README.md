@@ -1674,3 +1674,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Frieren_3440x1440.jpeg target=_blank>![Credit: Sumcha](3440x1440/Frieren_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Tokyo_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Tokyo_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Lone_Palm_in_the_Desert_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Lone_Palm_in_the_Desert_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/The_Beholder_3440x1440.png target=_blank>![Credit: justinb19](3440x1440/The_Beholder_3440x1440_thumbnail.png)</a>
