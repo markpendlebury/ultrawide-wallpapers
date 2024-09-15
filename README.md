@@ -1678,3 +1678,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Cybernetic_Warfare_5120x2160.png target=_blank>![Credit: Electronic_Dreams](5120x2160/Cybernetic_Warfare_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Dracolich_vs_Mage_3440x1440.png target=_blank>![Credit: justinb19](3440x1440/Dracolich_vs_Mage_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Black_Dragon_3440x1440.png target=_blank>![Credit: justinb19](3440x1440/Black_Dragon_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Ancient_Red_Dragon_3440x1440.png target=_blank>![Credit: justinb19](3440x1440/Ancient_Red_Dragon_3440x1440_thumbnail.png)</a>
