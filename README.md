@@ -1702,3 +1702,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Black_Myth_Wukong_PC_3440x1440_17.png target=_blank>![Credit: Pec0ne](3440x1440/Black_Myth_Wukong_PC_3440x1440_17_thumbnail.png)</a>
 <a href=3440x1440/Black_Myth_Wukong_PC_3440x1440_18.png target=_blank>![Credit: Pec0ne](3440x1440/Black_Myth_Wukong_PC_3440x1440_18_thumbnail.png)</a>
 <a href=3440x1440/Black_Myth_Wukong_PC_3440x1440_19.png target=_blank>![Credit: Pec0ne](3440x1440/Black_Myth_Wukong_PC_3440x1440_19_thumbnail.png)</a>
+<a href=7680x2160/Summer_Field_7680x2160.jpeg target=_blank>![Credit: HeavyElderberry9585](7680x2160/Summer_Field_7680x2160_thumbnail.jpeg)</a>
