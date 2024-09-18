@@ -1708,3 +1708,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/St_Helens_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/St_Helens_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Alpstein_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/Alpstein_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Doom_5120x1440_0.jpg target=_blank>![Credit: freddiehaddad](5120x1440/Doom_5120x1440_0_thumbnail.jpg)</a>
+<a href=5120x1440/Doom_5120x1440_1.jpg target=_blank>![Credit: freddiehaddad](5120x1440/Doom_5120x1440_1_thumbnail.jpg)</a>
