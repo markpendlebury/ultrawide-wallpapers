@@ -1712,3 +1712,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Hellblade_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Hellblade_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/New_York_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/New_York_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Cheering_for_ya__AI__3440x1440_0.png target=_blank>![Credit: TheHoBoLoBo](3440x1440/Cheering_for_ya__AI__3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Cheering_for_ya__AI__3440x1440_1.png target=_blank>![Credit: TheHoBoLoBo](3440x1440/Cheering_for_ya__AI__3440x1440_1_thumbnail.png)</a>
