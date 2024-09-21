@@ -1724,3 +1724,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Cheering_for_ya__AI__3440x1440_10.png target=_blank>![Credit: TheHoBoLoBo](3440x1440/Cheering_for_ya__AI__3440x1440_10_thumbnail.png)</a>
 <a href=3440x1440/Optical_Effect_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Optical_Effect_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Retro_5120x1440.png target=_blank>![Credit: TerriblyAdjunct](5120x1440/Retro_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/Art_by_Alex_Kintner_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/Art_by_Alex_Kintner_5120x1440_thumbnail.png)</a>
