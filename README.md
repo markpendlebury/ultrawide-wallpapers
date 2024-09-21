@@ -1725,3 +1725,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Optical_Effect_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Optical_Effect_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Retro_5120x1440.png target=_blank>![Credit: TerriblyAdjunct](5120x1440/Retro_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Art_by_Alex_Kintner_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/Art_by_Alex_Kintner_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Edwin_Austin_Abbey_King_Lear_1898_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Edwin_Austin_Abbey_King_Lear_1898_3440x1440_thumbnail.png)</a>
