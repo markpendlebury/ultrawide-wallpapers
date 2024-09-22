@@ -1727,3 +1727,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Art_by_Alex_Kintner_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/Art_by_Alex_Kintner_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Edwin_Austin_Abbey_King_Lear_1898_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Edwin_Austin_Abbey_King_Lear_1898_3440x1440_thumbnail.png)</a>
 <a href=3840x1080/Zombies_Attack_3840x1080.png target=_blank>![Credit: justinb19](3840x1080/Zombies_Attack_3840x1080_thumbnail.png)</a>
+<a href=7680x2160/Mountain_Ridge_7680x2160.jpeg target=_blank>![Credit: bearandlager](7680x2160/Mountain_Ridge_7680x2160_thumbnail.jpeg)</a>
