@@ -1729,3 +1729,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Zombies_Attack_3840x1080.png target=_blank>![Credit: justinb19](3840x1080/Zombies_Attack_3840x1080_thumbnail.png)</a>
 <a href=7680x2160/Mountain_Ridge_7680x2160.jpeg target=_blank>![Credit: bearandlager](7680x2160/Mountain_Ridge_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Optical_Effect_2_3440x1440_0.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Optical_Effect_2_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Optical_Effect_2_3440x1440_1.jpg target=_blank>![Credit: TerriblyAdjunct](3440x1440/Optical_Effect_2_3440x1440_1_thumbnail.jpg)</a>
