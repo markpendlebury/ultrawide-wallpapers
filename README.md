@@ -1743,3 +1743,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Arc_3440x1440.png target=_blank>![Credit: Southern_Young987](3440x1440/Arc_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Torii_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Torii_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Project_ONE_Nissan_GTR_2_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Project_ONE_Nissan_GTR_2_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Musk_3440x1440.png target=_blank>![Credit: Southern_Young987](3440x1440/Musk_3440x1440_thumbnail.png)</a>
