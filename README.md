@@ -1741,3 +1741,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Art_by_Zhang_Datiao_张大屌_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Art_by_Zhang_Datiao_张大屌_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Dr_Manhattan_7680x2160.jpeg target=_blank>![Credit: HeavyElderberry9585](7680x2160/Dr_Manhattan_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Arc_3440x1440.png target=_blank>![Credit: Southern_Young987](3440x1440/Arc_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Torii_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Torii_5160x2160_thumbnail.png)</a>
