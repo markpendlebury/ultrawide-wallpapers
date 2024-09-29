@@ -1756,3 +1756,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/New_Wallpapers___HQ_link_in_comments__7680x2160_9.jpg target=_blank>![Credit: shootthesound](7680x2160/New_Wallpapers___HQ_link_in_comments__7680x2160_9_thumbnail.jpg)</a>
 <a href=3440x1440/Ghost_of_Yotei_3440_x_1440.png target=_blank>![Credit: Reasonable_Sea8497](3440x1440/Ghost_of_Yotei_3440_x_1440_thumbnail.png)</a>
 <a href=3440x1440/Redwoods_by_Robin_Tran_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Redwoods_by_Robin_Tran_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Cyberpunk_2077_Avenger_3440x1440.png target=_blank>![Credit: Sharp_and_Chrome](3440x1440/Cyberpunk_2077_Avenger_3440x1440_thumbnail.png)</a>
