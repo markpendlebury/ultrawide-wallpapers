@@ -1763,3 +1763,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Spain___Málaga_and_Gibraltar_OC__5120x2160_1.jpg target=_blank>![Credit: acoolrocket](5120x2160/Spain___Málaga_and_Gibraltar_OC__5120x2160_1_thumbnail.jpg)</a>
 <a href=5120x2160/Spain___Málaga_and_Gibraltar_OC__5120x2160_2.jpg target=_blank>![Credit: acoolrocket](5120x2160/Spain___Málaga_and_Gibraltar_OC__5120x2160_2_thumbnail.jpg)</a>
 <a href=5120x2160/Spain___Málaga_and_Gibraltar_OC__5120x2160_3.jpg target=_blank>![Credit: acoolrocket](5120x2160/Spain___Málaga_and_Gibraltar_OC__5120x2160_3_thumbnail.jpg)</a>
+<a href=3440x1440/Black_Myth_Wukong_3440_x_1440_0.png target=_blank>![Credit: SanboneSolo](3440x1440/Black_Myth_Wukong_3440_x_1440_0_thumbnail.png)</a>
