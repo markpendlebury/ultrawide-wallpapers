@@ -1770,3 +1770,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Black_Myth_Wukong_3440_x_1440_4.png target=_blank>![Credit: SanboneSolo](3440x1440/Black_Myth_Wukong_3440_x_1440_4_thumbnail.png)</a>
 <a href=3440x1440/Black_Myth_Wukong_3440_x_1440_5.png target=_blank>![Credit: SanboneSolo](3440x1440/Black_Myth_Wukong_3440_x_1440_5_thumbnail.png)</a>
 <a href=3440x1440/Black_Myth_Wukong_3440_x_1440_6.png target=_blank>![Credit: SanboneSolo](3440x1440/Black_Myth_Wukong_3440_x_1440_6_thumbnail.png)</a>
+<a href=3840x1080/Spellbound_3840x1080.png target=_blank>![Credit: justinb19](3840x1080/Spellbound_3840x1080_thumbnail.png)</a>
