@@ -1774,3 +1774,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Superman_3440x1440.png target=_blank>![Credit: Jolly_Statistician_5](3440x1440/Superman_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Loners_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Loners_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Autumn_Temple_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Autumn_Temple_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Hardy_Heron_3440x1440.png target=_blank>![Credit: TheAgentOfTheNine](3440x1440/Hardy_Heron_3440x1440_thumbnail.png)</a>
