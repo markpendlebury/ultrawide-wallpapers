@@ -1795,3 +1795,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/2024_Ferrari_SF_24_Formula_1_Car_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2024_Ferrari_SF_24_Formula_1_Car_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Red_Blue_Hysteresis_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Red_Blue_Hysteresis_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Psychic_Mindwarp_2_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Psychic_Mindwarp_2_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/macOS_Sequoia_Light_&_Dark_Wallpaper_5120x1440_0.png target=_blank>![Credit: bmsnt](5120x1440/macOS_Sequoia_Light_&_Dark_Wallpaper_5120x1440_0_thumbnail.png)</a>
