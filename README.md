@@ -1793,3 +1793,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/2024_McLaren_MCL38_Formula_1_Car_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2024_McLaren_MCL38_Formula_1_Car_3440x1440_thumbnail.png)</a>
 <a href=3840x1600/Old_School_3840x1600.png target=_blank>![Credit: bearandlager](3840x1600/Old_School_3840x1600_thumbnail.png)</a>
 <a href=3440x1440/2024_Ferrari_SF_24_Formula_1_Car_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2024_Ferrari_SF_24_Formula_1_Car_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Red_Blue_Hysteresis_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Red_Blue_Hysteresis_3440x1440_thumbnail.png)</a>
