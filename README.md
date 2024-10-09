@@ -1798,3 +1798,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/macOS_Sequoia_Light_&_Dark_Wallpaper_5120x1440_0.png target=_blank>![Credit: bmsnt](5120x1440/macOS_Sequoia_Light_&_Dark_Wallpaper_5120x1440_0_thumbnail.png)</a>
 <a href=5120x1440/macOS_Sequoia_Light_&_Dark_Wallpaper_5120x1440_1.png target=_blank>![Credit: bmsnt](5120x1440/macOS_Sequoia_Light_&_Dark_Wallpaper_5120x1440_1_thumbnail.png)</a>
 <a href=5160x2160/Commercial_Street_by_Aimee_12_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Commercial_Street_by_Aimee_12_5160x2160_thumbnail.png)</a>
+<a href=7680x2160/Plasma_6_2_wallpapers_7680x2160_0.png target=_blank>![Credit: paol](7680x2160/Plasma_6_2_wallpapers_7680x2160_0_thumbnail.png)</a>
