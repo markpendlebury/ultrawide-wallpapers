@@ -1822,3 +1822,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/New_Wallpapers___Multiple_aspect_incl__7680x2160_8.jpg target=_blank>![Credit: shootthesound](7680x2160/New_Wallpapers___Multiple_aspect_incl__7680x2160_8_thumbnail.jpg)</a>
 <a href=7680x2160/New_Wallpapers___Multiple_aspect_incl__7680x2160_9.jpg target=_blank>![Credit: shootthesound](7680x2160/New_Wallpapers___Multiple_aspect_incl__7680x2160_9_thumbnail.jpg)</a>
 <a href=3440x1440/2024_Aston_Martin_AMR24_Formula_1_Car_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2024_Aston_Martin_AMR24_Formula_1_Car_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/Badlands_USA_by_Andrew_J_Rich_7680x2160.jpeg target=_blank>![Credit: blankblank](7680x2160/Badlands_USA_by_Andrew_J_Rich_7680x2160_thumbnail.jpeg)</a>
