@@ -1824,3 +1824,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/2024_Aston_Martin_AMR24_Formula_1_Car_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2024_Aston_Martin_AMR24_Formula_1_Car_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Badlands_USA_by_Andrew_J_Rich_7680x2160.jpeg target=_blank>![Credit: blankblank](7680x2160/Badlands_USA_by_Andrew_J_Rich_7680x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/untitled_by_jesterjunk_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/untitled_by_jesterjunk_7680x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Antwerp_Wedding_by_Willem_Linnig_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Antwerp_Wedding_by_Willem_Linnig_3440x1440_thumbnail.png)</a>
