@@ -1828,3 +1828,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x3200/Space_Marine_2_7680x3200.jpeg target=_blank>![Credit: TigreSauvage](7680x3200/Space_Marine_2_7680x3200_thumbnail.jpeg)</a>
 <a href=5120x1440/Abstract_Splatter_5120_x_1440.png target=_blank>![Credit: mitten82](5120x1440/Abstract_Splatter_5120_x_1440_thumbnail.png)</a>
 <a href=5120x2160/Porth_Dyniewaid_Penrhyn_Bay_Wales_OC_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Porth_Dyniewaid_Penrhyn_Bay_Wales_OC_5120x2160_thumbnail.png)</a>
+<a href=5120x1440/Art_by_Zhang_Datiao_张大屌_5120x1440.png target=_blank>![Credit: DongKwang13](5120x1440/Art_by_Zhang_Datiao_张大屌_5120x1440_thumbnail.png)</a>
