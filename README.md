@@ -1833,3 +1833,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7260x2160/Coders_Dojo_7260x2160_1.jpg target=_blank>![Credit: HeavyElderberry9585](7260x2160/Coders_Dojo_7260x2160_1_thumbnail.jpg)</a>
 <a href=3440x1440/The_Last_of_Us_3440x1440_0.jpg target=_blank>![Credit: Aleksanterinleivos](3440x1440/The_Last_of_Us_3440x1440_0_thumbnail.jpg)</a>
 <a href=3440x1440/The_Last_of_Us_3440x1440_1.jpg target=_blank>![Credit: Aleksanterinleivos](3440x1440/The_Last_of_Us_3440x1440_1_thumbnail.jpg)</a>
+<a href=3440x1440/The_Last_of_Us_3440x1440_2.jpg target=_blank>![Credit: Aleksanterinleivos](3440x1440/The_Last_of_Us_3440x1440_2_thumbnail.jpg)</a>
