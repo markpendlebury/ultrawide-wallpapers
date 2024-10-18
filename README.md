@@ -1853,3 +1853,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Water_droplets_3440x1440.png target=_blank>![Credit: LunaMagicc](3440x1440/Water_droplets_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Pioneer_DJ_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Pioneer_DJ_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Space_Cadets_5120x1440.png target=_blank>![Credit: MrSnacko](5120x1440/Space_Cadets_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/Fantasy_Art_5120x1440.png target=_blank>![Credit: Goosephat](5120x1440/Fantasy_Art_5120x1440_thumbnail.png)</a>
