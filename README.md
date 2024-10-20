@@ -1855,3 +1855,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Space_Cadets_5120x1440.png target=_blank>![Credit: MrSnacko](5120x1440/Space_Cadets_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Fantasy_Art_5120x1440.png target=_blank>![Credit: Goosephat](5120x1440/Fantasy_Art_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Spiderman_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Spiderman_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/2021_Aston_Martin_AMR21_Formula_1_Car_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2021_Aston_Martin_AMR21_Formula_1_Car_3440x1440_thumbnail.png)</a>
