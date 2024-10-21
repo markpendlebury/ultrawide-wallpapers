@@ -1859,3 +1859,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Far_East_Street_3440x1440.jpeg target=_blank>![Credit: rooliebong](3440x1440/Far_East_Street_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Unusual_Wall_Art_7680x2160.jpeg target=_blank>![Credit: bearandlager](7680x2160/Unusual_Wall_Art_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Space_Marine_2_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Space_Marine_2_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Solomon_Kane_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Solomon_Kane_3440x1440_thumbnail.png)</a>
