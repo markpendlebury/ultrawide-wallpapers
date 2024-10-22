@@ -1861,3 +1861,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Space_Marine_2_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Space_Marine_2_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Solomon_Kane_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Solomon_Kane_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Oasis_by_Wojtek_Fus_3440x1440_0.jpg target=_blank>![Credit: paol](3440x1440/Oasis_by_Wojtek_Fus_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Oasis_by_Wojtek_Fus_3440x1440_1.jpg target=_blank>![Credit: paol](3440x1440/Oasis_by_Wojtek_Fus_3440x1440_1_thumbnail.jpg)</a>
