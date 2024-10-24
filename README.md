@@ -1865,3 +1865,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Taxi_Driver_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Taxi_Driver_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Comet_C_2023_A3_Tsuchinshan_ATLAS_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Comet_C_2023_A3_Tsuchinshan_ATLAS_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Destiny_2_Final_Shape_Ending_3440x1440.jpeg target=_blank>![Credit: Soulless_666](3440x1440/Destiny_2_Final_Shape_Ending_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/2022_Oracle_Red_Bull_Racing_RB18_3440x1440.png target=_blank>![Credit: JaffarIsmail](3440x1440/2022_Oracle_Red_Bull_Racing_RB18_3440x1440_thumbnail.png)</a>
