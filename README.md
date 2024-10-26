@@ -1874,3 +1874,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/New_wallpapers_21_9_&_32_9_Up_to_7680x2160_5.jpg target=_blank>![Credit: shootthesound](7680x2160/New_wallpapers_21_9_&_32_9_Up_to_7680x2160_5_thumbnail.jpg)</a>
 <a href=3440x1440/After_Rain_3440x1440.png target=_blank>![Credit: SaL](3440x1440/After_Rain_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Dandadan_7680x2160.png target=_blank>![Credit: Letonoda](7680x2160/Dandadan_7680x2160_thumbnail.png)</a>
+<a href=3440x1440/Torii_Gate_Cyberpunk_2077_by_sylvibot_3440x1440_0.png target=_blank>![Credit: acoolrocket](3440x1440/Torii_Gate_Cyberpunk_2077_by_sylvibot_3440x1440_0_thumbnail.png)</a>
