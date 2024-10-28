@@ -1887,3 +1887,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Castle_Dracula_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Castle_Dracula_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Sunny_Scotland_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Sunny_Scotland_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/The_Grime_Reaper_3440x1440.jpeg target=_blank>![Credit: SaL](3440x1440/The_Grime_Reaper_3440x1440_thumbnail.jpeg)</a>
+<a href=5120x1440/Lego_Bricks_Halloween_Colors_5120x1440.jpeg target=_blank>![Credit: mitten82](5120x1440/Lego_Bricks_Halloween_Colors_5120x1440_thumbnail.jpeg)</a>
