@@ -1885,3 +1885,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Deak_Ferrand___Sandman_concept_art_3440x1440_5.jpg target=_blank>![Credit: paol](3440x1440/Deak_Ferrand___Sandman_concept_art_3440x1440_5_thumbnail.jpg)</a>
 <a href=3440x1440/Deak_Ferrand___Sandman_concept_art_3440x1440_6.jpg target=_blank>![Credit: paol](3440x1440/Deak_Ferrand___Sandman_concept_art_3440x1440_6_thumbnail.jpg)</a>
 <a href=3440x1440/Castle_Dracula_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Castle_Dracula_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Sunny_Scotland_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Sunny_Scotland_3440x1440_thumbnail.png)</a>
