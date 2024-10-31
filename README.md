@@ -1907,3 +1907,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=8192x2304/BasicAppleGuy_Mod_8192x2304_1.jpg target=_blank>![Credit: HeavyElderberry9585](8192x2304/BasicAppleGuy_Mod_8192x2304_1_thumbnail.jpg)</a>
 <a href=8192x2304/BasicAppleGuy_Mod_8192x2304_2.jpg target=_blank>![Credit: HeavyElderberry9585](8192x2304/BasicAppleGuy_Mod_8192x2304_2_thumbnail.jpg)</a>
 <a href=8192x2304/BasicAppleGuy_Mod_8192x2304_3.jpg target=_blank>![Credit: HeavyElderberry9585](8192x2304/BasicAppleGuy_Mod_8192x2304_3_thumbnail.jpg)</a>
+<a href=8192x2304/BasicAppleGuy_Mod_8192x2304_4.jpg target=_blank>![Credit: HeavyElderberry9585](8192x2304/BasicAppleGuy_Mod_8192x2304_4_thumbnail.jpg)</a>
