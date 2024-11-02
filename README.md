@@ -1911,3 +1911,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=8192x2272/Braided_Display_8192x2272.jpeg target=_blank>![Credit: HeavyElderberry9585](8192x2272/Braided_Display_8192x2272_thumbnail.jpeg)</a>
 <a href=0240x2880/Mesa_AZ_10240x2880.jpeg target=_blank>![Credit: xinvisionx](0240x2880/Mesa_AZ_10240x2880_thumbnail.jpeg)</a>
 <a href=3440x1440/diy_small_poster_3440x1440_4k_21_9.png target=_blank>![Credit: Mental_Cartoonist991](3440x1440/diy_small_poster_3440x1440_4k_21_9_thumbnail.png)</a>
+<a href=3440x1440/Shaman_Experience_3440x1440_0.png target=_blank>![Credit: LunaMagicc](3440x1440/Shaman_Experience_3440x1440_0_thumbnail.png)</a>
