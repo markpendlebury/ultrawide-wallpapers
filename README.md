@@ -1933,3 +1933,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Shaman_Experience_3440x1440_19.png target=_blank>![Credit: LunaMagicc](3440x1440/Shaman_Experience_3440x1440_19_thumbnail.png)</a>
 <a href=3440x1440/We_Are_Not_Alone_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/We_Are_Not_Alone_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Meditations_5120x1440__WIP.png target=_blank>![Credit: anthonym52](5120x1440/Meditations_5120x1440__WIP_thumbnail.png)</a>
+<a href=3440x1440/Black_ops_6___Pack_a_Punch_Ray_Gun_3440x1440.png target=_blank>![Credit: s3iman](3440x1440/Black_ops_6___Pack_a_Punch_Ray_Gun_3440x1440_thumbnail.png)</a>
