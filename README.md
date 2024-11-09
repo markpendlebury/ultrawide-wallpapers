@@ -1970,3 +1970,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/The_Rakes___Capture_Release_Tokyo__2560x1080.png target=_blank>![Credit: acoolrocket](2560x1080/The_Rakes___Capture_Release_Tokyo__2560x1080_thumbnail.png)</a>
 <a href=5160x2160/Cruiser_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Cruiser_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Echo_5160x2160_0.png target=_blank>![Credit: LunaMagicc](5160x2160/Echo_5160x2160_0_thumbnail.png)</a>
+<a href=5160x2160/Echo_5160x2160_1.png target=_blank>![Credit: LunaMagicc](5160x2160/Echo_5160x2160_1_thumbnail.png)</a>
