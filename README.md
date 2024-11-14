@@ -1999,3 +1999,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Evolution_of_resolution_5120x2160.png target=_blank>![Credit: Lear_Pilot](5120x2160/Evolution_of_resolution_5120x2160_thumbnail.png)</a>
 <a href=5120x2160/Rome___Vatican_Sunset_Panorama_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Rome___Vatican_Sunset_Panorama_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Wojak_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Wojak_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Day_of_the_Tentacle_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Day_of_the_Tentacle_3440x1440_thumbnail.png)</a>
