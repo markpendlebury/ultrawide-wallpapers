@@ -2045,3 +2045,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Sunrise_at_Mitre_Peak_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Sunrise_at_Mitre_Peak_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Outerworld_Desertscape_3440x1440__Moescape_AI.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Outerworld_Desertscape_3440x1440__Moescape_AI_thumbnail.jpeg)</a>
 <a href=2560x1080/Bioshock_Infinite_2560x1080_0.jpg target=_blank>![Credit: EuB4ulin](2560x1080/Bioshock_Infinite_2560x1080_0_thumbnail.jpg)</a>
+<a href=2560x1080/Bioshock_Infinite_2560x1080_1.jpg target=_blank>![Credit: EuB4ulin](2560x1080/Bioshock_Infinite_2560x1080_1_thumbnail.jpg)</a>
