@@ -2047,3 +2047,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Bioshock_Infinite_2560x1080_0.jpg target=_blank>![Credit: EuB4ulin](2560x1080/Bioshock_Infinite_2560x1080_0_thumbnail.jpg)</a>
 <a href=2560x1080/Bioshock_Infinite_2560x1080_1.jpg target=_blank>![Credit: EuB4ulin](2560x1080/Bioshock_Infinite_2560x1080_1_thumbnail.jpg)</a>
 <a href=3440x1440/Time_for_a_Road_Trip_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Time_for_a_Road_Trip_3440x1440_thumbnail.jpeg)</a>
+<a href=6880x2880/Autumn_Sky_6880x2880.png target=_blank>![Credit: rooliebong](6880x2880/Autumn_Sky_6880x2880_thumbnail.png)</a>
