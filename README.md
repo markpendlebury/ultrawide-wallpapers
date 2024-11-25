@@ -2050,3 +2050,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6880x2880/Autumn_Sky_6880x2880.png target=_blank>![Credit: rooliebong](6880x2880/Autumn_Sky_6880x2880_thumbnail.png)</a>
 <a href=3440x1440/Glittering_Lights_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Glittering_Lights_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Neon_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Neon_3440x1440_thumbnail.png)</a>
+<a href=3840x1600/Black_Sun_3840x1600.png target=_blank>![Credit: rooliebong](3840x1600/Black_Sun_3840x1600_thumbnail.png)</a>
