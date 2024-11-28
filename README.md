@@ -2094,3 +2094,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Adventure_Time___Remember_You_7680x2160.png target=_blank>![Credit: Letonoda](7680x2160/Adventure_Time___Remember_You_7680x2160_thumbnail.png)</a>
 <a href=3440x1440/Path_of_Exile_2_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Path_of_Exile_2_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Autumn_Lake_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Autumn_Lake_3440x1440_thumbnail.png)</a>
+<a href=2560x1080/Dashtoon_Sakura_Bloom_&_Snowy_vibes_2560x1080_0.png target=_blank>![Credit: euphoricmistpool](2560x1080/Dashtoon_Sakura_Bloom_&_Snowy_vibes_2560x1080_0_thumbnail.png)</a>
