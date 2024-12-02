@@ -2099,3 +2099,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6000x2571/Disney_concert_hall_6000x2571.png target=_blank>![Credit: j_rivers](6000x2571/Disney_concert_hall_6000x2571_thumbnail.png)</a>
 <a href=5160x2160/Atari_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Atari_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/ShiFen_Waterfall_Taiwan_3440x1440.jpeg target=_blank>![Credit: Tadghostal09](3440x1440/ShiFen_Waterfall_Taiwan_3440x1440_thumbnail.jpeg)</a>
+<a href=7680x2160/My_weekly_drop_12_02_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_02_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
