@@ -2142,3 +2142,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/32_9_Pack_7680x2160.jpeg target=_blank>![Credit: nemaom](7680x2160/32_9_Pack_7680x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/Cabinet_7680x2160.jpeg target=_blank>![Credit: HeavyElderberry9585](7680x2160/Cabinet_7680x2160_thumbnail.jpeg)</a>
 <a href=3840x1080/Lamborghini_Miura_3840_x_1080.jpeg target=_blank>![Credit: xrsox](3840x1080/Lamborghini_Miura_3840_x_1080_thumbnail.jpeg)</a>
+<a href=3440x1440/Generated_on_Moescape_AI_The_Sphere_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Generated_on_Moescape_AI_The_Sphere_3440x1440_thumbnail.png)</a>
