@@ -2144,3 +2144,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Lamborghini_Miura_3840_x_1080.jpeg target=_blank>![Credit: xrsox](3840x1080/Lamborghini_Miura_3840_x_1080_thumbnail.jpeg)</a>
 <a href=3440x1440/Generated_on_Moescape_AI_The_Sphere_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Generated_on_Moescape_AI_The_Sphere_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/My_weekly_drop_12_08_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_08_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/My_weekly_drop_12_08_21_9_&_32_9__7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_08_21_9_&_32_9__7680x2160_1_thumbnail.jpg)</a>
