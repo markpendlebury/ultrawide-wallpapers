@@ -2211,3 +2211,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Other_Worlds_3440x1440_4.jpg target=_blank>![Credit: sirgerg2](3440x1440/Other_Worlds_3440x1440_4_thumbnail.jpg)</a>
 <a href=3440x1440/Summer_valley_3440x1440__Generated_by_Vivago_.jpeg target=_blank>![Credit: minemateinnovation](3440x1440/Summer_valley_3440x1440__Generated_by_Vivago__thumbnail.jpeg)</a>
 <a href=7435x2160/Van_Gogh_7435x2160.jpeg target=_blank>![Credit: HeavyElderberry9585](7435x2160/Van_Gogh_7435x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Spanish_Street_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Spanish_Street_3440x1440_thumbnail.png)</a>
