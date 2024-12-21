@@ -2217,3 +2217,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Superman_2025_3440x1440.png target=_blank>![Credit: ezb14](3440x1440/Superman_2025_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Superman_2025___Version_2_3440x1440.png target=_blank>![Credit: ezb14](3440x1440/Superman_2025___Version_2_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Megacity_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Megacity_3440x1440_thumbnail.png)</a>
+<a href=6880x2880/Black_Myth_Wukong_6880x2880.png target=_blank>![Credit: Goosephat](6880x2880/Black_Myth_Wukong_6880x2880_thumbnail.png)</a>
