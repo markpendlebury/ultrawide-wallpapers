@@ -2237,3 +2237,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/a_new_edge_3440_x_1440_16.png target=_blank>![Credit: LunaMagicc](3440x1440/a_new_edge_3440_x_1440_16_thumbnail.png)</a>
 <a href=3440x1440/a_new_edge_3440_x_1440_17.png target=_blank>![Credit: LunaMagicc](3440x1440/a_new_edge_3440_x_1440_17_thumbnail.png)</a>
 <a href=3440x1440/a_new_edge_3440_x_1440_18.png target=_blank>![Credit: LunaMagicc](3440x1440/a_new_edge_3440_x_1440_18_thumbnail.png)</a>
+<a href=3440x1440/a_new_edge_3440_x_1440_19.png target=_blank>![Credit: LunaMagicc](3440x1440/a_new_edge_3440_x_1440_19_thumbnail.png)</a>
