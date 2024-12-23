@@ -2241,3 +2241,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Orange_space_rocket_3440x1440.png target=_blank>![Credit: Snail_Boop](3440x1440/Orange_space_rocket_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Resting_Foxdragon_3440x1440.png target=_blank>![Credit: BABA375](3440x1440/Resting_Foxdragon_3440x1440_thumbnail.png)</a>
 <a href=2560x1080/Album_cover_collage_2560x1080.png target=_blank>![Credit: life_supportless](2560x1080/Album_cover_collage_2560x1080_thumbnail.png)</a>
+<a href=7680x2160/My_weekly_drop_12_22_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_22_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
