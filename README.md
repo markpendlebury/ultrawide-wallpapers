@@ -2261,3 +2261,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_12_22_21_9_&_32_9__7680x2160_17.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_22_21_9_&_32_9__7680x2160_17_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_12_22_21_9_&_32_9__7680x2160_18.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_22_21_9_&_32_9__7680x2160_18_thumbnail.jpg)</a>
 <a href=5160x2160/A_Season_appropriate_Tree_5160x2160.jpeg target=_blank>![Credit: paol](5160x2160/A_Season_appropriate_Tree_5160x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Secret_Santa_Tree_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Secret_Santa_Tree_3440x1440_thumbnail.jpeg)</a>
