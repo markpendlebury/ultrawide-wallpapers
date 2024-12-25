@@ -2265,3 +2265,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4096x1756/Squid_Game_4096_x_1756.jpeg target=_blank>![Credit: amir_zxy](4096x1756/Squid_Game_4096_x_1756_thumbnail.jpeg)</a>
 <a href=7680x2160/Dandadan___ED_Chibi_Heads_7680x2160.png target=_blank>![Credit: Letonoda](7680x2160/Dandadan___ED_Chibi_Heads_7680x2160_thumbnail.png)</a>
 <a href=3440x1440/Eredrim_the_Venerable_3440x1440.jpeg target=_blank>![Credit: Jolly_Statistician_5](3440x1440/Eredrim_the_Venerable_3440x1440_thumbnail.jpeg)</a>
+<a href=2800x1200/AVATAR__2800_x_1200.jpeg target=_blank>![Credit: amir_zxy](2800x1200/AVATAR__2800_x_1200_thumbnail.jpeg)</a>
