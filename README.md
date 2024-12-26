@@ -2267,3 +2267,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Eredrim_the_Venerable_3440x1440.jpeg target=_blank>![Credit: Jolly_Statistician_5](3440x1440/Eredrim_the_Venerable_3440x1440_thumbnail.jpeg)</a>
 <a href=2800x1200/AVATAR__2800_x_1200.jpeg target=_blank>![Credit: amir_zxy](2800x1200/AVATAR__2800_x_1200_thumbnail.jpeg)</a>
 <a href=4000x1503/Genshin_Impact_4000x1503.jpeg target=_blank>![Credit: DragonflyNo8793](4000x1503/Genshin_Impact_4000x1503_thumbnail.jpeg)</a>
+<a href=2560x1080/Album_cover_collage_Alt_rock_version__2560x1080.png target=_blank>![Credit: life_supportless](2560x1080/Album_cover_collage_Alt_rock_version__2560x1080_thumbnail.png)</a>
