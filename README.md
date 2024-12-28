@@ -2269,3 +2269,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4000x1503/Genshin_Impact_4000x1503.jpeg target=_blank>![Credit: DragonflyNo8793](4000x1503/Genshin_Impact_4000x1503_thumbnail.jpeg)</a>
 <a href=2560x1080/Album_cover_collage_Alt_rock_version__2560x1080.png target=_blank>![Credit: life_supportless](2560x1080/Album_cover_collage_Alt_rock_version__2560x1080_thumbnail.png)</a>
 <a href=5160x2160/Planet_in_the_Clouds_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Planet_in_the_Clouds_5160x2160_thumbnail.png)</a>
+<a href=3440x1440/Next_Stop_North_Pole_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Next_Stop_North_Pole_3440x1440_thumbnail.jpeg)</a>
