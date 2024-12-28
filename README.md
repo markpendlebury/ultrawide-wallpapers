@@ -2271,3 +2271,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Planet_in_the_Clouds_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Planet_in_the_Clouds_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Next_Stop_North_Pole_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Next_Stop_North_Pole_3440x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Snow_Cabin_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Snow_Cabin_5160x2160_thumbnail.png)</a>
+<a href=2560x1080/Absolute_cinema_🙌_almost__2560x1080.png target=_blank>![Credit: life_supportless](2560x1080/Absolute_cinema_🙌_almost__2560x1080_thumbnail.png)</a>
