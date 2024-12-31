@@ -2296,3 +2296,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Art_by_摸鱼斋_washanapple_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Art_by_摸鱼斋_washanapple_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Cyberpunk___Streets_by_Matt_Allsopp_5120x2160_0.jpg target=_blank>![Credit: acoolrocket](5120x2160/Cyberpunk___Streets_by_Matt_Allsopp_5120x2160_0_thumbnail.jpg)</a>
 <a href=5120x2160/Cyberpunk___Streets_by_Matt_Allsopp_5120x2160_1.jpg target=_blank>![Credit: acoolrocket](5120x2160/Cyberpunk___Streets_by_Matt_Allsopp_5120x2160_1_thumbnail.jpg)</a>
+<a href=5120x2160/Cyberpunk___Streets_by_Matt_Allsopp_5120x2160_2.jpg target=_blank>![Credit: acoolrocket](5120x2160/Cyberpunk___Streets_by_Matt_Allsopp_5120x2160_2_thumbnail.jpg)</a>
