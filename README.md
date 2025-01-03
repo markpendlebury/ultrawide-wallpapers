@@ -2300,3 +2300,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Drone_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Drone_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Flowers_And_Paint_In_Water_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Flowers_And_Paint_In_Water_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Dolomite_Clouds__3440x1440.png target=_blank>![Credit: shnytzl](3440x1440/Dolomite_Clouds__3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Solitude_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Solitude_3440x1440_thumbnail.jpeg)</a>
