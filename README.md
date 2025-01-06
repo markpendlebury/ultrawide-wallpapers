@@ -2308,3 +2308,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/City_in_the_Clouds_by_Eric_Guedes_3440x1440.png target=_blank>![Credit: SaL](3440x1440/City_in_the_Clouds_by_Eric_Guedes_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Kingdom_Come_Deliverance_II_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Kingdom_Come_Deliverance_II_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Alpine_3440x1440_0.jpg target=_blank>![Credit: sirgerg2](3440x1440/Alpine_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Alpine_3440x1440_1.jpg target=_blank>![Credit: sirgerg2](3440x1440/Alpine_3440x1440_1_thumbnail.jpg)</a>
