@@ -2333,3 +2333,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Sins_of_a_Solar_Empire_II_3440_x_1440.png target=_blank>![Credit: IncredibleHult](3440x1440/Sins_of_a_Solar_Empire_II_3440_x_1440_thumbnail.png)</a>
 <a href=7680x2160/This_is_not_a_fish_7680x2160.jpeg target=_blank>![Credit: HeavyElderberry9585](7680x2160/This_is_not_a_fish_7680x2160_thumbnail.jpeg)</a>
 <a href=5120x2160/Sun_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Sun_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/The_Wanderer_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/The_Wanderer_3440x1440_thumbnail.jpeg)</a>
