@@ -2338,3 +2338,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/This_Is_Not_A_Pipe_Magritte_Mod_7680x2160_0.jpg target=_blank>![Credit: HeavyElderberry9585](7680x2160/This_Is_Not_A_Pipe_Magritte_Mod_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/This_Is_Not_A_Pipe_Magritte_Mod_7680x2160_1.jpg target=_blank>![Credit: HeavyElderberry9585](7680x2160/This_Is_Not_A_Pipe_Magritte_Mod_7680x2160_1_thumbnail.jpg)</a>
 <a href=3440x1440/Glowing_honeycomb_3440x1440.png target=_blank>![Credit: AdamJayCross](3440x1440/Glowing_honeycomb_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Berserk_5120x1440.png target=_blank>![Credit: KayatoSan](5120x1440/Berserk_5120x1440_thumbnail.png)</a>
