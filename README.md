@@ -2341,3 +2341,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Berserk_5120x1440.png target=_blank>![Credit: KayatoSan](5120x1440/Berserk_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Mass_Effect_5_3440x1440.png target=_blank>![Credit: Necessary_End_5040](3440x1440/Mass_Effect_5_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Autumn_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Autumn_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Petra_Jordan_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Petra_Jordan_3440x1440_thumbnail.png)</a>
