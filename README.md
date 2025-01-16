@@ -2371,3 +2371,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Dawn_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Dawn_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Harakiri___1962_VHS_3440x1440.png target=_blank>![Credit: psicopepsi](3440x1440/Harakiri___1962_VHS_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Almost_There_by_Slawek_Fedorczuk_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Almost_There_by_Slawek_Fedorczuk_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/The_Sphere_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/The_Sphere_3440x1440_thumbnail.png)</a>
