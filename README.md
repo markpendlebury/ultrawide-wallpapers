@@ -2373,3 +2373,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Almost_There_by_Slawek_Fedorczuk_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Almost_There_by_Slawek_Fedorczuk_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/The_Sphere_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/The_Sphere_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Tanjiro_&_Nezuko_5120x2160.jpeg target=_blank>![Credit: DongKwang13](5120x2160/Tanjiro_&_Nezuko_5120x2160_thumbnail.jpeg)</a>
+<a href=5120x1440/Marvel_Rivals_Art_5120x1440.png target=_blank>![Credit: DongKwang13](5120x1440/Marvel_Rivals_Art_5120x1440_thumbnail.png)</a>
