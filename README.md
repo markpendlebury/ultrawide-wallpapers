@@ -2380,3 +2380,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Unknown_Planet_3440x1440_1.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Unknown_Planet_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/Unknown_Planet_3440x1440_2.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Unknown_Planet_3440x1440_2_thumbnail.png)</a>
 <a href=5160x2160/Ship_on_Stormy_Seas_1858__5160x2160.png target=_blank>![Credit: SaL](5160x2160/Ship_on_Stormy_Seas_1858__5160x2160_thumbnail.png)</a>
+<a href=5120x2160/Night_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Night_5120x2160_thumbnail.png)</a>
