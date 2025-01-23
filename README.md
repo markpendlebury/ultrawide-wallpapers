@@ -2412,3 +2412,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/The_Fellowship_of_the_Ring_5160x2160.png target=_blank>![Credit: SaL](5160x2160/The_Fellowship_of_the_Ring_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Off_Grid_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Off_Grid_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/USAF_F16_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/USAF_F16_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/Strand_by_Amir_Zand_5120x2160.png target=_blank>![Credit: Goosephat](5120x2160/Strand_by_Amir_Zand_5120x2160_thumbnail.png)</a>
