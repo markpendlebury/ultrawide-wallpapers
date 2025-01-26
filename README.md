@@ -2415,3 +2415,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Strand_by_Amir_Zand_5120x2160.png target=_blank>![Credit: Goosephat](5120x2160/Strand_by_Amir_Zand_5120x2160_thumbnail.png)</a>
 <a href=7680x2160/Starry_Mountain_Vista_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Starry_Mountain_Vista_7680x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/Whispers_of_Spring_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Whispers_of_Spring_7680x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/The_Lone_Tree_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/The_Lone_Tree_3440x1440_thumbnail.png)</a>
