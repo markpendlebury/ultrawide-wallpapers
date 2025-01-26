@@ -2419,3 +2419,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Northern_Arizona_Satellite_5120x1440.png target=_blank>![Credit: Loud_Shirt_7515](5120x1440/Northern_Arizona_Satellite_5120x1440_thumbnail.png)</a>
 <a href=5120x2160/Sea_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Sea_5120x2160_thumbnail.png)</a>
 <a href=7680x2160/Where_the_Mountains_Meet_the_Sky_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Where_the_Mountains_Meet_the_Sky_7680x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Weyland_Yutani_workstation_3440x1440.png target=_blank>![Credit: bestpontato](3440x1440/Weyland_Yutani_workstation_3440x1440_thumbnail.png)</a>
