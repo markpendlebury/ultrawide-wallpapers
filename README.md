@@ -2458,3 +2458,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Hi_Res_Moebius_File_7_3440x1440.png target=_blank>![Credit: Monte_Langevin_4P](3440x1440/Hi_Res_Moebius_File_7_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Waves_of_Light_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Waves_of_Light_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/God_of_War_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/God_of_War_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Star_Trek___Condition_Red_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Star_Trek___Condition_Red_3440x1440_thumbnail.png)</a>
