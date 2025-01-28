@@ -2460,3 +2460,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/God_of_War_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/God_of_War_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Star_Trek___Condition_Red_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Star_Trek___Condition_Red_3440x1440_thumbnail.png)</a>
 <a href=3840x1600/Art_by_Nabil_Anani_3840x1600.png target=_blank>![Credit: SaL](3840x1600/Art_by_Nabil_Anani_3840x1600_thumbnail.png)</a>
+<a href=7680x2160/Mushrooms_Are_the_Stars_of_the_Galaxy_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Mushrooms_Are_the_Stars_of_the_Galaxy_7680x2160_thumbnail.jpeg)</a>
