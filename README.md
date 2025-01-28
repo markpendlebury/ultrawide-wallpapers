@@ -2456,3 +2456,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_01_26_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_01_26_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=7907x3106/Winter_Woods_7907_x_3106.jpeg target=_blank>![Credit: jonnychiri](7907x3106/Winter_Woods_7907_x_3106_thumbnail.jpeg)</a>
 <a href=3440x1440/Hi_Res_Moebius_File_7_3440x1440.png target=_blank>![Credit: Monte_Langevin_4P](3440x1440/Hi_Res_Moebius_File_7_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/Waves_of_Light_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Waves_of_Light_7680x2160_thumbnail.jpeg)</a>
