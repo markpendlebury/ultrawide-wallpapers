@@ -2463,3 +2463,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Mushrooms_Are_the_Stars_of_the_Galaxy_7680x2160.jpeg target=_blank>![Credit: dorime1492](7680x2160/Mushrooms_Are_the_Stars_of_the_Galaxy_7680x2160_thumbnail.jpeg)</a>
 <a href=5120x2160/Hues_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Hues_5120x2160_thumbnail.png)</a>
 <a href=2560x1080/Heroes_of_the_Storm_2560x1080.jpeg target=_blank>![Credit: Randomcitizen6](2560x1080/Heroes_of_the_Storm_2560x1080_thumbnail.jpeg)</a>
+<a href=6880x2880/Larsen_Thompson_Super_Model_6880x2880.png target=_blank>![Credit: DongKwang13](6880x2880/Larsen_Thompson_Super_Model_6880x2880_thumbnail.png)</a>
