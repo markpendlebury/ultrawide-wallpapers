@@ -2465,3 +2465,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Heroes_of_the_Storm_2560x1080.jpeg target=_blank>![Credit: Randomcitizen6](2560x1080/Heroes_of_the_Storm_2560x1080_thumbnail.jpeg)</a>
 <a href=6880x2880/Larsen_Thompson_Super_Model_6880x2880.png target=_blank>![Credit: DongKwang13](6880x2880/Larsen_Thompson_Super_Model_6880x2880_thumbnail.png)</a>
 <a href=3440x1440/Sunrise_in_the_Valley_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Sunrise_in_the_Valley_3440x1440_thumbnail.png)</a>
+<a href=7907x3106/Cityscape_7907x3106.jpeg target=_blank>![Credit: jonnychiri](7907x3106/Cityscape_7907x3106_thumbnail.jpeg)</a>
