@@ -2466,3 +2466,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6880x2880/Larsen_Thompson_Super_Model_6880x2880.png target=_blank>![Credit: DongKwang13](6880x2880/Larsen_Thompson_Super_Model_6880x2880_thumbnail.png)</a>
 <a href=3440x1440/Sunrise_in_the_Valley_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Sunrise_in_the_Valley_3440x1440_thumbnail.png)</a>
 <a href=7907x3106/Cityscape_7907x3106.jpeg target=_blank>![Credit: jonnychiri](7907x3106/Cityscape_7907x3106_thumbnail.jpeg)</a>
+<a href=5120x2160/Sea_Bridge_+bonus_32_9_5120x2160.png target=_blank>![Credit: rooliebong](5120x2160/Sea_Bridge_+bonus_32_9_5120x2160_thumbnail.png)</a>
