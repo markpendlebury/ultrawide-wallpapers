@@ -2469,3 +2469,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Sea_Bridge_+bonus_32_9_5120x2160.png target=_blank>![Credit: rooliebong](5120x2160/Sea_Bridge_+bonus_32_9_5120x2160_thumbnail.png)</a>
 <a href=5120x2160/Tree_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Tree_5120x2160_thumbnail.png)</a>
 <a href=5160x2160/Far_Planet_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Far_Planet_5160x2160_thumbnail.png)</a>
+<a href=7680x2160/Space_Sunset_7680x2160.jpeg target=_blank>![Credit: shootthesound](7680x2160/Space_Sunset_7680x2160_thumbnail.jpeg)</a>
