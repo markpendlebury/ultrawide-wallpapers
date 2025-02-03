@@ -2493,3 +2493,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_02_02_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_02_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=5120x1440/Shanghai_Sunset_5120x1440.jpeg target=_blank>![Credit: Randomcitizen6](5120x1440/Shanghai_Sunset_5120x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Robots_&_Nature_32_9_5120x1440.png target=_blank>![Credit: RadicalWallpaper](5120x1440/Robots_&_Nature_32_9_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Lava_Flow_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Lava_Flow_3440x1440_thumbnail.png)</a>
