@@ -2494,3 +2494,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Shanghai_Sunset_5120x1440.jpeg target=_blank>![Credit: Randomcitizen6](5120x1440/Shanghai_Sunset_5120x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Robots_&_Nature_32_9_5120x1440.png target=_blank>![Credit: RadicalWallpaper](5120x1440/Robots_&_Nature_32_9_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Lava_Flow_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Lava_Flow_3440x1440_thumbnail.png)</a>
+<a href=3840x1600/Ring_Station_by_artist_Tracy_Généreux_3840x1600.jpeg target=_blank>![Credit: Goosephat](3840x1600/Ring_Station_by_artist_Tracy_Généreux_3840x1600_thumbnail.jpeg)</a>
