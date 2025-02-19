@@ -2553,3 +2553,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_0.png target=_blank>![Credit: acoolrocket](3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_0_thumbnail.png)</a>
 <a href=3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_1.png target=_blank>![Credit: acoolrocket](3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_2.png target=_blank>![Credit: acoolrocket](3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_2_thumbnail.png)</a>
+<a href=3440x1440/Mount_Rushmore_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Mount_Rushmore_3440x1440_thumbnail.png)</a>
