@@ -2506,3 +2506,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Abstract_Cyan_Waves_5160x2160.png target=_blank>![Credit: phamat0n](5160x2160/Abstract_Cyan_Waves_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Vestrahorn_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Vestrahorn_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Purple_Rain_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Purple_Rain_3440x1440_thumbnail.png)</a>
+<a href=3840x1607/LFA_In_the_Desert_21_9_3840x1607.jpeg target=_blank>![Credit: KaleidoscopeAgile198](3840x1607/LFA_In_the_Desert_21_9_3840x1607_thumbnail.jpeg)</a>
