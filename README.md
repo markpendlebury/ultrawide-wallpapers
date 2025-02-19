@@ -2550,3 +2550,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7880x2160/Our_Milky_Way_7880x2160.png target=_blank>![Credit: bearandlager](7880x2160/Our_Milky_Way_7880x2160_thumbnail.png)</a>
 <a href=7680x2160/Abstract_7680x2160.png target=_blank>![Credit: bearandlager](7680x2160/Abstract_7680x2160_thumbnail.png)</a>
 <a href=3440x1440/Whispers_of_the_Sea_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Whispers_of_the_Sea_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_0.png target=_blank>![Credit: acoolrocket](3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_0_thumbnail.png)</a>
