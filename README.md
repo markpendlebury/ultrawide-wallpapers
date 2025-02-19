@@ -2608,3 +2608,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Stars_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Stars_5120x2160_thumbnail.png)</a>
 <a href=5160x2160/Goodnight_by_Francisco_Fonseca_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Goodnight_by_Francisco_Fonseca_5160x2160_thumbnail.png)</a>
 <a href=3840x1600/Snow_White_and_the_Seven_Dwarfs_1937_3840x1600.jpeg target=_blank>![Credit: TerriblyAdjunct](3840x1600/Snow_White_and_the_Seven_Dwarfs_1937_3840x1600_thumbnail.jpeg)</a>
+<a href=3440x1440/Joker__AI__3440x1440_0.png target=_blank>![Credit: Finger_printed](3440x1440/Joker__AI__3440x1440_0_thumbnail.png)</a>
