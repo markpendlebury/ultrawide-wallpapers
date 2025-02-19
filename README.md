@@ -2555,3 +2555,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_2.png target=_blank>![Credit: acoolrocket](3440x1440/Background_art_by_u_NoPersimmon9357_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/Mount_Rushmore_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Mount_Rushmore_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Whispers_Between_Raindrops_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Whispers_Between_Raindrops_3440x1440_thumbnail.jpeg)</a>
+<a href=5160x2160/Art_by_Alariko_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Art_by_Alariko_5160x2160_thumbnail.png)</a>
