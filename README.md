@@ -2619,3 +2619,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Backgrounds_7680x2160_6.png target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_6_thumbnail.png)</a>
 <a href=7680x2160/Backgrounds_7680x2160_7.png target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_7_thumbnail.png)</a>
 <a href=3440x1440/Earth_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Earth_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/Camp_5120x2160.png target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Camp_5120x2160_thumbnail.png)</a>
