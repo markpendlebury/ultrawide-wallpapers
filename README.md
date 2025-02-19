@@ -2613,3 +2613,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Joker__AI__3440x1440_2.png target=_blank>![Credit: Finger_printed](3440x1440/Joker__AI__3440x1440_2_thumbnail.png)</a>
 <a href=7680x2160/Backgrounds_7680x2160_0.png target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_0_thumbnail.png)</a>
 <a href=7680x2160/Backgrounds_7680x2160_1.png target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_1_thumbnail.png)</a>
+<a href=7680x2160/Backgrounds_7680x2160_2.png target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_2_thumbnail.png)</a>
