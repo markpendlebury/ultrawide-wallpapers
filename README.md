@@ -2536,3 +2536,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Low_Poly_Panorama_5120x2160_and_7680x2160_6.jpg target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Low_Poly_Panorama_5120x2160_and_7680x2160_6_thumbnail.jpg)</a>
 <a href=5120x2160/Low_Poly_Panorama_5120x2160_and_7680x2160_7.jpg target=_blank>![Credit: Sad_Echidna_4507](5120x2160/Low_Poly_Panorama_5120x2160_and_7680x2160_7_thumbnail.jpg)</a>
 <a href=3440x1440/Green_Ferns_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Green_Ferns_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Gradient_Pack_5160x2160_0.png target=_blank>![Credit: DongKwang13](5160x2160/Gradient_Pack_5160x2160_0_thumbnail.png)</a>
