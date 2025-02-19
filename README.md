@@ -2565,3 +2565,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Backgrounds_7680x2160_3.jpg target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_3_thumbnail.jpg)</a>
 <a href=7680x2160/Backgrounds_7680x2160_4.jpg target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_4_thumbnail.jpg)</a>
 <a href=7680x2160/Backgrounds_7680x2160_5.jpg target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_5_thumbnail.jpg)</a>
+<a href=7680x2160/Backgrounds_7680x2160_6.jpg target=_blank>![Credit: bearandlager](7680x2160/Backgrounds_7680x2160_6_thumbnail.jpg)</a>
