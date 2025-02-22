@@ -2625,3 +2625,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=1262x3738/Blausee_11262x3738.jpeg target=_blank>![Credit: Das_Zeppelin](1262x3738/Blausee_11262x3738_thumbnail.jpeg)</a>
 <a href=7680x2160/Chinese_Screens_7680x2160_0.jpg target=_blank>![Credit: bearandlager](7680x2160/Chinese_Screens_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Chinese_Screens_7680x2160_1.jpg target=_blank>![Credit: bearandlager](7680x2160/Chinese_Screens_7680x2160_1_thumbnail.jpg)</a>
+<a href=3840x1600/Cherry_Blossom_3840x1600.png target=_blank>![Credit: rooliebong](3840x1600/Cherry_Blossom_3840x1600_thumbnail.png)</a>
