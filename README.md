@@ -2708,3 +2708,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Aoraki_Mount_Cook_3440x1440.png target=_blank>![Credit: irish_swede](3440x1440/Aoraki_Mount_Cook_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/My_collection_3440x1440.jpeg target=_blank>![Credit: graveflower426](3440x1440/My_collection_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Old_Ads_3440x1440_0.jpg target=_blank>![Credit: SaL](3440x1440/Old_Ads_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Old_Ads_3440x1440_1.jpg target=_blank>![Credit: SaL](3440x1440/Old_Ads_3440x1440_1_thumbnail.jpg)</a>
