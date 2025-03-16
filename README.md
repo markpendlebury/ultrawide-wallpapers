@@ -2745,3 +2745,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Svalbard_Norway_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Svalbard_Norway_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Cotton_Candy_Dreamscape_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Cotton_Candy_Dreamscape_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Space_Scape_5120x1440.png target=_blank>![Credit: bearandlager](5120x1440/Space_Scape_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/A_Journey_to_Remember_by_Elias_Stern_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/A_Journey_to_Remember_by_Elias_Stern_3440x1440_thumbnail.png)</a>
