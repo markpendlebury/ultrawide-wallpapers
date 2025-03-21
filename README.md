@@ -2792,3 +2792,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Landscape_Nature_Volume_2_5120x2160_18.jpg target=_blank>![Credit: iunewind](5120x2160/Landscape_Nature_Volume_2_5120x2160_18_thumbnail.jpg)</a>
 <a href=3440x1440/Sunlit_Serenity_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Sunlit_Serenity_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Lofi_Vibes_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Lofi_Vibes_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Sisters_of_Mercy_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Sisters_of_Mercy_3440x1440_thumbnail.png)</a>
