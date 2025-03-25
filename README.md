@@ -2828,3 +2828,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/I_have_a_TON_of_Cyberpunk_2077_5120x1440__More_6.png target=_blank>![Credit: pixeltip](5120x1440/I_have_a_TON_of_Cyberpunk_2077_5120x1440__More_6_thumbnail.png)</a>
 <a href=5120x1440/I_have_a_TON_of_Cyberpunk_2077_5120x1440__More_7.png target=_blank>![Credit: pixeltip](5120x1440/I_have_a_TON_of_Cyberpunk_2077_5120x1440__More_7_thumbnail.png)</a>
 <a href=5120x1440/Goku_Forms_5120x1440.jpeg target=_blank>![Credit: HappyDragonfruit1118](5120x1440/Goku_Forms_5120x1440_thumbnail.jpeg)</a>
+<a href=5120x1440/Osaka_Ringer_Hut_OC__32_9__5120_x_1440.jpeg target=_blank>![Credit: otacon7000](5120x1440/Osaka_Ringer_Hut_OC__32_9__5120_x_1440_thumbnail.jpeg)</a>
