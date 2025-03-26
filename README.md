@@ -2831,3 +2831,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Osaka_Ringer_Hut_OC__32_9__5120_x_1440.jpeg target=_blank>![Credit: otacon7000](5120x1440/Osaka_Ringer_Hut_OC__32_9__5120_x_1440_thumbnail.jpeg)</a>
 <a href=3440x1440/The_Luminous_Hollow_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/The_Luminous_Hollow_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/There_Was_Something_in_the_Pool_3440x1440.png target=_blank>![Credit: SaL](3440x1440/There_Was_Something_in_the_Pool_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Skull_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Skull_3440x1440_thumbnail.png)</a>
