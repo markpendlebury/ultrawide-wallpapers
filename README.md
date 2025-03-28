@@ -2835,3 +2835,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Faroe_Islands_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Faroe_Islands_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/San_Andreas_Dodge_3440x1440.jpeg target=_blank>![Credit: The_Catster](3440x1440/San_Andreas_Dodge_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Waterfall_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Waterfall_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Kyoto_Logistics_Bay_5120_x_1440.jpeg target=_blank>![Credit: otacon7000](5120x1440/Kyoto_Logistics_Bay_5120_x_1440_thumbnail.jpeg)</a>
