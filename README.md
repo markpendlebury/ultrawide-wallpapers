@@ -2843,3 +2843,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/untitled_by_jesterjunk_7680x2160_2.jpg target=_blank>![Credit: jesterjunk](7680x2160/untitled_by_jesterjunk_7680x2160_2_thumbnail.jpg)</a>
 <a href=7680x2160/untitled_by_jesterjunk_7680x2160_3.jpg target=_blank>![Credit: jesterjunk](7680x2160/untitled_by_jesterjunk_7680x2160_3_thumbnail.jpg)</a>
 <a href=5120x1440/7_eleven_past_Midnight_5120x1440.png target=_blank>![Credit: otacon7000](5120x1440/7_eleven_past_Midnight_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Horizon_Zero_Dawn_3440x1440.png target=_blank>![Credit: No_Boring_Cars](3440x1440/Horizon_Zero_Dawn_3440x1440_thumbnail.png)</a>
