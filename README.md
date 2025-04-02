@@ -2867,3 +2867,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Local_Neighborhood_Stores_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Local_Neighborhood_Stores_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Saturn_photographed_by_Cassini_3440x1440.png target=_blank>![Credit: muhmeinchut69](3440x1440/Saturn_photographed_by_Cassini_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Noise_Sculpture_3440x1440.png target=_blank>![Credit: perlcoc](3440x1440/Noise_Sculpture_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/7_eleven_in_the_Snow_3440x1440.png target=_blank>![Credit: otacon7000](3440x1440/7_eleven_in_the_Snow_3440x1440_thumbnail.png)</a>
