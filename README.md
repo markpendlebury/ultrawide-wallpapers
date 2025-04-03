@@ -2871,3 +2871,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Vampire_Vampire_Vampire___Sea_Power_5120x1440.jpeg target=_blank>![Credit: Boostlifebruh](5120x1440/Vampire_Vampire_Vampire___Sea_Power_5120x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Serra_Angel_5120x1440.png target=_blank>![Credit: ManyThingsDeck](5120x1440/Serra_Angel_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Reddit_Mod_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Reddit_Mod_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Forested_Hills_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Forested_Hills_3440x1440_thumbnail.png)</a>
