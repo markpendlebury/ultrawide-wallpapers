@@ -2873,3 +2873,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Reddit_Mod_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Reddit_Mod_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Forested_Hills_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Forested_Hills_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Doom_Eternal_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Doom_Eternal_5160x2160_thumbnail.png)</a>
+<a href=3440x1440/Mario_Kart_World_3440x1440.png target=_blank>![Credit: PolicyRune](3440x1440/Mario_Kart_World_3440x1440_thumbnail.png)</a>
