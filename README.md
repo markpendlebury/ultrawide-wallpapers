@@ -2879,3 +2879,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Hyrule_Castle_5120x1440.png target=_blank>![Credit: Ok_Try_3385](5120x1440/Hyrule_Castle_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Shinsekai_Kushikatsu_5120x1440.png target=_blank>![Credit: otacon7000](5120x1440/Shinsekai_Kushikatsu_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Happy_Zlda_5120_x_1440.png target=_blank>![Credit: Ok_Try_3385](5120x1440/Happy_Zlda_5120_x_1440_thumbnail.png)</a>
+<a href=5120x1440/Lnk_Skydive__5120_x_1440.png target=_blank>![Credit: Ok_Try_3385](5120x1440/Lnk_Skydive__5120_x_1440_thumbnail.png)</a>
