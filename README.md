@@ -2876,3 +2876,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Mario_Kart_World_3440x1440.png target=_blank>![Credit: PolicyRune](3440x1440/Mario_Kart_World_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Windows_Iridescent_Ultra_wide_5120x1440.jpeg target=_blank>![Credit: tonylopezmedia](5120x1440/Windows_Iridescent_Ultra_wide_5120x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Late_Night_Ramen_Run_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Late_Night_Ramen_Run_5160x2160_thumbnail.png)</a>
+<a href=5120x1440/Hyrule_Castle_5120x1440.png target=_blank>![Credit: Ok_Try_3385](5120x1440/Hyrule_Castle_5120x1440_thumbnail.png)</a>
