@@ -2909,3 +2909,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Doom_The_Dark_Ages_5160x2160.png target=_blank>![Credit: Goosephat](5160x2160/Doom_The_Dark_Ages_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Into_the_Snow_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Into_the_Snow_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Tesla_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Tesla_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Frieren_Meadow_3440x1440.png target=_blank>![Credit: Sumcha](3440x1440/Frieren_Meadow_3440x1440_thumbnail.png)</a>
