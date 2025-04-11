@@ -2923,3 +2923,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/The_Last_of_Us_Part_1_5120_x_1440_1.png target=_blank>![Credit: seuung](5120x1440/The_Last_of_Us_Part_1_5120_x_1440_1_thumbnail.png)</a>
 <a href=5120x1440/The_Last_of_Us_Part_1_5120_x_1440_2.jpg target=_blank>![Credit: seuung](5120x1440/The_Last_of_Us_Part_1_5120_x_1440_2_thumbnail.jpg)</a>
 <a href=5120x1440/The_Last_of_Us_Part_1_5120_x_1440_3.png target=_blank>![Credit: seuung](5120x1440/The_Last_of_Us_Part_1_5120_x_1440_3_thumbnail.png)</a>
+<a href=5120x1440/The_Last_of_Us_Part_1_5120_x_1440_4.jpg target=_blank>![Credit: seuung](5120x1440/The_Last_of_Us_Part_1_5120_x_1440_4_thumbnail.jpg)</a>
