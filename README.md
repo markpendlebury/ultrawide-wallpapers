@@ -2959,3 +2959,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Requested_Post_5120x1440.jpeg target=_blank>![Credit: SaL](5120x1440/Requested_Post_5120x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Far_East_Bistro_3440x1440.jpeg target=_blank>![Credit: DongKwang13](3440x1440/Far_East_Bistro_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Corridor_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Corridor_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Black_Sun_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Black_Sun_3440x1440_thumbnail.png)</a>
