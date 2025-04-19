@@ -2962,3 +2962,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Black_Sun_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Black_Sun_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Art_by_Brian_Bendis_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Art_by_Brian_Bendis_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Jukkenchobashi_Dori_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Jukkenchobashi_Dori_5160x2160_thumbnail.png)</a>
+<a href=3440x1440/Harbor_of_Light_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Harbor_of_Light_3440x1440_thumbnail.png)</a>
