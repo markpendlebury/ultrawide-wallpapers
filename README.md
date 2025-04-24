@@ -2992,3 +2992,17 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_04_20_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_04_20_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=3440x1440/Cherry_Blossom_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Cherry_Blossom_3440x1440_thumbnail.png)</a>
 <a href=5040x2160/Monte_Altissimo_di_Nago_Italy_5040x2160.jpeg target=_blank>![Credit: amir_zxy](5040x2160/Monte_Altissimo_di_Nago_Italy_5040x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Oblivion_Remastered_3440x1440.png target=_blank>![Credit: Icelightning250](3440x1440/Oblivion_Remastered_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Gustav_Klimt_3440x1440_0.png target=_blank>![Credit: SaL](3440x1440/Gustav_Klimt_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Gustav_Klimt_3440x1440_1.png target=_blank>![Credit: SaL](3440x1440/Gustav_Klimt_3440x1440_1_thumbnail.png)</a>
+<a href=3440x1440/Gustav_Klimt_3440x1440_2.png target=_blank>![Credit: SaL](3440x1440/Gustav_Klimt_3440x1440_2_thumbnail.png)</a>
+<a href=3440x1440/CyberH_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/CyberH_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/NPC_You_Know_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/NPC_You_Know_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Escape_From_Tarkov_Arena_5120x1440.png target=_blank>![Credit: leSang](5120x1440/Escape_From_Tarkov_Arena_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Cyberpunk_Graffiti_My_capture_3440x1440.png target=_blank>![Credit: BaconEgg](3440x1440/Cyberpunk_Graffiti_My_capture_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Motivational_from_Dr_Manhattan_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Motivational_from_Dr_Manhattan_3440x1440_thumbnail.png)</a>
+<a href=3307x1431/Howl_s_moving_castle_3307x1431.jpeg target=_blank>![Credit: amir_zxy](3307x1431/Howl_s_moving_castle_3307x1431_thumbnail.jpeg)</a>
+<a href=3440x1440/The_Cookie_Monster_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/The_Cookie_Monster_3440x1440_thumbnail.png)</a>
+<a href=5638x2416/Assassin_s_Creed_Origins_5638x2416.jpeg target=_blank>![Credit: amir_zxy](5638x2416/Assassin_s_Creed_Origins_5638x2416_thumbnail.jpeg)</a>
+<a href=3440x1440/Berserk_x_Diablo_3440x1440.png target=_blank>![Credit: Sumcha](3440x1440/Berserk_x_Diablo_3440x1440_thumbnail.png)</a>
+<a href=4111x3648/Mesa_AZ_Sunset_14111x3648.jpeg target=_blank>![Credit: xinvisionx](4111x3648/Mesa_AZ_Sunset_14111x3648_thumbnail.jpeg)</a>
