@@ -3006,3 +3006,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5638x2416/Assassin_s_Creed_Origins_5638x2416.jpeg target=_blank>![Credit: amir_zxy](5638x2416/Assassin_s_Creed_Origins_5638x2416_thumbnail.jpeg)</a>
 <a href=3440x1440/Berserk_x_Diablo_3440x1440.png target=_blank>![Credit: Sumcha](3440x1440/Berserk_x_Diablo_3440x1440_thumbnail.png)</a>
 <a href=4111x3648/Mesa_AZ_Sunset_14111x3648.jpeg target=_blank>![Credit: xinvisionx](4111x3648/Mesa_AZ_Sunset_14111x3648_thumbnail.jpeg)</a>
+<a href=3440x1440/Cars_I_ve_shot_3440x1440__hi_res_in_comments_0.jpg target=_blank>![Credit: Nerdasaurusrexx](3440x1440/Cars_I_ve_shot_3440x1440__hi_res_in_comments_0_thumbnail.jpg)</a>
