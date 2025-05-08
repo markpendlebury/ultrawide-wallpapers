@@ -3088,3 +3088,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440X1440/A_few_photos_I_ve_taken_3440X1440_2.png target=_blank>![Credit: mikeygribbin](3440X1440/A_few_photos_I_ve_taken_3440X1440_2_thumbnail.png)</a>
 <a href=3440x1440/Planet_of_Lana_3440x1440.png target=_blank>![Credit: Velawcity](3440x1440/Planet_of_Lana_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Star_Wars_Skirmish_over_Kamino_3440x1440.jpeg target=_blank>![Credit: SaL](3440x1440/Star_Wars_Skirmish_over_Kamino_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Winston_Churchill_VE_Day_1945_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Winston_Churchill_VE_Day_1945_3440x1440_thumbnail.png)</a>
