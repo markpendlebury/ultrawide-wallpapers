@@ -3092,3 +3092,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Story_behind_a_wallpaper_7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/Story_behind_a_wallpaper_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Story_behind_a_wallpaper_7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/Story_behind_a_wallpaper_7680x2160_1_thumbnail.jpg)</a>
 <a href=3440x1440/Aristotle__or_Socrates__3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Aristotle__or_Socrates__3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Vikings_Tv_Series_Ragnar_Lothbrok_3440x1440.png target=_blank>![Credit: Necessary_End_5040](3440x1440/Vikings_Tv_Series_Ragnar_Lothbrok_3440x1440_thumbnail.png)</a>
