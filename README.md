@@ -3094,3 +3094,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Aristotle__or_Socrates__3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Aristotle__or_Socrates__3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Vikings_Tv_Series_Ragnar_Lothbrok_3440x1440.png target=_blank>![Credit: Necessary_End_5040](3440x1440/Vikings_Tv_Series_Ragnar_Lothbrok_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Lord_of_the_Rings_Artwork_3440x1440.png target=_blank>![Credit: Raumarik](3440x1440/Lord_of_the_Rings_Artwork_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/GTA_VI___South_of_Leonida_Keys_5120x2160_0.png target=_blank>![Credit: acoolrocket](5120x2160/GTA_VI___South_of_Leonida_Keys_5120x2160_0_thumbnail.png)</a>
