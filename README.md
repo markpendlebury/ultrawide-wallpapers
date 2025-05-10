@@ -3098,3 +3098,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/GTA_VI___South_of_Leonida_Keys_5120x2160_1.png target=_blank>![Credit: acoolrocket](5120x2160/GTA_VI___South_of_Leonida_Keys_5120x2160_1_thumbnail.png)</a>
 <a href=3440x1440/Spider_Man_pointing_at_Spider_Man_Meme_3440x1440.png target=_blank>![Credit: ezb14](3440x1440/Spider_Man_pointing_at_Spider_Man_Meme_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Hex_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Hex_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/GTA_VI___Extended_Wallpaper_3440x1440_0.png target=_blank>![Credit: The_Lobo](3440x1440/GTA_VI___Extended_Wallpaper_3440x1440_0_thumbnail.png)</a>
