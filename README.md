@@ -3101,3 +3101,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/GTA_VI___Extended_Wallpaper_3440x1440_0.png target=_blank>![Credit: The_Lobo](3440x1440/GTA_VI___Extended_Wallpaper_3440x1440_0_thumbnail.png)</a>
 <a href=3440x1440/GTA_VI___Extended_Wallpaper_3440x1440_1.png target=_blank>![Credit: The_Lobo](3440x1440/GTA_VI___Extended_Wallpaper_3440x1440_1_thumbnail.png)</a>
 <a href=3840x1080/POOLS_3840x1080_0.png target=_blank>![Credit: Big_Gwinga](3840x1080/POOLS_3840x1080_0_thumbnail.png)</a>
+<a href=3840x1080/POOLS_3840x1080_1.png target=_blank>![Credit: Big_Gwinga](3840x1080/POOLS_3840x1080_1_thumbnail.png)</a>
