@@ -3116,3 +3116,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/High_Noon_on_Planet_9_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/High_Noon_on_Planet_9_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Minecraft_In_Game_Wallpaper_7680x2160.jpeg target=_blank>![Credit: iAmAlbert_A](7680x2160/Minecraft_In_Game_Wallpaper_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Red_Rocks_Odyssey_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Red_Rocks_Odyssey_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Ring_Eclipse_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/Ring_Eclipse_3440x1440_thumbnail.jpeg)</a>
