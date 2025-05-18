@@ -3126,3 +3126,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Maynard_Dixon___Cloud_World_1925_3440x1440.jpeg target=_blank>![Credit: SaL](3440x1440/Maynard_Dixon___Cloud_World_1925_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Foggy_Forest_3440x1440.jpeg target=_blank>![Credit: n0b0dycar3s07](3440x1440/Foggy_Forest_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Elder_Scrolls_Online_loading_art_Part_1_3440x1440_0.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_loading_art_Part_1_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Elder_Scrolls_Online_loading_art_Part_1_3440x1440_1.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_loading_art_Part_1_3440x1440_1_thumbnail.png)</a>
