@@ -3125,3 +3125,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Star_Wars_Japanese_Noriyoshi_Ohrai_5120x2160.jpeg target=_blank>![Credit: acoolrocket](5120x2160/Star_Wars_Japanese_Noriyoshi_Ohrai_5120x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Maynard_Dixon___Cloud_World_1925_3440x1440.jpeg target=_blank>![Credit: SaL](3440x1440/Maynard_Dixon___Cloud_World_1925_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Foggy_Forest_3440x1440.jpeg target=_blank>![Credit: n0b0dycar3s07](3440x1440/Foggy_Forest_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Elder_Scrolls_Online_loading_art_Part_1_3440x1440_0.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_loading_art_Part_1_3440x1440_0_thumbnail.png)</a>
