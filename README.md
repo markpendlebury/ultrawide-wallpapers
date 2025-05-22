@@ -3176,3 +3176,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Quiet_Place_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Quiet_Place_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Elder_Scrolls_Online_Key_Art_3440x1440_0.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_Key_Art_3440x1440_0_thumbnail.png)</a>
 <a href=3440x1440/Elder_Scrolls_Online_Key_Art_3440x1440_1.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_Key_Art_3440x1440_1_thumbnail.png)</a>
+<a href=3440x1440/Elder_Scrolls_Online_Key_Art_3440x1440_2.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_Key_Art_3440x1440_2_thumbnail.png)</a>
