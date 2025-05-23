@@ -3189,3 +3189,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Rivian_R3X_5120x1440.jpeg target=_blank>![Credit: deja_vu_22](5120x1440/Rivian_R3X_5120x1440_thumbnail.jpeg)</a>
 <a href=3840x1080/Topographic_3840x1080_0.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Topographic_3840x1080_0_thumbnail.png)</a>
 <a href=3840x1080/Topographic_3840x1080_1.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Topographic_3840x1080_1_thumbnail.png)</a>
+<a href=5120x2160/Beastie_Boys___Licensed_to_Ill_5120x2160.jpeg target=_blank>![Credit: acoolrocket](5120x2160/Beastie_Boys___Licensed_to_Ill_5120x2160_thumbnail.jpeg)</a>
