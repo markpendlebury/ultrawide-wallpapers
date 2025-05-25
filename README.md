@@ -3213,3 +3213,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Elder_Scrolls_Online_loading_art_Part_3_3440x1440_7.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_loading_art_Part_3_3440x1440_7_thumbnail.png)</a>
 <a href=3440x1440/Elder_Scrolls_Online_loading_art_Part_3_3440x1440_8.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_loading_art_Part_3_3440x1440_8_thumbnail.png)</a>
 <a href=3440x1440/Elder_Scrolls_Online_loading_art_Part_3_3440x1440_9.png target=_blank>![Credit: Broduskii](3440x1440/Elder_Scrolls_Online_loading_art_Part_3_3440x1440_9_thumbnail.png)</a>
+<a href=3440x1440/The_Curious_Cat_3440x1440.png target=_blank>![Credit: SaL](3440x1440/The_Curious_Cat_3440x1440_thumbnail.png)</a>
