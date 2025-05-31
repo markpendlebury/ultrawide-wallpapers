@@ -3268,3 +3268,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/veni_vidi_vici__3440x1440.jpeg target=_blank>![Credit: boisundae](3440x1440/veni_vidi_vici__3440x1440_thumbnail.jpeg)</a>
 <a href=3840x1600/Gengar_3840x1600.png target=_blank>![Credit: SaL](3840x1600/Gengar_3840x1600_thumbnail.png)</a>
 <a href=3840x1080/Marvel_Heroes_and_Villains_3840x1080.png target=_blank>![Credit: Randomcitizen6](3840x1080/Marvel_Heroes_and_Villains_3840x1080_thumbnail.png)</a>
+<a href=3440x1440/2025_ASUS_ROG_ASTRAL_3440x1440.png target=_blank>![Credit: phamat0n](3440x1440/2025_ASUS_ROG_ASTRAL_3440x1440_thumbnail.png)</a>
