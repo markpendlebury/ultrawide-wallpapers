@@ -3264,3 +3264,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Anime_Girl_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Anime_Girl_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Android_Enforcer_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Android_Enforcer_3440x1440_thumbnail.png)</a>
 <a href=3840x1080/Ken_Kaneki_from_Tokyo_Ghoul_3840x1080.jpeg target=_blank>![Credit: Randomcitizen6](3840x1080/Ken_Kaneki_from_Tokyo_Ghoul_3840x1080_thumbnail.jpeg)</a>
+<a href=3440x1440/ESO_key_art__3440x1440.png target=_blank>![Credit: Broduskii](3440x1440/ESO_key_art__3440x1440_thumbnail.png)</a>
