@@ -3300,3 +3300,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_06_01_21_9_&_32_9__7680x2160_17.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_06_01_21_9_&_32_9__7680x2160_17_thumbnail.jpg)</a>
 <a href=5120x2160/Rogue_One_5120x2160.jpeg target=_blank>![Credit: Das_Zeppelin](5120x2160/Rogue_One_5120x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Ferrari_SF90_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Ferrari_SF90_3440x1440_thumbnail.png)</a>
+<a href=5120x2160/The_Statue_of_Liberty_with_Twin_Towers_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/The_Statue_of_Liberty_with_Twin_Towers_5120x2160_thumbnail.png)</a>
