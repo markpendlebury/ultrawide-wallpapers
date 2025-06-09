@@ -3333,3 +3333,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Warcraft_III_Reforged_3440x1440_11.png target=_blank>![Credit: Broduskii](3440x1440/Warcraft_III_Reforged_3440x1440_11_thumbnail.png)</a>
 <a href=3440x1440/Warcraft_III_Reforged_3440x1440_12.png target=_blank>![Credit: Broduskii](3440x1440/Warcraft_III_Reforged_3440x1440_12_thumbnail.png)</a>
 <a href=7680x2160/My_weekly_drop_06_08_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_06_08_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/My_weekly_drop_06_08_21_9_&_32_9__7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_06_08_21_9_&_32_9__7680x2160_1_thumbnail.jpg)</a>
