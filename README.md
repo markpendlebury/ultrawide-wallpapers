@@ -3361,3 +3361,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/It_was_a_good_day__5120x1440_3.png target=_blank>![Credit: TheHoBoLoBo](5120x1440/It_was_a_good_day__5120x1440_3_thumbnail.png)</a>
 <a href=5120x1440/It_was_a_good_day__5120x1440_4.png target=_blank>![Credit: TheHoBoLoBo](5120x1440/It_was_a_good_day__5120x1440_4_thumbnail.png)</a>
 <a href=5120x1440/It_was_a_good_day__5120x1440_5.png target=_blank>![Credit: TheHoBoLoBo](5120x1440/It_was_a_good_day__5120x1440_5_thumbnail.png)</a>
+<a href=3440x1440/Audi_Quattro_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Audi_Quattro_3440x1440_thumbnail.png)</a>
