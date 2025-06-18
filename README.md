@@ -3393,3 +3393,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Detroit_from_Windsor_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Detroit_from_Windsor_5120x2160_thumbnail.png)</a>
 <a href=4608x1974/Posterized_Nissan_Skyline_R34_4608x1974.jpeg target=_blank>![Credit: Marian_Yount](4608x1974/Posterized_Nissan_Skyline_R34_4608x1974_thumbnail.jpeg)</a>
 <a href=3440x1440/Woodland_Meadow_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Woodland_Meadow_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/You_will_travel_far_my_little_Kal_El_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/You_will_travel_far_my_little_Kal_El_5120x1440_thumbnail.png)</a>
