@@ -3401,3 +3401,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Colourful_Flowers_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Colourful_Flowers_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Cyberpunk_2077_3440x1440_0.png target=_blank>![Credit: Asleep_Actuary_646](3440x1440/Cyberpunk_2077_3440x1440_0_thumbnail.png)</a>
 <a href=3440x1440/Cyberpunk_2077_3440x1440_1.png target=_blank>![Credit: Asleep_Actuary_646](3440x1440/Cyberpunk_2077_3440x1440_1_thumbnail.png)</a>
+<a href=3440x1440/Cyberpunk_2077_3440x1440_2.png target=_blank>![Credit: Asleep_Actuary_646](3440x1440/Cyberpunk_2077_3440x1440_2_thumbnail.png)</a>
