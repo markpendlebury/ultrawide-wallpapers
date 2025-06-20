@@ -3404,3 +3404,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Cyberpunk_2077_3440x1440_2.png target=_blank>![Credit: Asleep_Actuary_646](3440x1440/Cyberpunk_2077_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/Lantern_Festival_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Lantern_Festival_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/NetoTokyo_by_Pablo_Olivera_Akira__3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/NetoTokyo_by_Pablo_Olivera_Akira__3440x1440_thumbnail.png)</a>
+<a href=3840x1080/Command_and_Conquer_3_Tiberium_Wars_3840x1080.png target=_blank>![Credit: Big_Gwinga](3840x1080/Command_and_Conquer_3_Tiberium_Wars_3840x1080_thumbnail.png)</a>
