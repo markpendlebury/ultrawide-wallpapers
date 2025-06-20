@@ -3405,3 +3405,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Lantern_Festival_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Lantern_Festival_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/NetoTokyo_by_Pablo_Olivera_Akira__3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/NetoTokyo_by_Pablo_Olivera_Akira__3440x1440_thumbnail.png)</a>
 <a href=3840x1080/Command_and_Conquer_3_Tiberium_Wars_3840x1080.png target=_blank>![Credit: Big_Gwinga](3840x1080/Command_and_Conquer_3_Tiberium_Wars_3840x1080_thumbnail.png)</a>
+<a href=3440x1440/Northrop_B_2_Spirit_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Northrop_B_2_Spirit_3440x1440_thumbnail.png)</a>
