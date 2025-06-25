@@ -3449,3 +3449,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Goodbye_by_Julien_Georgel_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Goodbye_by_Julien_Georgel_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Megumi_Fushiguro_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Megumi_Fushiguro_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Midnight_Drive_by_Frank_Hong_3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/Midnight_Drive_by_Frank_Hong_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Elessar_and_Andúril_3440x1440.jpeg target=_blank>![Credit: Das_Zeppelin](3440x1440/Elessar_and_Andúril_3440x1440_thumbnail.jpeg)</a>
