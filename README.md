@@ -3468,3 +3468,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Photo_of_the_Stars_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Photo_of_the_Stars_3840x1080_thumbnail.jpeg)</a>
 <a href=5120x2160/story_03_by_Zhuoxin_Ye_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/story_03_by_Zhuoxin_Ye_5120x2160_thumbnail.png)</a>
 <a href=3840x1080/Need_for_Speed_2015_3840x1080_0.jpg target=_blank>![Credit: Big_Gwinga](3840x1080/Need_for_Speed_2015_3840x1080_0_thumbnail.jpg)</a>
+<a href=3840x1080/Need_for_Speed_2015_3840x1080_1.jpg target=_blank>![Credit: Big_Gwinga](3840x1080/Need_for_Speed_2015_3840x1080_1_thumbnail.jpg)</a>
