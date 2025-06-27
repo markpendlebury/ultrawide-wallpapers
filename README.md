@@ -3456,3 +3456,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Goodbye_by_Julien_Georgel_5120x1440.png target=_blank>![Credit: Goosephat](5120x1440/Goodbye_by_Julien_Georgel_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/There_may_be_signs_that_I_m_excited_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/There_may_be_signs_that_I_m_excited_5120x1440_thumbnail.png)</a>
 <a href=3840x1080/Lightning_3840x1080_0.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Lightning_3840x1080_0_thumbnail.jpg)</a>
+<a href=3840x1080/Lightning_3840x1080_1.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Lightning_3840x1080_1_thumbnail.jpg)</a>
