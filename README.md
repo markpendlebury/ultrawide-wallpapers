@@ -3465,3 +3465,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Lightning_3840x1080_7.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Lightning_3840x1080_7_thumbnail.jpg)</a>
 <a href=3840x1080/Lightning_3840x1080_8.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Lightning_3840x1080_8_thumbnail.jpg)</a>
 <a href=3440x1440/Japanese_Landscape_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Japanese_Landscape_3440x1440_thumbnail.png)</a>
+<a href=3840x1080/Photo_of_the_Stars_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Photo_of_the_Stars_3840x1080_thumbnail.jpeg)</a>
