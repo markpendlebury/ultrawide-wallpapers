@@ -3475,3 +3475,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Need_for_Speed_2015_3840x1080_5.jpg target=_blank>![Credit: Big_Gwinga](3840x1080/Need_for_Speed_2015_3840x1080_5_thumbnail.jpg)</a>
 <a href=5160x2160/Windows_Shack_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Windows_Shack_5160x2160_thumbnail.png)</a>
 <a href=3840x1080/Need_for_Speed_2015_3840x1080_6.jpg target=_blank>![Credit: Big_Gwinga](3840x1080/Need_for_Speed_2015_3840x1080_6_thumbnail.jpg)</a>
+<a href=7680x2160/Super_Ultrawide_Dump_7680x2160_0.jpg target=_blank>![Credit: bearandlager](7680x2160/Super_Ultrawide_Dump_7680x2160_0_thumbnail.jpg)</a>
