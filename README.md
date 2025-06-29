@@ -3513,3 +3513,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_4.jpg target=_blank>![Credit: kayacionur](7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_4_thumbnail.jpg)</a>
 <a href=7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_5.jpg target=_blank>![Credit: kayacionur](7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_5_thumbnail.jpg)</a>
 <a href=7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_6.jpg target=_blank>![Credit: kayacionur](7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_6_thumbnail.jpg)</a>
+<a href=7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_7.jpg target=_blank>![Credit: kayacionur](7680x2400/Ultrawide_3D_Abstract_Wallpapers_7680x2400_7_thumbnail.jpg)</a>
