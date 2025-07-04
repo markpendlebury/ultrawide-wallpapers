@@ -3534,3 +3534,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Curious_New_Friends_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Curious_New_Friends_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Canada_Mountain_View_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Canada_Mountain_View_5160x2160_thumbnail.png)</a>
 <a href=5120x1440/Over_Silent_Grass_5120x1440.png target=_blank>![Credit: Das_Zeppelin](5120x1440/Over_Silent_Grass_5120x1440_thumbnail.png)</a>
+<a href=3840x1600/Bladerunner_1982_3840x1600.png target=_blank>![Credit: SaL](3840x1600/Bladerunner_1982_3840x1600_thumbnail.png)</a>
