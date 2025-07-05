@@ -3540,3 +3540,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Arecibo_message_3840x1080.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Arecibo_message_3840x1080_thumbnail.png)</a>
 <a href=3440x1440/90s_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/90s_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Alien_Woman_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Alien_Woman_5160x2160_thumbnail.png)</a>
+<a href=5120x1440/No_not_the_one_from_the_Simpsons_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/No_not_the_one_from_the_Simpsons_5120x1440_thumbnail.png)</a>
