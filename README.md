@@ -3570,3 +3570,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Oregon’s_Magical_Valley_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Oregon’s_Magical_Valley_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Saja_Boys_Takeover_by_Kat_Tsai_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Saja_Boys_Takeover_by_Kat_Tsai_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Turkish_Cay_OLED_3440_x_1440.png target=_blank>![Credit: UltraHQz](3440x1440/Turkish_Cay_OLED_3440_x_1440_thumbnail.png)</a>
+<a href=5120x1440/It_s_Starlord_man_C_mon_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/It_s_Starlord_man_C_mon_5120x1440_thumbnail.png)</a>
