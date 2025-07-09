@@ -3573,3 +3573,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/It_s_Starlord_man_C_mon_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/It_s_Starlord_man_C_mon_5120x1440_thumbnail.png)</a>
 <a href=3840x1080/You_ll_Never_Walk_Alone_Liverpool_FC__3840x1080_0.png target=_blank>![Credit: Das_Zeppelin](3840x1080/You_ll_Never_Walk_Alone_Liverpool_FC__3840x1080_0_thumbnail.png)</a>
 <a href=3840x1080/You_ll_Never_Walk_Alone_Liverpool_FC__3840x1080_1.png target=_blank>![Credit: Das_Zeppelin](3840x1080/You_ll_Never_Walk_Alone_Liverpool_FC__3840x1080_1_thumbnail.png)</a>
+<a href=3440x1440/Lake_Aurora_3440x1440.png target=_blank>![Credit: phamat0n](3440x1440/Lake_Aurora_3440x1440_thumbnail.png)</a>
