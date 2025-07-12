@@ -3581,3 +3581,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/You_ll_Never_Walk_Alone_Liverpool_FC__3440x1440.png target=_blank>![Credit: Das_Zeppelin](3440x1440/You_ll_Never_Walk_Alone_Liverpool_FC__3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Some_Distant_Future_by_Sergey_Grechany_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Some_Distant_Future_by_Sergey_Grechany_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Twilight_Valley_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Twilight_Valley_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Yin_&_Yang_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Yin_&_Yang_3440x1440_thumbnail.png)</a>
