@@ -3597,3 +3597,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Tetris_3840x1080_and_7680×2160_6.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Tetris_3840x1080_and_7680×2160_6_thumbnail.png)</a>
 <a href=3840x1080/Tetris_3840x1080_and_7680×2160_7.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Tetris_3840x1080_and_7680×2160_7_thumbnail.png)</a>
 <a href=7680x2160/Some_32_9__7680x2160_Wallpapers_0.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Some_32_9__7680x2160_Wallpapers_0_thumbnail.jpg)</a>
+<a href=7680x2160/Some_32_9__7680x2160_Wallpapers_1.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Some_32_9__7680x2160_Wallpapers_1_thumbnail.jpg)</a>
