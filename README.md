@@ -3590,3 +3590,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Dandadan_5120x2160_2.png target=_blank>![Credit: troy57890](5120x2160/Dandadan_5120x2160_2_thumbnail.png)</a>
 <a href=3840x1080/Tetris_3840x1080_and_7680×2160_0.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Tetris_3840x1080_and_7680×2160_0_thumbnail.png)</a>
 <a href=3840x1080/Tetris_3840x1080_and_7680×2160_1.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Tetris_3840x1080_and_7680×2160_1_thumbnail.png)</a>
+<a href=3840x1080/Tetris_3840x1080_and_7680×2160_2.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Tetris_3840x1080_and_7680×2160_2_thumbnail.png)</a>
