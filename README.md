@@ -3632,3 +3632,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_07_13_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_07_13_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=5160x2160/Rocky_Shore_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Rocky_Shore_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Chrysanthemum_Study_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Chrysanthemum_Study_5160x2160_thumbnail.png)</a>
+<a href=3840x1240/Heavy_Metal_F_A_K_K_2__3840x1240_0.jpg target=_blank>![Credit: Das_Zeppelin](3840x1240/Heavy_Metal_F_A_K_K_2__3840x1240_0_thumbnail.jpg)</a>
