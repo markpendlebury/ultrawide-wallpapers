@@ -3680,3 +3680,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/24h_Nürburgring_2025___5160x2160.jpeg target=_blank>![Credit: Lost_Gear_6446](5160x2160/24h_Nürburgring_2025___5160x2160_thumbnail.jpeg)</a>
 <a href=5160x2160/Organic_Windows_Wall_5160x2160.png target=_blank>![Credit: TerriblyAdjunct](5160x2160/Organic_Windows_Wall_5160x2160_thumbnail.png)</a>
 <a href=5120x1440/Defy_Your_future_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/Defy_Your_future_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Exoplanet_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Exoplanet_3440x1440_thumbnail.png)</a>
