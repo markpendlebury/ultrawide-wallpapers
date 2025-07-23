@@ -3686,3 +3686,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/G__2021二次元场景___0305_4_by_MH_C_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/G__2021二次元场景___0305_4_by_MH_C_5120x2160_thumbnail.png)</a>
 <a href=7680x2160/Blackhole_render_by_me_in_Blender_7680x2160.jpeg target=_blank>![Credit: Flat_Life_3657](7680x2160/Blackhole_render_by_me_in_Blender_7680x2160_thumbnail.jpeg)</a>
 <a href=5120x1440/Erica_Ship_Flyer_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/Erica_Ship_Flyer_5120x1440_thumbnail.png)</a>
+<a href=5160x2160/Lotus_97T_Goodwood_Festival_of_Speed___5160x2160.jpeg target=_blank>![Credit: Lost_Gear_6446](5160x2160/Lotus_97T_Goodwood_Festival_of_Speed___5160x2160_thumbnail.jpeg)</a>
