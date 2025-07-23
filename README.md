@@ -3681,3 +3681,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Organic_Windows_Wall_5160x2160.png target=_blank>![Credit: TerriblyAdjunct](5160x2160/Organic_Windows_Wall_5160x2160_thumbnail.png)</a>
 <a href=5120x1440/Defy_Your_future_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/Defy_Your_future_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Exoplanet_3440x1440.png target=_blank>![Credit: TerriblyAdjunct](3440x1440/Exoplanet_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/Blackhole_V2_by_Takasy_7680x2160.jpeg target=_blank>![Credit: Flat_Life_3657](7680x2160/Blackhole_V2_by_Takasy_7680x2160_thumbnail.jpeg)</a>
