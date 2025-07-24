@@ -3695,3 +3695,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1080/Wood_3840x1080_5.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Wood_3840x1080_5_thumbnail.jpg)</a>
 <a href=3840x1080/Wood_3840x1080_6.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Wood_3840x1080_6_thumbnail.jpg)</a>
 <a href=3440x1440/Elric_of_Melniboné_by_Robert_Gould_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Elric_of_Melniboné_by_Robert_Gould_3440x1440_thumbnail.png)</a>
+<a href=3840x1080/Frank_Miller_Asbar_Child_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Frank_Miller_Asbar_Child_3840x1080_thumbnail.jpeg)</a>
