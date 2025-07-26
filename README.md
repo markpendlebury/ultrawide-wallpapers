@@ -3709,3 +3709,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Wood_5120x2160_10.jpg target=_blank>![Credit: Das_Zeppelin](5120x2160/Wood_5120x2160_10_thumbnail.jpg)</a>
 <a href=5160x2160/Old_School_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Old_School_5160x2160_thumbnail.png)</a>
 <a href=5120x1440/Frieren_5120x1440.png target=_blank>![Credit: gogoreza](5120x1440/Frieren_5120x1440_thumbnail.png)</a>
+<a href=5160x2160/Random_Prompts_5160x2160_0.png target=_blank>![Credit: SaL](5160x2160/Random_Prompts_5160x2160_0_thumbnail.png)</a>
