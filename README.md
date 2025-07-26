@@ -3711,3 +3711,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Frieren_5120x1440.png target=_blank>![Credit: gogoreza](5120x1440/Frieren_5120x1440_thumbnail.png)</a>
 <a href=5160x2160/Random_Prompts_5160x2160_0.png target=_blank>![Credit: SaL](5160x2160/Random_Prompts_5160x2160_0_thumbnail.png)</a>
 <a href=5160x2160/Random_Prompts_5160x2160_1.png target=_blank>![Credit: SaL](5160x2160/Random_Prompts_5160x2160_1_thumbnail.png)</a>
+<a href=5160x2160/Random_Prompts_5160x2160_2.png target=_blank>![Credit: SaL](5160x2160/Random_Prompts_5160x2160_2_thumbnail.png)</a>
