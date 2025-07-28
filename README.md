@@ -3733,3 +3733,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Art_by_摸鱼斋_washanapple_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Art_by_摸鱼斋_washanapple_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Light_Plane_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Light_Plane_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Forest_Sunrise_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Forest_Sunrise_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/My_weekly_drop_07_27_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_07_27_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
