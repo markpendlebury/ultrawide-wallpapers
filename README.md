@@ -3732,3 +3732,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7415x3178/Godspeed_You_Black_Emperor_Live___7415_x_3178.jpeg target=_blank>![Credit: Lost_Gear_6446](7415x3178/Godspeed_You_Black_Emperor_Live___7415_x_3178_thumbnail.jpeg)</a>
 <a href=5160x2160/Art_by_摸鱼斋_washanapple_5160x2160.png target=_blank>![Credit: DongKwang13](5160x2160/Art_by_摸鱼斋_washanapple_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Light_Plane_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Light_Plane_5160x2160_thumbnail.png)</a>
+<a href=3440x1440/Forest_Sunrise_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Forest_Sunrise_3440x1440_thumbnail.png)</a>
