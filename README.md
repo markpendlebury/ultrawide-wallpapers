@@ -3767,3 +3767,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Rembrandt_Self_Portrait_5120x1440.jpeg target=_blank>![Credit: bearandlager](5120x1440/Rembrandt_Self_Portrait_5120x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Tron_Ares_Movie_5120x1440.png target=_blank>![Credit: DongKwang13](5120x1440/Tron_Ares_Movie_5120x1440_thumbnail.png)</a>
 <a href=3840x1600/Tron_Ares_Movie_3840x1600.png target=_blank>![Credit: DongKwang13](3840x1600/Tron_Ares_Movie_3840x1600_thumbnail.png)</a>
+<a href=3440x1440/Red_Sun_3440x1440.png target=_blank>![Credit: DongKwang13](3440x1440/Red_Sun_3440x1440_thumbnail.png)</a>
