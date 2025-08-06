@@ -3800,3 +3800,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_08_03_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_08_03_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=3440x1440/Spirited_Away_Wallpaper_I_Made_3440x1440.png target=_blank>![Credit: Rightfvlly](3440x1440/Spirited_Away_Wallpaper_I_Made_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Simple_Farm_Life_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Simple_Farm_Life_3440x1440_thumbnail.png)</a>
+<a href=6144x1728/Uncharted_Island_6144_x_1728.png target=_blank>![Credit: Cbo305](6144x1728/Uncharted_Island_6144_x_1728_thumbnail.png)</a>
