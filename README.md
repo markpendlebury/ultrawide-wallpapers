@@ -3802,3 +3802,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Simple_Farm_Life_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Simple_Farm_Life_3440x1440_thumbnail.png)</a>
 <a href=6144x1728/Uncharted_Island_6144_x_1728.png target=_blank>![Credit: Cbo305](6144x1728/Uncharted_Island_6144_x_1728_thumbnail.png)</a>
 <a href=5160x2160/Soyuz_docking_with_the_ISS_5160x2160.png target=_blank>![Credit: rooliebong](5160x2160/Soyuz_docking_with_the_ISS_5160x2160_thumbnail.png)</a>
+<a href=6144x1728/Icelandic_style_waterfall_6144x1728.png target=_blank>![Credit: Cbo305](6144x1728/Icelandic_style_waterfall_6144x1728_thumbnail.png)</a>
