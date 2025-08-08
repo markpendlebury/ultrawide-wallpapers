@@ -3825,3 +3825,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Nebula_Enhanced_3_5160x2160_19.png target=_blank>![Credit: SaL](5160x2160/Nebula_Enhanced_3_5160x2160_19_thumbnail.png)</a>
 <a href=5120x1440/Hello_Old_Friend_5120x1440.png target=_blank>![Credit: OanKnight](5120x1440/Hello_Old_Friend_5120x1440_thumbnail.png)</a>
 <a href=5936x1664/Off_World_Exploration_5936x1664.png target=_blank>![Credit: Cbo305](5936x1664/Off_World_Exploration_5936x1664_thumbnail.png)</a>
+<a href=6144x1728/River_Bear_6144x1728.png target=_blank>![Credit: Cbo305](6144x1728/River_Bear_6144x1728_thumbnail.png)</a>
