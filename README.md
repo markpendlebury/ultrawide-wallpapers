@@ -3827,3 +3827,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5936x1664/Off_World_Exploration_5936x1664.png target=_blank>![Credit: Cbo305](5936x1664/Off_World_Exploration_5936x1664_thumbnail.png)</a>
 <a href=6144x1728/River_Bear_6144x1728.png target=_blank>![Credit: Cbo305](6144x1728/River_Bear_6144x1728_thumbnail.png)</a>
 <a href=4440x1440/Big_Brother_34440x1440.png target=_blank>![Credit: DongKwang13](4440x1440/Big_Brother_34440x1440_thumbnail.png)</a>
+<a href=3440x1440/Slum_Apartments_by_Alexander_Sköld_3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/Slum_Apartments_by_Alexander_Sköld_3440x1440_thumbnail.png)</a>
