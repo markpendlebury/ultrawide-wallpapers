@@ -3865,3 +3865,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Realism_and_Illustration_Gallery_5120x1440_11.png target=_blank>![Credit: Cbo305](5120x1440/Realism_and_Illustration_Gallery_5120x1440_11_thumbnail.png)</a>
 <a href=5120x1440/NASA_s_Perseverance_Rover_at_Falbreen_5120x1440.png target=_blank>![Credit: Das_Zeppelin](5120x1440/NASA_s_Perseverance_Rover_at_Falbreen_5120x1440_thumbnail.png)</a>
 <a href=3840x1080/Edge_of_Jezero_crater_3840x1080.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Edge_of_Jezero_crater_3840x1080_thumbnail.png)</a>
+<a href=3440x1440/The_Last_Bastion_3440x1440.png target=_blank>![Credit: SaL](3440x1440/The_Last_Bastion_3440x1440_thumbnail.png)</a>
