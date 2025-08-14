@@ -3868,3 +3868,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/The_Last_Bastion_3440x1440.png target=_blank>![Credit: SaL](3440x1440/The_Last_Bastion_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Matrix_Lofi_Dream_3440x1440.png target=_blank>![Credit: orionsanthology](3440x1440/Matrix_Lofi_Dream_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Made_a_Ghost_in_the_Shell_Wallpaper_3440x1440.png target=_blank>![Credit: Rightfvlly](3440x1440/Made_a_Ghost_in_the_Shell_Wallpaper_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Edge_of_Jezero_crater_3440x1440.jpeg target=_blank>![Credit: Das_Zeppelin](3440x1440/Edge_of_Jezero_crater_3440x1440_thumbnail.jpeg)</a>
