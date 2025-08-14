@@ -3870,3 +3870,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Made_a_Ghost_in_the_Shell_Wallpaper_3440x1440.png target=_blank>![Credit: Rightfvlly](3440x1440/Made_a_Ghost_in_the_Shell_Wallpaper_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Edge_of_Jezero_crater_3440x1440.jpeg target=_blank>![Credit: Das_Zeppelin](3440x1440/Edge_of_Jezero_crater_3440x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Gregory_Colbert___Ashes_and_Snow_5160x2160.jpeg target=_blank>![Credit: Das_Zeppelin](5160x2160/Gregory_Colbert___Ashes_and_Snow_5160x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Stillwater_Bloom_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Stillwater_Bloom_3440x1440_thumbnail.png)</a>
