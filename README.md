@@ -3874,3 +3874,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Captain_s_Quarters_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Captain_s_Quarters_5120x1440_thumbnail.png)</a>
 <a href=6880x2880/Lumina_Dark_by_dpcdpc11_6880x2880.png target=_blank>![Credit: dpcdpc11](6880x2880/Lumina_Dark_by_dpcdpc11_6880x2880_thumbnail.png)</a>
 <a href=3440x1440/Space_1999_The_Transport_Eagle_3440x1440.png target=_blank>![Credit: Goosephat](3440x1440/Space_1999_The_Transport_Eagle_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Spaceman_Spiff_5160x2160.png target=_blank>![Credit: SaL](5160x2160/Spaceman_Spiff_5160x2160_thumbnail.png)</a>
