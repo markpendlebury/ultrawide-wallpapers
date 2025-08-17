@@ -3878,3 +3878,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Robert_Parker___Awakening_3440x1440.png target=_blank>![Credit: acoolrocket](3440x1440/Robert_Parker___Awakening_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Unusual_Landscapes_5160x2160_0.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_0_thumbnail.png)</a>
 <a href=5160x2160/Unusual_Landscapes_5160x2160_1.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_1_thumbnail.png)</a>
+<a href=5160x2160/Unusual_Landscapes_5160x2160_2.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_2_thumbnail.png)</a>
