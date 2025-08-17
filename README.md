@@ -3890,3 +3890,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Unusual_Landscapes_5160x2160_11.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_11_thumbnail.png)</a>
 <a href=5160x2160/Unusual_Landscapes_5160x2160_12.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_12_thumbnail.png)</a>
 <a href=5160x2160/Unusual_Landscapes_5160x2160_13.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_13_thumbnail.png)</a>
+<a href=5160x2160/Unusual_Landscapes_5160x2160_14.png target=_blank>![Credit: SaL](5160x2160/Unusual_Landscapes_5160x2160_14_thumbnail.png)</a>
