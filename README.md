@@ -3938,3 +3938,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Colorful_Thought_Process_3440x1440.png target=_blank>![Credit: zeamp](3440x1440/Colorful_Thought_Process_3440x1440_thumbnail.png)</a>
 <a href=6880x2880/Lumina_Colorful_by_dpcdpc11_6880x2880.png target=_blank>![Credit: dpcdpc11](6880x2880/Lumina_Colorful_by_dpcdpc11_6880x2880_thumbnail.png)</a>
 <a href=2560x1080/Confrontation_by_Ariel_ZB_2560x1080.png target=_blank>![Credit: acoolrocket](2560x1080/Confrontation_by_Ariel_ZB_2560x1080_thumbnail.png)</a>
+<a href=3440x1440/Quiet_Morning_in_Old_Town_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Quiet_Morning_in_Old_Town_3440x1440_thumbnail.jpeg)</a>
