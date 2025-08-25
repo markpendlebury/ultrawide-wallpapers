@@ -3940,3 +3940,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Confrontation_by_Ariel_ZB_2560x1080.png target=_blank>![Credit: acoolrocket](2560x1080/Confrontation_by_Ariel_ZB_2560x1080_thumbnail.png)</a>
 <a href=3440x1440/Quiet_Morning_in_Old_Town_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Quiet_Morning_in_Old_Town_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Deep_Space_Chillin_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Deep_Space_Chillin_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/Quiet_Morning_in_Old_Town_5120x1440.jpeg target=_blank>![Credit: Hillvegxn](5120x1440/Quiet_Morning_in_Old_Town_5120x1440_thumbnail.jpeg)</a>
