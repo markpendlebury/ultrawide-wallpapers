@@ -3970,3 +3970,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_4.jpg target=_blank>![Credit: MoreArtThanScience](3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_4_thumbnail.jpg)</a>
 <a href=3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_5.jpg target=_blank>![Credit: MoreArtThanScience](3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_5_thumbnail.jpg)</a>
 <a href=3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_6.jpg target=_blank>![Credit: MoreArtThanScience](3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_6_thumbnail.jpg)</a>
+<a href=3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_7.jpg target=_blank>![Credit: MoreArtThanScience](3880x1440/Subtle_gradients_3880_x_1440_9600_x_3600_in_link_7_thumbnail.jpg)</a>
