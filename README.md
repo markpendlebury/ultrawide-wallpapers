@@ -3974,3 +3974,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Guardian_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Guardian_5120x1440_thumbnail.png)</a>
 <a href=2048x1280/Stellar_Dream_2048x1280.jpeg target=_blank>![Credit: orionsanthology](2048x1280/Stellar_Dream_2048x1280_thumbnail.jpeg)</a>
 <a href=5160x2160/Heroes_Square_Budapest__5160x2160.jpeg target=_blank>![Credit: Das_Zeppelin](5160x2160/Heroes_Square_Budapest__5160x2160_thumbnail.jpeg)</a>
+<a href=5160x2160/Sasan_Gir_Gujarat_India_photo_by_Siddharth_Shah__5160x2160.jpeg target=_blank>![Credit: paol](5160x2160/Sasan_Gir_Gujarat_India_photo_by_Siddharth_Shah__5160x2160_thumbnail.jpeg)</a>
