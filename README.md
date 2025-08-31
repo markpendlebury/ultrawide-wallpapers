@@ -3978,3 +3978,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Puffin_on_the_cliffs_of_Vik_Iceland_5160x2160.jpeg target=_blank>![Credit: paol](5160x2160/Puffin_on_the_cliffs_of_Vik_Iceland_5160x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Mumbai_3440x1440.jpeg target=_blank>![Credit: Shishkun](3440x1440/Mumbai_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Dubai_3440x1440.jpeg target=_blank>![Credit: Shishkun](3440x1440/Dubai_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Anthem_of_the_seas_RCI_3440x1440.jpeg target=_blank>![Credit: Shishkun](3440x1440/Anthem_of_the_seas_RCI_3440x1440_thumbnail.jpeg)</a>
