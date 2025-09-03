@@ -4001,3 +4001,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_08_31_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_08_31_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=5120x1440/Karl_Lagerfeld_5120x1440.png target=_blank>![Credit: Das_Zeppelin](5120x1440/Karl_Lagerfeld_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Desert_Supercell_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Desert_Supercell_5120x1440_thumbnail.png)</a>
+<a href=9600x3600/South_Pole_Telescope_9600x3600.jpeg target=_blank>![Credit: Das_Zeppelin](9600x3600/South_Pole_Telescope_9600x3600_thumbnail.jpeg)</a>
