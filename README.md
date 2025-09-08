@@ -4039,3 +4039,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4006x1715/X_wing_on_fire_4006x1715.png target=_blank>![Credit: Snail_Boop](4006x1715/X_wing_on_fire_4006x1715_thumbnail.png)</a>
 <a href=3440x1440/Moody_neon_vibes_on_an_empty_road_3440_x_1440.jpeg target=_blank>![Credit: harbyback](3440x1440/Moody_neon_vibes_on_an_empty_road_3440_x_1440_thumbnail.jpeg)</a>
 <a href=7680x2160/My_weekly_drop_09_07_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_09_07_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/My_weekly_drop_09_07_21_9_&_32_9__7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_09_07_21_9_&_32_9__7680x2160_1_thumbnail.jpg)</a>
