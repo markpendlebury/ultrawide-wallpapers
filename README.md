@@ -4037,3 +4037,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Low_Orbit_5120x1440_12.png target=_blank>![Credit: Cbo305](5120x1440/Low_Orbit_5120x1440_12_thumbnail.png)</a>
 <a href=5120x1440/Low_Orbit_5120x1440_13.png target=_blank>![Credit: Cbo305](5120x1440/Low_Orbit_5120x1440_13_thumbnail.png)</a>
 <a href=4006x1715/X_wing_on_fire_4006x1715.png target=_blank>![Credit: Snail_Boop](4006x1715/X_wing_on_fire_4006x1715_thumbnail.png)</a>
+<a href=3440x1440/Moody_neon_vibes_on_an_empty_road_3440_x_1440.jpeg target=_blank>![Credit: harbyback](3440x1440/Moody_neon_vibes_on_an_empty_road_3440_x_1440_thumbnail.jpeg)</a>
