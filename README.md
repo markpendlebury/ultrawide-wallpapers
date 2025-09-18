@@ -4240,3 +4240,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3340x1440/More_Ultrawide_3340x1440_15.png target=_blank>![Credit: KahlanEAmnelle](3340x1440/More_Ultrawide_3340x1440_15_thumbnail.png)</a>
 <a href=3340x1440/More_Ultrawide_3340x1440_16.png target=_blank>![Credit: KahlanEAmnelle](3340x1440/More_Ultrawide_3340x1440_16_thumbnail.png)</a>
 <a href=3340x1440/More_Ultrawide_3340x1440_17.png target=_blank>![Credit: KahlanEAmnelle](3340x1440/More_Ultrawide_3340x1440_17_thumbnail.png)</a>
+<a href=3340x1440/More_Ultrawide_3340x1440_18.png target=_blank>![Credit: KahlanEAmnelle](3340x1440/More_Ultrawide_3340x1440_18_thumbnail.png)</a>
