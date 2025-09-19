@@ -4246,3 +4246,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Blank_VHS_covers___Dump_Vol_2_5120x1440_17.png target=_blank>![Credit: Das_Zeppelin](5120x1440/Blank_VHS_covers___Dump_Vol_2_5120x1440_17_thumbnail.png)</a>
 <a href=3440x1440/Yuqi_i_dle_3440x1440.png target=_blank>![Credit: MadMort](3440x1440/Yuqi_i_dle_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/5120_x_2160_Paradise_Mt_Rainier.png target=_blank>![Credit: skullmillione](5120x2160/5120_x_2160_Paradise_Mt_Rainier_thumbnail.png)</a>
+<a href=3440x1440/Hornet_from_Hollow_Knight_Silksong_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Hornet_from_Hollow_Knight_Silksong_3440x1440_thumbnail.jpeg)</a>
