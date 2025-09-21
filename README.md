@@ -4248,3 +4248,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/5120_x_2160_Paradise_Mt_Rainier.png target=_blank>![Credit: skullmillione](5120x2160/5120_x_2160_Paradise_Mt_Rainier_thumbnail.png)</a>
 <a href=3440x1440/Hornet_from_Hollow_Knight_Silksong_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Hornet_from_Hollow_Knight_Silksong_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Island_Waterfall_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Island_Waterfall_5120x1440_thumbnail.png)</a>
+<a href=4809x2222/Oasis_Town_4809x2222.jpeg target=_blank>![Credit: icpiece](4809x2222/Oasis_Town_4809x2222_thumbnail.jpeg)</a>
