@@ -4251,3 +4251,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4809x2222/Oasis_Town_4809x2222.jpeg target=_blank>![Credit: icpiece](4809x2222/Oasis_Town_4809x2222_thumbnail.jpeg)</a>
 <a href=5120x2160/Japanese_Rooftop_5120x2160.png target=_blank>![Credit: skullmillione](5120x2160/Japanese_Rooftop_5120x2160_thumbnail.png)</a>
 <a href=3440x1440/Island_Home_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Island_Home_3440x1440_thumbnail.png)</a>
+<a href=3840x1637/Ancient_Ruins_3840x1637.jpeg target=_blank>![Credit: icpiece](3840x1637/Ancient_Ruins_3840x1637_thumbnail.jpeg)</a>
