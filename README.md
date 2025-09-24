@@ -4278,3 +4278,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2560x1080/Seatlle_grunge_bands_posters_2560x1080__3440x1440_1.png target=_blank>![Credit: Advozekk](2560x1080/Seatlle_grunge_bands_posters_2560x1080__3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/DEADPOOL_3440x1440.png target=_blank>![Credit: GospodinSime](3440x1440/DEADPOOL_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_0.png target=_blank>![Credit: V9011N](7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_0_thumbnail.png)</a>
+<a href=7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_1.png target=_blank>![Credit: V9011N](7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_1_thumbnail.png)</a>
