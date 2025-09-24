@@ -4279,3 +4279,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/DEADPOOL_3440x1440.png target=_blank>![Credit: GospodinSime](3440x1440/DEADPOOL_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_0.png target=_blank>![Credit: V9011N](7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_0_thumbnail.png)</a>
 <a href=7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_1.png target=_blank>![Credit: V9011N](7680x2160/Res_and_monitor_sizes_32_9_edition_7680x2160_1_thumbnail.png)</a>
+<a href=5120x2160/Osaka_Castle_5120x2160.png target=_blank>![Credit: skullmillione](5120x2160/Osaka_Castle_5120x2160_thumbnail.png)</a>
