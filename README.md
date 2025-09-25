@@ -4290,3 +4290,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Some_more_of_my_32_9_wallpaper_7680x2160_7.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Some_more_of_my_32_9_wallpaper_7680x2160_7_thumbnail.jpg)</a>
 <a href=7680x2160/Some_more_of_my_32_9_wallpaper_7680x2160_8.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Some_more_of_my_32_9_wallpaper_7680x2160_8_thumbnail.jpg)</a>
 <a href=7680x2160/Some_more_of_my_32_9_wallpaper_7680x2160_9.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Some_more_of_my_32_9_wallpaper_7680x2160_9_thumbnail.jpg)</a>
+<a href=3440x1440/Sunset_Drive_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Sunset_Drive_3440x1440_thumbnail.jpeg)</a>
