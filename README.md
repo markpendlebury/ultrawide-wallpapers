@@ -4293,3 +4293,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Sunset_Drive_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Sunset_Drive_3440x1440_thumbnail.jpeg)</a>
 <a href=3840x1080/Courage_the_Cowardly_Dog_3840x1080.png target=_blank>![Credit: Das_Zeppelin](3840x1080/Courage_the_Cowardly_Dog_3840x1080_thumbnail.png)</a>
 <a href=3440x1440/Harvey_XG_3440x1440.png target=_blank>![Credit: MadMort](3440x1440/Harvey_XG_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/Mystic_Series___set_of_32_9_Wallpapers_7680x2160_0.png target=_blank>![Credit: ArsInvictus](7680x2160/Mystic_Series___set_of_32_9_Wallpapers_7680x2160_0_thumbnail.png)</a>
