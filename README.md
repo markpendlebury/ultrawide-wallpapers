@@ -4314,3 +4314,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_09_28_21_9_&_32_9__7680x2160_13.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_09_28_21_9_&_32_9__7680x2160_13_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_09_28_21_9_&_32_9__7680x2160_14.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_09_28_21_9_&_32_9__7680x2160_14_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_09_28_21_9_&_32_9__7680x2160_15.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_09_28_21_9_&_32_9__7680x2160_15_thumbnail.jpg)</a>
+<a href=3840x1620/Fantasy_City_Fortress_3840x1620.jpeg target=_blank>![Credit: icpiece](3840x1620/Fantasy_City_Fortress_3840x1620_thumbnail.jpeg)</a>
