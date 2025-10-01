@@ -4330,3 +4330,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/British_Landscapes_3440x1440__5120x1440_5.jpg target=_blank>![Credit: deffcap](3440x1440/British_Landscapes_3440x1440__5120x1440_5_thumbnail.jpg)</a>
 <a href=3440x1440/British_Landscapes_3440x1440__5120x1440_6.jpg target=_blank>![Credit: deffcap](3440x1440/British_Landscapes_3440x1440__5120x1440_6_thumbnail.jpg)</a>
 <a href=3440x1440/British_Landscapes_3440x1440__5120x1440_7.jpg target=_blank>![Credit: deffcap](3440x1440/British_Landscapes_3440x1440__5120x1440_7_thumbnail.jpg)</a>
+<a href=5528x2368/Forest_temple_ruins_5528x2368.png target=_blank>![Credit: icpiece](5528x2368/Forest_temple_ruins_5528x2368_thumbnail.png)</a>
