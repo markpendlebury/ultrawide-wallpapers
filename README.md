@@ -4335,3 +4335,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Illustrations_3440x1440_1.jpg target=_blank>![Credit: SlartiHarleyBartFast](3440x1440/Illustrations_3440x1440_1_thumbnail.jpg)</a>
 <a href=3440x1440/Illustrations_3440x1440_2.jpg target=_blank>![Credit: SlartiHarleyBartFast](3440x1440/Illustrations_3440x1440_2_thumbnail.jpg)</a>
 <a href=3440x1440/Flight_3440x1440.jpeg target=_blank>![Credit: SlartiHarleyBartFast](3440x1440/Flight_3440x1440_thumbnail.jpeg)</a>
+<a href=7680x3296/Cozy_Witch_House_7680x3296.jpeg target=_blank>![Credit: icpiece](7680x3296/Cozy_Witch_House_7680x3296_thumbnail.jpeg)</a>
