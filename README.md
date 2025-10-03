@@ -4346,3 +4346,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Mina_TWICE_3440x1440.png target=_blank>![Credit: MadMort](3440x1440/Mina_TWICE_3440x1440_thumbnail.png)</a>
 <a href=4096x1755/Mclaren_4096x1755.jpeg target=_blank>![Credit: icpiece](4096x1755/Mclaren_4096x1755_thumbnail.jpeg)</a>
 <a href=5120x2160/Lower_Manhattan_skyline_December_1991_5120x2160.jpeg target=_blank>![Credit: acoolrocket](5120x2160/Lower_Manhattan_skyline_December_1991_5120x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Colors_3440x1440_0.png target=_blank>![Credit: SlartiHarleyBartFast](3440x1440/Colors_3440x1440_0_thumbnail.png)</a>
