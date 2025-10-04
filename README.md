@@ -4367,3 +4367,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Surreality_5120x1440_4.png target=_blank>![Credit: Cbo305](5120x1440/Surreality_5120x1440_4_thumbnail.png)</a>
 <a href=5120x1440/Surreality_5120x1440_5.png target=_blank>![Credit: Cbo305](5120x1440/Surreality_5120x1440_5_thumbnail.png)</a>
 <a href=6240x2674/Snowy_Night_6240x2674.jpeg target=_blank>![Credit: icpiece](6240x2674/Snowy_Night_6240x2674_thumbnail.jpeg)</a>
+<a href=3440x1440/halloween_fun_3440x1440_0.jpg target=_blank>![Credit: Snail_Boop](3440x1440/halloween_fun_3440x1440_0_thumbnail.jpg)</a>
