@@ -4372,3 +4372,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/halloween_fun_3440x1440_2.jpg target=_blank>![Credit: Snail_Boop](3440x1440/halloween_fun_3440x1440_2_thumbnail.jpg)</a>
 <a href=3440x1440/halloween_fun_3440x1440_3.jpg target=_blank>![Credit: Snail_Boop](3440x1440/halloween_fun_3440x1440_3_thumbnail.jpg)</a>
 <a href=3440x1440/halloween_fun_3440x1440_4.jpg target=_blank>![Credit: Snail_Boop](3440x1440/halloween_fun_3440x1440_4_thumbnail.jpg)</a>
+<a href=3440x1440/halloween_fun_3440x1440_5.jpg target=_blank>![Credit: Snail_Boop](3440x1440/halloween_fun_3440x1440_5_thumbnail.jpg)</a>
