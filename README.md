@@ -4396,3 +4396,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Fresh_batch_just_dropped___made_by_me_3440x1440_2.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Fresh_batch_just_dropped___made_by_me_3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/Fresh_batch_just_dropped___made_by_me_3440x1440_3.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Fresh_batch_just_dropped___made_by_me_3440x1440_3_thumbnail.png)</a>
 <a href=6016x2518/MacOS_Tahoe_Dark_6016x2518.png target=_blank>![Credit: harafromhell](6016x2518/MacOS_Tahoe_Dark_6016x2518_thumbnail.png)</a>
+<a href=3440x1440/Cuba_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Cuba_3440x1440_thumbnail.png)</a>
