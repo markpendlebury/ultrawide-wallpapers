@@ -4412,3 +4412,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_10_05_21_9_&_32_9__7680x2160_11.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_10_05_21_9_&_32_9__7680x2160_11_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_10_05_21_9_&_32_9__7680x2160_12.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_10_05_21_9_&_32_9__7680x2160_12_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_10_05_21_9_&_32_9__7680x2160_13.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_10_05_21_9_&_32_9__7680x2160_13_thumbnail.jpg)</a>
+<a href=3440x1440/Anime_Girl_Halo_with_Rifle_3440x1440.jpeg target=_blank>![Credit: m3lezZ](3440x1440/Anime_Girl_Halo_with_Rifle_3440x1440_thumbnail.jpeg)</a>
