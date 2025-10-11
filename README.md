@@ -4440,3 +4440,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5528x2368/Spirits_in_lavender_field_5528x2368.png target=_blank>![Credit: icpiece](5528x2368/Spirits_in_lavender_field_5528x2368_thumbnail.png)</a>
 <a href=5120x2160/For_Music_Enthusiasts_5120x2160_0.png target=_blank>![Credit: Gabohar](5120x2160/For_Music_Enthusiasts_5120x2160_0_thumbnail.png)</a>
 <a href=5120x2160/For_Music_Enthusiasts_5120x2160_1.png target=_blank>![Credit: Gabohar](5120x2160/For_Music_Enthusiasts_5120x2160_1_thumbnail.png)</a>
+<a href=3440x1440/Himalayan_Clouds_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Himalayan_Clouds_3440x1440_thumbnail.png)</a>
