@@ -4443,3 +4443,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Himalayan_Clouds_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Himalayan_Clouds_3440x1440_thumbnail.png)</a>
 <a href=9000x2531/Spaceship___by_Xu_Zaoji_9000x2531.jpeg target=_blank>![Credit: icpiece](9000x2531/Spaceship___by_Xu_Zaoji_9000x2531_thumbnail.jpeg)</a>
 <a href=7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_0.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_1.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_1_thumbnail.jpg)</a>
