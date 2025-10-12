@@ -4457,3 +4457,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Tron_Ares_2025_Edited_by_me_3440x1440.jpeg target=_blank>![Credit: Used_Eye_6961](3440x1440/Tron_Ares_2025_Edited_by_me_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Hugo_2011_ultrawide_made_by_me_3440x1440.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Hugo_2011_ultrawide_made_by_me_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Ocean_Noir_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Ocean_Noir_5120x1440_thumbnail.png)</a>
+<a href=3219x1358/Attack_on_Titan_3219x1358.png target=_blank>![Credit: Caitex212](3219x1358/Attack_on_Titan_3219x1358_thumbnail.png)</a>
