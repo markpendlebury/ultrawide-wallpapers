@@ -4453,3 +4453,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_8.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_8_thumbnail.jpg)</a>
 <a href=7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_9.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_9_thumbnail.jpg)</a>
 <a href=7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_10.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_10_thumbnail.jpg)</a>
+<a href=7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_11.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Dia_de_los_Muertos_theme_images_+_more_7680x2160_11_thumbnail.jpg)</a>
