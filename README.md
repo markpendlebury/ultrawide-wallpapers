@@ -4464,3 +4464,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7830x2160/Cyber_Steam_Girl_7830x2160_2.png target=_blank>![Credit: totempow](7830x2160/Cyber_Steam_Girl_7830x2160_2_thumbnail.png)</a>
 <a href=3440x1440/Irene_&_Seulgi_RED_VELVET_3440x1440.png target=_blank>![Credit: MadMort](3440x1440/Irene_&_Seulgi_RED_VELVET_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/My_weekly_drop_10_12_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_10_12_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/My_weekly_drop_10_12_21_9_&_32_9__7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_10_12_21_9_&_32_9__7680x2160_1_thumbnail.jpg)</a>
