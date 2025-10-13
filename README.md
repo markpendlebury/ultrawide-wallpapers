@@ -4460,3 +4460,5 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3219x1358/Attack_on_Titan_3219x1358.png target=_blank>![Credit: Caitex212](3219x1358/Attack_on_Titan_3219x1358_thumbnail.png)</a>
 <a href=3440x1440/A_Sip_of_Autumn_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/A_Sip_of_Autumn_3440x1440_thumbnail.jpeg)</a>
 <a href=7830x2160/Cyber_Steam_Girl_7830x2160_0.png target=_blank>![Credit: totempow](7830x2160/Cyber_Steam_Girl_7830x2160_0_thumbnail.png)</a>
+<a href=7830x2160/Cyber_Steam_Girl_7830x2160_1.png target=_blank>![Credit: totempow](7830x2160/Cyber_Steam_Girl_7830x2160_1_thumbnail.png)</a>
+<a href=7830x2160/Cyber_Steam_Girl_7830x2160_2.png target=_blank>![Credit: totempow](7830x2160/Cyber_Steam_Girl_7830x2160_2_thumbnail.png)</a>
