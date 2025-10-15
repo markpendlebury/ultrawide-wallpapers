@@ -4486,3 +4486,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Hacksaw_Ridge_2016__3440x1440.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Hacksaw_Ridge_2016__3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Warsaw_at_night_3440x1440.png target=_blank>![Credit: T7nwn](3440x1440/Warsaw_at_night_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Porsche_Car_Wallpaper_5120x1440.png target=_blank>![Credit: MrBCftw](5120x1440/Porsche_Car_Wallpaper_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Made_a_Cyberpunk_Wallpaper_using_Canva_3440_x_1440.png target=_blank>![Credit: AardvarkSam](3440x1440/Made_a_Cyberpunk_Wallpaper_using_Canva_3440_x_1440_thumbnail.png)</a>
