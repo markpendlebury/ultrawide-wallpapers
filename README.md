@@ -4488,3 +4488,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Porsche_Car_Wallpaper_5120x1440.png target=_blank>![Credit: MrBCftw](5120x1440/Porsche_Car_Wallpaper_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Made_a_Cyberpunk_Wallpaper_using_Canva_3440_x_1440.png target=_blank>![Credit: AardvarkSam](3440x1440/Made_a_Cyberpunk_Wallpaper_using_Canva_3440_x_1440_thumbnail.png)</a>
 <a href=7680x2160/Walls_for_Walls_7680x2160_0.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Walls_for_Walls_7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/Walls_for_Walls_7680x2160_1.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Walls_for_Walls_7680x2160_1_thumbnail.jpg)</a>
