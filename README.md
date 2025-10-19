@@ -4499,3 +4499,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Walls_for_Walls_7680x2160_9.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Walls_for_Walls_7680x2160_9_thumbnail.jpg)</a>
 <a href=7680x2160/Walls_for_Walls_7680x2160_10.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Walls_for_Walls_7680x2160_10_thumbnail.jpg)</a>
 <a href=3440x1440/C_Viper_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/C_Viper_3440x1440_thumbnail.png)</a>
+<a href=7680x2160/My_weekly_drop_10_19_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_10_19_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
