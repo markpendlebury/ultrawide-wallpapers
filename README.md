@@ -4599,3 +4599,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Album_cover_collage_3440x1440__21_9.png target=_blank>![Credit: BadKarma_07](3440x1440/Album_cover_collage_3440x1440__21_9_thumbnail.png)</a>
 <a href=3440x1440/Cheeky_Millennium_Falcon_3440x1440.png target=_blank>![Credit: rooliebong](3440x1440/Cheeky_Millennium_Falcon_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Wicked_Mulan_Star_Wars_3440x1440_0.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Wicked_Mulan_Star_Wars_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Wicked_Mulan_Star_Wars_3440x1440_1.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Wicked_Mulan_Star_Wars_3440x1440_1_thumbnail.png)</a>
