@@ -4631,3 +4631,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_11_02_21_9_&_32_9__7680x2160_17.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_02_21_9_&_32_9__7680x2160_17_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_11_02_21_9_&_32_9__7680x2160_18.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_02_21_9_&_32_9__7680x2160_18_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_11_02_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_02_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
+<a href=3440x1440/Misty_Mountains_pt_2__3440x1440_5120x1440_8.jpg target=_blank>![Credit: paol](3440x1440/Misty_Mountains_pt_2__3440x1440_5120x1440_8_thumbnail.jpg)</a>
