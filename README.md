@@ -4634,3 +4634,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Misty_Mountains_pt_2__3440x1440_5120x1440_8.jpg target=_blank>![Credit: paol](3440x1440/Misty_Mountains_pt_2__3440x1440_5120x1440_8_thumbnail.jpg)</a>
 <a href=3440x1440/Misty_Mountains_pt_2__3440x1440_5120x1440_9.jpg target=_blank>![Credit: paol](3440x1440/Misty_Mountains_pt_2__3440x1440_5120x1440_9_thumbnail.jpg)</a>
 <a href=4096x1772/I3__atlas_comet_inspired_illustration_4096x1772.jpeg target=_blank>![Credit: cozy_lofi](4096x1772/I3__atlas_comet_inspired_illustration_4096x1772_thumbnail.jpeg)</a>
+<a href=5452x2620/Our_Earth_in_a_one_day_5452x2620.jpeg target=_blank>![Credit: cozy_lofi](5452x2620/Our_Earth_in_a_one_day_5452x2620_thumbnail.jpeg)</a>
