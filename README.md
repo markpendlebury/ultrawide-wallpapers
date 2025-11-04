@@ -4640,3 +4640,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5040x2160/Cozy_Cottage_at_River_Side_my_Drop_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Cozy_Cottage_at_River_Side_my_Drop_5040x2160_thumbnail.jpeg)</a>
 <a href=5040x2160/Cozy_Mountain_valley_Farm_house_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Cozy_Mountain_valley_Farm_house_5040x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/KOF_XV_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/KOF_XV_3440x1440_thumbnail.png)</a>
+<a href=5040x2160/Water_side_captured_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Water_side_captured_5040x2160_thumbnail.jpeg)</a>
