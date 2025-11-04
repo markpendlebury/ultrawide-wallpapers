@@ -4638,3 +4638,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Mountain_Cascade_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Mountain_Cascade_5120x1440_thumbnail.png)</a>
 <a href=5000x2318/Hatsune_Miku_5000_x_2318.jpeg target=_blank>![Credit: uberfrr777](5000x2318/Hatsune_Miku_5000_x_2318_thumbnail.jpeg)</a>
 <a href=5040x2160/Cozy_Cottage_at_River_Side_my_Drop_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Cozy_Cottage_at_River_Side_my_Drop_5040x2160_thumbnail.jpeg)</a>
+<a href=5040x2160/Cozy_Mountain_valley_Farm_house_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Cozy_Mountain_valley_Farm_house_5040x2160_thumbnail.jpeg)</a>
