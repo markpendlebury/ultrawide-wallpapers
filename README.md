@@ -4644,3 +4644,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5040x2160/Anime_Girl_In_dark_Background_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Anime_Girl_In_dark_Background_5040x2160_thumbnail.jpeg)</a>
 <a href=5040x2160/Mountain_Valley_Cozy_Dark_Illustration_5040x2160.png target=_blank>![Credit: cozy_lofi](5040x2160/Mountain_Valley_Cozy_Dark_Illustration_5040x2160_thumbnail.png)</a>
 <a href=5120x1440/Jungle_River_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Jungle_River_5120x1440_thumbnail.png)</a>
+<a href=5040x2160/japanis_old_city_at_purple_time_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/japanis_old_city_at_purple_time_5040x2160_thumbnail.jpeg)</a>
