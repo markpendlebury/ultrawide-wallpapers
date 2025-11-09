@@ -4647,3 +4647,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5040x2160/japanis_old_city_at_purple_time_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/japanis_old_city_at_purple_time_5040x2160_thumbnail.jpeg)</a>
 <a href=5040x2160/Japanis_Anime_Village_Night_time_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/Japanis_Anime_Village_Night_time_5040x2160_thumbnail.jpeg)</a>
 <a href=4584x1920/The_Penance_of_Eleanor_4584x1920.jpeg target=_blank>![Credit: SaL](4584x1920/The_Penance_of_Eleanor_4584x1920_thumbnail.jpeg)</a>
+<a href=5040x2160/Mountain_Valley_a_Cozy_Day_5040x2160.png target=_blank>![Credit: cozy_lofi](5040x2160/Mountain_Valley_a_Cozy_Day_5040x2160_thumbnail.png)</a>
