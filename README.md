@@ -4678,3 +4678,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5040x2160/Autumn_Season_Mountain_valley_5040x2160.png target=_blank>![Credit: cozy_lofi](5040x2160/Autumn_Season_Mountain_valley_5040x2160_thumbnail.png)</a>
 <a href=5040x2160/Wander_Forest_Village_5040x2160.png target=_blank>![Credit: cozy_lofi](5040x2160/Wander_Forest_Village_5040x2160_thumbnail.png)</a>
 <a href=5040x2160/Winter_season_old_city_5040x2160.png target=_blank>![Credit: cozy_lofi](5040x2160/Winter_season_old_city_5040x2160_thumbnail.png)</a>
+<a href=3440x1440/Radial_blur_wallpapers_made_in_photoshop_3440x1440_0.png target=_blank>![Credit: pootis4ever](3440x1440/Radial_blur_wallpapers_made_in_photoshop_3440x1440_0_thumbnail.png)</a>
