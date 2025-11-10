@@ -4690,3 +4690,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_12.jpg target=_blank>![Credit: ArsInvictus](7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_12_thumbnail.jpg)</a>
 <a href=7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_13.jpg target=_blank>![Credit: ArsInvictus](7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_13_thumbnail.jpg)</a>
 <a href=7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_14.jpg target=_blank>![Credit: ArsInvictus](7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_14_thumbnail.jpg)</a>
+<a href=7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_15.jpg target=_blank>![Credit: ArsInvictus](7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_15_thumbnail.jpg)</a>
