@@ -4698,3 +4698,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Movie_images_expanded_to_32_9_7680x2160_3.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Movie_images_expanded_to_32_9_7680x2160_3_thumbnail.jpg)</a>
 <a href=5040x2160/Anime_Cozy_Forest_Illustration_5040x2160.png target=_blank>![Credit: cozy_lofi](5040x2160/Anime_Cozy_Forest_Illustration_5040x2160_thumbnail.png)</a>
 <a href=3440x1440/First_share_in_here_Made_in_Blender__3440x1440.png target=_blank>![Credit: Illescas](3440x1440/First_share_in_here_Made_in_Blender__3440x1440_thumbnail.png)</a>
+<a href=5184x2160/Wanderer_Collection_5184_x_2160_0.jpg target=_blank>![Credit: jacobfromnewmex](5184x2160/Wanderer_Collection_5184_x_2160_0_thumbnail.jpg)</a>
