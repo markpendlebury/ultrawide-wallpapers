@@ -4714,3 +4714,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5184x2160/Wanderer_Collection_5184_x_2160_13.jpg target=_blank>![Credit: jacobfromnewmex](5184x2160/Wanderer_Collection_5184_x_2160_13_thumbnail.jpg)</a>
 <a href=5184x2160/Wanderer_Collection_5184_x_2160_14.jpg target=_blank>![Credit: jacobfromnewmex](5184x2160/Wanderer_Collection_5184_x_2160_14_thumbnail.jpg)</a>
 <a href=5040x2160/magical_forest_village_5040x2160.jpeg target=_blank>![Credit: cozy_lofi](5040x2160/magical_forest_village_5040x2160_thumbnail.jpeg)</a>
+<a href=6144x2632/Sunlit_Hollow_Path_6144x2632.png target=_blank>![Credit: icpiece](6144x2632/Sunlit_Hollow_Path_6144x2632_thumbnail.png)</a>
