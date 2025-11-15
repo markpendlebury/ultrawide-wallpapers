@@ -4717,3 +4717,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6144x2632/Sunlit_Hollow_Path_6144x2632.png target=_blank>![Credit: icpiece](6144x2632/Sunlit_Hollow_Path_6144x2632_thumbnail.png)</a>
 <a href=5120x2160/Wanderer_Collection__Winter_&_Fall_5120x2160_0.jpg target=_blank>![Credit: jacobfromnewmex](5120x2160/Wanderer_Collection__Winter_&_Fall_5120x2160_0_thumbnail.jpg)</a>
 <a href=5120x2160/Wanderer_Collection__Winter_&_Fall_5120x2160_1.jpg target=_blank>![Credit: jacobfromnewmex](5120x2160/Wanderer_Collection__Winter_&_Fall_5120x2160_1_thumbnail.jpg)</a>
+<a href=5120x2160/Wanderer_Collection__Winter_&_Fall_5120x2160_2.jpg target=_blank>![Credit: jacobfromnewmex](5120x2160/Wanderer_Collection__Winter_&_Fall_5120x2160_2_thumbnail.jpg)</a>
