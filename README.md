@@ -4756,3 +4756,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Mixed_7680_x_2160_2.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mixed_7680_x_2160_2_thumbnail.jpg)</a>
 <a href=7680x2160/Mixed_7680_x_2160_3.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mixed_7680_x_2160_3_thumbnail.jpg)</a>
 <a href=7680x2160/Winter_is_coming__7680_x_2160.jpeg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Winter_is_coming__7680_x_2160_thumbnail.jpeg)</a>
+<a href=7680x2160/F1_7680_x_2160.png target=_blank>![Credit: Kevin_C_Knight](7680x2160/F1_7680_x_2160_thumbnail.png)</a>
