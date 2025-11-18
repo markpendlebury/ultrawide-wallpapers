@@ -4779,3 +4779,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3727x1597/Riverside_Citadel___by_Felix_Riaño_3727x1597.jpeg target=_blank>![Credit: icpiece](3727x1597/Riverside_Citadel___by_Felix_Riaño_3727x1597_thumbnail.jpeg)</a>
 <a href=3440x1440/TWICE_3440x1440.jpeg target=_blank>![Credit: MadMort](3440x1440/TWICE_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Silent_Hill_F_3440x1440.jpeg target=_blank>![Credit: AdProfessional3201](3440x1440/Silent_Hill_F_3440x1440_thumbnail.jpeg)</a>
+<a href=5068x2172/Forest_Archway_5068x2172.png target=_blank>![Credit: icpiece](5068x2172/Forest_Archway_5068x2172_thumbnail.png)</a>
