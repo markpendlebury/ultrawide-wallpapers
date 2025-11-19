@@ -4781,3 +4781,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Silent_Hill_F_3440x1440.jpeg target=_blank>![Credit: AdProfessional3201](3440x1440/Silent_Hill_F_3440x1440_thumbnail.jpeg)</a>
 <a href=5068x2172/Forest_Archway_5068x2172.png target=_blank>![Credit: icpiece](5068x2172/Forest_Archway_5068x2172_thumbnail.png)</a>
 <a href=3840x1080/Zeppelin_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Zeppelin_3840x1080_thumbnail.jpeg)</a>
+<a href=5120x1440/Zootopia_2_2025__5120x1440.png target=_blank>![Credit: KahlanEAmnelle](5120x1440/Zootopia_2_2025__5120x1440_thumbnail.png)</a>
