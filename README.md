@@ -4785,3 +4785,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Zeppelin_5120x2160.jpeg target=_blank>![Credit: Das_Zeppelin](5120x2160/Zeppelin_5120x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/Phoenix_7680x2160.jpeg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Phoenix_7680x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/Alice_Illustrations_7680x2160_0.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Alice_Illustrations_7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/Alice_Illustrations_7680x2160_1.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Alice_Illustrations_7680x2160_1_thumbnail.jpg)</a>
