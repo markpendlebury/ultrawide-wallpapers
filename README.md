@@ -4787,3 +4787,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Alice_Illustrations_7680x2160_0.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Alice_Illustrations_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Alice_Illustrations_7680x2160_1.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Alice_Illustrations_7680x2160_1_thumbnail.jpg)</a>
 <a href=7680x2160/Alice_Illustrations_7680x2160_2.jpg target=_blank>![Credit: ArsInvictus](7680x2160/Alice_Illustrations_7680x2160_2_thumbnail.jpg)</a>
+<a href=4778x2048/Wadi_Rum_Jordan_4778x2048.jpeg target=_blank>![Credit: icpiece](4778x2048/Wadi_Rum_Jordan_4778x2048_thumbnail.jpeg)</a>
