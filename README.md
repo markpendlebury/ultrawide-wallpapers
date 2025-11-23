@@ -4790,3 +4790,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4778x2048/Wadi_Rum_Jordan_4778x2048.jpeg target=_blank>![Credit: icpiece](4778x2048/Wadi_Rum_Jordan_4778x2048_thumbnail.jpeg)</a>
 <a href=5120x2160/Dark_Space_Blue_Comet_Illustration_5120x2160.jpeg target=_blank>![Credit: cozywallpaper](5120x2160/Dark_Space_Blue_Comet_Illustration_5120x2160_thumbnail.jpeg)</a>
 <a href=3840x1645/Forza_Horizon_Cars_3840x1645_0.png target=_blank>![Credit: icpiece](3840x1645/Forza_Horizon_Cars_3840x1645_0_thumbnail.png)</a>
+<a href=3840x1645/Forza_Horizon_Cars_3840x1645_1.png target=_blank>![Credit: icpiece](3840x1645/Forza_Horizon_Cars_3840x1645_1_thumbnail.png)</a>
