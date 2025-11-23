@@ -4795,3 +4795,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1645/Forza_Horizon_Cars_3840x1645_3.png target=_blank>![Credit: icpiece](3840x1645/Forza_Horizon_Cars_3840x1645_3_thumbnail.png)</a>
 <a href=3840x1645/Forza_Horizon_Cars_3840x1645_4.png target=_blank>![Credit: icpiece](3840x1645/Forza_Horizon_Cars_3840x1645_4_thumbnail.png)</a>
 <a href=3840x1645/Forza_Horizon_Cars_3840x1645_5.png target=_blank>![Credit: icpiece](3840x1645/Forza_Horizon_Cars_3840x1645_5_thumbnail.png)</a>
+<a href=3840x1645/Forza_Horizon_Cars_3840x1645_6.png target=_blank>![Credit: icpiece](3840x1645/Forza_Horizon_Cars_3840x1645_6_thumbnail.png)</a>
