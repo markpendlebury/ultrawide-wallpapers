@@ -4827,3 +4827,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Aerial_Islands_3440x1440_2.jpg target=_blank>![Credit: sirgerg2](3440x1440/Aerial_Islands_3440x1440_2_thumbnail.jpg)</a>
 <a href=3440x1440/Original_Trilogy_3440x1440.png target=_blank>![Credit: EmptyLogic](3440x1440/Original_Trilogy_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Lord_of_the_Rings_Alex_Hovey_compilation_5120x2160.png target=_blank>![Credit: james_bourne](5120x2160/Lord_of_the_Rings_Alex_Hovey_compilation_5120x2160_thumbnail.png)</a>
+<a href=4778x2048/Underwater_base_by_Mack_Sztaba_4778x2048.png target=_blank>![Credit: icpiece](4778x2048/Underwater_base_by_Mack_Sztaba_4778x2048_thumbnail.png)</a>
