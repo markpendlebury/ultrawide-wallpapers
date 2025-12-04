@@ -4867,3 +4867,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Matrix_Violet_3440x1440.jpeg target=_blank>![Credit: zeekaran](3440x1440/Matrix_Violet_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Matrix_3440x1440.jpeg target=_blank>![Credit: zeekaran](3440x1440/Matrix_3440x1440_thumbnail.jpeg)</a>
 <a href=3840x1080/The_Matrix_3840x1080.png target=_blank>![Credit: Das_Zeppelin](3840x1080/The_Matrix_3840x1080_thumbnail.png)</a>
+<a href=3440x1440/90s_inspired_anime_wallpapers_3440x1440_0.jpg target=_blank>![Credit: GarrettSJ](3440x1440/90s_inspired_anime_wallpapers_3440x1440_0_thumbnail.jpg)</a>
