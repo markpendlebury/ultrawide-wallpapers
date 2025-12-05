@@ -4873,3 +4873,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6048x2592/Where_the_World_Ends_and_the_Sky_Begins_6048x2592.jpeg target=_blank>![Credit: AndreiCiomirtan](6048x2592/Where_the_World_Ends_and_the_Sky_Begins_6048x2592_thumbnail.jpeg)</a>
 <a href=3840x1080/Senatus_Populusque_Romanus_3840x1080_0.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Senatus_Populusque_Romanus_3840x1080_0_thumbnail.jpg)</a>
 <a href=3840x1080/Senatus_Populusque_Romanus_3840x1080_1.jpg target=_blank>![Credit: Das_Zeppelin](3840x1080/Senatus_Populusque_Romanus_3840x1080_1_thumbnail.jpg)</a>
+<a href=3440x1440/The_Floating_Citadel_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/The_Floating_Citadel_3440x1440_thumbnail.jpeg)</a>
