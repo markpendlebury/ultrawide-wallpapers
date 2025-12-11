@@ -4901,3 +4901,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x3288/Cottage_in_the_Woods___by_Jeremy_Fenske_7680x3288.png target=_blank>![Credit: icpiece](7680x3288/Cottage_in_the_Woods___by_Jeremy_Fenske_7680x3288_thumbnail.png)</a>
 <a href=3440x1440/NingNing_AESPA_3440x1440.jpeg target=_blank>![Credit: MadMort](3440x1440/NingNing_AESPA_3440x1440_thumbnail.jpeg)</a>
 <a href=7860x2160/Lord_of_the_Rings_Alex_Hovey_collage_7860x2160.jpeg target=_blank>![Credit: james_bourne](7860x2160/Lord_of_the_Rings_Alex_Hovey_collage_7860x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Calvin_&_Hobbes_Christmas_Eve_3440x1440.jpeg target=_blank>![Credit: Gunnolf_Ruriksson](3440x1440/Calvin_&_Hobbes_Christmas_Eve_3440x1440_thumbnail.jpeg)</a>
