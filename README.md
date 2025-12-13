@@ -4903,3 +4903,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7860x2160/Lord_of_the_Rings_Alex_Hovey_collage_7860x2160.jpeg target=_blank>![Credit: james_bourne](7860x2160/Lord_of_the_Rings_Alex_Hovey_collage_7860x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Calvin_&_Hobbes_Christmas_Eve_3440x1440.jpeg target=_blank>![Credit: Gunnolf_Ruriksson](3440x1440/Calvin_&_Hobbes_Christmas_Eve_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/For_those_who_come_after__7680x2160.jpeg target=_blank>![Credit: ArsInvictus](7680x2160/For_those_who_come_after__7680x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/Greebled_Circuitry_v2_3440x1440.png target=_blank>![Credit: RSWOL](3440x1440/Greebled_Circuitry_v2_3440x1440_thumbnail.png)</a>
