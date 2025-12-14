@@ -4905,3 +4905,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/For_those_who_come_after__7680x2160.jpeg target=_blank>![Credit: ArsInvictus](7680x2160/For_those_who_come_after__7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Greebled_Circuitry_v2_3440x1440.png target=_blank>![Credit: RSWOL](3440x1440/Greebled_Circuitry_v2_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Paintings_from_the_National_Gallery_3440x1440_0.png target=_blank>![Credit: bobafus](3440x1440/Paintings_from_the_National_Gallery_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Paintings_from_the_National_Gallery_3440x1440_1.png target=_blank>![Credit: bobafus](3440x1440/Paintings_from_the_National_Gallery_3440x1440_1_thumbnail.png)</a>
