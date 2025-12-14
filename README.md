@@ -4924,3 +4924,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Paintings_from_the_National_Gallery_3440x1440_17.png target=_blank>![Credit: bobafus](3440x1440/Paintings_from_the_National_Gallery_3440x1440_17_thumbnail.png)</a>
 <a href=3440x1440/Paintings_from_the_National_Gallery_3440x1440_18.png target=_blank>![Credit: bobafus](3440x1440/Paintings_from_the_National_Gallery_3440x1440_18_thumbnail.png)</a>
 <a href=3440x1440/Paintings_from_the_National_Gallery_3440x1440_19.png target=_blank>![Credit: bobafus](3440x1440/Paintings_from_the_National_Gallery_3440x1440_19_thumbnail.png)</a>
+<a href=3440x1440/Cocoa_&_Christmas_Lights_WQHD_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Cocoa_&_Christmas_Lights_WQHD_3440x1440_thumbnail.jpeg)</a>
