@@ -4951,3 +4951,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x2160/Winter_Mountain_Aurora_3840x2160.png target=_blank>![Credit: Cbo305](3840x2160/Winter_Mountain_Aurora_3840x2160_thumbnail.png)</a>
 <a href=4096x1760/Deep_forest_path_in_autumn_4096x1760.png target=_blank>![Credit: AndreiCiomirtan](4096x1760/Deep_forest_path_in_autumn_4096x1760_thumbnail.png)</a>
 <a href=3440x1440/Divinity_3440x1440_0.jpg target=_blank>![Credit: paol](3440x1440/Divinity_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/Divinity_3440x1440_1.jpg target=_blank>![Credit: paol](3440x1440/Divinity_3440x1440_1_thumbnail.jpg)</a>
