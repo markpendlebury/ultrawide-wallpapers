@@ -4952,3 +4952,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4096x1760/Deep_forest_path_in_autumn_4096x1760.png target=_blank>![Credit: AndreiCiomirtan](4096x1760/Deep_forest_path_in_autumn_4096x1760_thumbnail.png)</a>
 <a href=3440x1440/Divinity_3440x1440_0.jpg target=_blank>![Credit: paol](3440x1440/Divinity_3440x1440_0_thumbnail.jpg)</a>
 <a href=3440x1440/Divinity_3440x1440_1.jpg target=_blank>![Credit: paol](3440x1440/Divinity_3440x1440_1_thumbnail.jpg)</a>
+<a href=7680x2160/Asteroid_B_612_7680x2160.jpeg target=_blank>![Credit: ArsInvictus](7680x2160/Asteroid_B_612_7680x2160_thumbnail.jpeg)</a>
