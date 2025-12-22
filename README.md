@@ -4958,3 +4958,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Chainsaw_Man_5120x2160.png target=_blank>![Credit: troy57890](5120x2160/Chainsaw_Man_5120x2160_thumbnail.png)</a>
 <a href=5464x2341/Sapa_s_rice_Fields_Vietnam_5464x2341.jpeg target=_blank>![Credit: icpiece](5464x2341/Sapa_s_rice_Fields_Vietnam_5464x2341_thumbnail.jpeg)</a>
 <a href=3440x1440/Winter_wallpaper_3440x1440.jpeg target=_blank>![Credit: The_Catster](3440x1440/Winter_wallpaper_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Light_Bars_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Light_Bars_3440x1440_thumbnail.png)</a>
