@@ -4983,3 +4983,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Anastasia_1997__3440x1440.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/Anastasia_1997__3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Red_Dead_Redemption_2_3440x1440.png target=_blank>![Credit: The_Catster](3440x1440/Red_Dead_Redemption_2_3440x1440_thumbnail.png)</a>
 <a href=3840x1600/3840×1600_Silent_dunes_—_minimal_ultrawide.png target=_blank>![Credit: Ok_Bother_9638](3840x1600/3840×1600_Silent_dunes_—_minimal_ultrawide_thumbnail.png)</a>
+<a href=3840x1600/Stillness_3840×1600.png target=_blank>![Credit: Ok_Bother_9638](3840x1600/Stillness_3840×1600_thumbnail.png)</a>
