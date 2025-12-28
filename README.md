@@ -4985,3 +4985,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1600/3840×1600_Silent_dunes_—_minimal_ultrawide.png target=_blank>![Credit: Ok_Bother_9638](3840x1600/3840×1600_Silent_dunes_—_minimal_ultrawide_thumbnail.png)</a>
 <a href=3840x1600/Stillness_3840×1600.png target=_blank>![Credit: Ok_Bother_9638](3840x1600/Stillness_3840×1600_thumbnail.png)</a>
 <a href=7680x2160/Ecco_the_Dolphin_cover_by_Zsolt_Balogh_7680x2160.png target=_blank>![Credit: jesterjunk](7680x2160/Ecco_the_Dolphin_cover_by_Zsolt_Balogh_7680x2160_thumbnail.png)</a>
+<a href=7680x2160/My_weekly_drop_12_28_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_12_28_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
