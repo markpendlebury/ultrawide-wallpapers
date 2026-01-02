@@ -5010,3 +5010,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=9998x2809/CR400AF_9998x2809.jpeg target=_blank>![Credit: blankblank](9998x2809/CR400AF_9998x2809_thumbnail.jpeg)</a>
 <a href=3440x1440/Zen_Garden_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Zen_Garden_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/The_Last_of_Us_2013__3440x1440.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/The_Last_of_Us_2013__3440x1440_thumbnail.png)</a>
+<a href=5120x2160/Los_Angeles_on_Sony_FX3_by_@teemusphoto_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Los_Angeles_on_Sony_FX3_by_@teemusphoto_5120x2160_thumbnail.png)</a>
