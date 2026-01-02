@@ -5009,3 +5009,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1600/Dark_Horizon_3840×1600.png target=_blank>![Credit: Ok_Bother_9638](3840x1600/Dark_Horizon_3840×1600_thumbnail.png)</a>
 <a href=9998x2809/CR400AF_9998x2809.jpeg target=_blank>![Credit: blankblank](9998x2809/CR400AF_9998x2809_thumbnail.jpeg)</a>
 <a href=3440x1440/Zen_Garden_3440x1440.png target=_blank>![Credit: Hillvegxn](3440x1440/Zen_Garden_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/The_Last_of_Us_2013__3440x1440.png target=_blank>![Credit: KahlanEAmnelle](3440x1440/The_Last_of_Us_2013__3440x1440_thumbnail.png)</a>
