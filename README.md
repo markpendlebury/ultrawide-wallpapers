@@ -5013,3 +5013,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Los_Angeles_on_Sony_FX3_by_@teemusphoto_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Los_Angeles_on_Sony_FX3_by_@teemusphoto_5120x2160_thumbnail.png)</a>
 <a href=7680x2160/Ice_Mountains_7680x2160__5120x2160.jpeg target=_blank>![Credit: ArsInvictus](7680x2160/Ice_Mountains_7680x2160__5120x2160_thumbnail.jpeg)</a>
 <a href=6273x2661/Double_exposure_portrait_6273x2661.png target=_blank>![Credit: AndreiCiomirtan](6273x2661/Double_exposure_portrait_6273x2661_thumbnail.png)</a>
+<a href=6273x2661/Fantasy_scene_of_a_young_warrior_6273x2661.png target=_blank>![Credit: AndreiCiomirtan](6273x2661/Fantasy_scene_of_a_young_warrior_6273x2661_thumbnail.png)</a>
