@@ -5041,3 +5041,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Outer_Space_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Outer_Space_3440x1440_thumbnail.png)</a>
 <a href=3840x1600/Minimal_waves_3840×1600.png target=_blank>![Credit: Ok_Bother_9638](3840x1600/Minimal_waves_3840×1600_thumbnail.png)</a>
 <a href=7680x2160/Alchemist_7680x2160.jpeg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Alchemist_7680x2160_thumbnail.jpeg)</a>
+<a href=5120x1440/Quora_by_Brian_Belfreeze_5120x1440.jpeg target=_blank>![Credit: ontologicalmatrix](5120x1440/Quora_by_Brian_Belfreeze_5120x1440_thumbnail.jpeg)</a>
