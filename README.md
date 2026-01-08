@@ -5046,3 +5046,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Hiya_Georgie_5120x1440.jpeg target=_blank>![Credit: ontologicalmatrix](5120x1440/Hiya_Georgie_5120x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Miss_Quinzel_by_Amanda_Conner_5120x1440.jpeg target=_blank>![Credit: ontologicalmatrix](5120x1440/Miss_Quinzel_by_Amanda_Conner_5120x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Nicole_by_Brian_Stelfreeze_5120x1440.jpeg target=_blank>![Credit: ontologicalmatrix](5120x1440/Nicole_by_Brian_Stelfreeze_5120x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Palencia_Peak_Szczawnica_Poland_3440x1440.png target=_blank>![Credit: lookwithoutseeing](3440x1440/Palencia_Peak_Szczawnica_Poland_3440x1440_thumbnail.png)</a>
