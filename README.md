@@ -5061,3 +5061,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Eyes_of_the_Canopy_5120x1440.png target=_blank>![Credit: Orak2480](5120x1440/Eyes_of_the_Canopy_5120x1440_thumbnail.png)</a>
 <a href=6336x2688/She_is_hiding_in_the_shadows_6336x2688.png target=_blank>![Credit: AndreiCiomirtan](6336x2688/She_is_hiding_in_the_shadows_6336x2688_thumbnail.png)</a>
 <a href=5120x1440/Abstract_5120x1440.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/Hillside_Eclipse_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Hillside_Eclipse_5120x1440_thumbnail.png)</a>
