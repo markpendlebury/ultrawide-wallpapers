@@ -5069,3 +5069,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_4.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_4_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_5.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_5_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_6.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_6_thumbnail.jpg)</a>
+<a href=3440x1440/Sakura_Beauty_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Sakura_Beauty_3440x1440_thumbnail.jpeg)</a>
