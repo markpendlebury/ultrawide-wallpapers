@@ -5087,3 +5087,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_01_11_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=5120x1440/Baby_Emerald_Sentinel_5120x1440.png target=_blank>![Credit: Orak2480](5120x1440/Baby_Emerald_Sentinel_5120x1440_thumbnail.png)</a>
 <a href=7680x2160/Winter_Vibes_Girl_and_her_Cat_7680x2160_32_9.png target=_blank>![Credit: Overall_Way_2816](7680x2160/Winter_Vibes_Girl_and_her_Cat_7680x2160_32_9_thumbnail.png)</a>
+<a href=5120x1440/Does_whatever_a_spider_can_5120x1440.jpeg target=_blank>![Credit: ontologicalmatrix](5120x1440/Does_whatever_a_spider_can_5120x1440_thumbnail.jpeg)</a>
