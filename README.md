@@ -5090,3 +5090,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Does_whatever_a_spider_can_5120x1440.jpeg target=_blank>![Credit: ontologicalmatrix](5120x1440/Does_whatever_a_spider_can_5120x1440_thumbnail.jpeg)</a>
 <a href=4096x1760/cinematic_portrait_of_a_young_woman_4096x1760.png target=_blank>![Credit: AndreiCiomirtan](4096x1760/cinematic_portrait_of_a_young_woman_4096x1760_thumbnail.png)</a>
 <a href=5120x2160/Waves_5120x2160.png target=_blank>![Credit: SaL](5120x2160/Waves_5120x2160_thumbnail.png)</a>
+<a href=5120x2160/Bokeh_5120x2160.png target=_blank>![Credit: SaL](5120x2160/Bokeh_5120x2160_thumbnail.png)</a>
