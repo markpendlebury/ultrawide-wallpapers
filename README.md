@@ -5093,3 +5093,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Bokeh_5120x2160.png target=_blank>![Credit: SaL](5120x2160/Bokeh_5120x2160_thumbnail.png)</a>
 <a href=5120x1440/Abstract_Crystals_5120x1440__AI_0.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_0_thumbnail.png)</a>
 <a href=5120x1440/Abstract_Crystals_5120x1440__AI_1.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_1_thumbnail.png)</a>
+<a href=5120x1440/Abstract_Crystals_5120x1440__AI_2.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_2_thumbnail.png)</a>
