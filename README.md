@@ -5094,3 +5094,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Abstract_Crystals_5120x1440__AI_0.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_0_thumbnail.png)</a>
 <a href=5120x1440/Abstract_Crystals_5120x1440__AI_1.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_1_thumbnail.png)</a>
 <a href=5120x1440/Abstract_Crystals_5120x1440__AI_2.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_2_thumbnail.png)</a>
+<a href=5120x1440/Abstract_Crystals_5120x1440__AI_3.png target=_blank>![Credit: Orak2480](5120x1440/Abstract_Crystals_5120x1440__AI_3_thumbnail.png)</a>
