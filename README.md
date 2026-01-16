@@ -5099,3 +5099,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/KOF_XIII_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/KOF_XIII_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Vacheron_Constantin_Historiques_222_5120x2160.jpeg target=_blank>![Credit: Das_Zeppelin](5120x2160/Vacheron_Constantin_Historiques_222_5120x2160_thumbnail.jpeg)</a>
 <a href=3840x1080/Vacheron_Constantin_Historiques_222_3840x1080.jpeg target=_blank>![Credit: Das_Zeppelin](3840x1080/Vacheron_Constantin_Historiques_222_3840x1080_thumbnail.jpeg)</a>
+<a href=7680x2160/I_m_not_wearing_any_hockey_pads_7680x2160.jpeg target=_blank>![Credit: ontologicalmatrix](7680x2160/I_m_not_wearing_any_hockey_pads_7680x2160_thumbnail.jpeg)</a>
