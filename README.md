@@ -5102,3 +5102,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/I_m_not_wearing_any_hockey_pads_7680x2160.jpeg target=_blank>![Credit: ontologicalmatrix](7680x2160/I_m_not_wearing_any_hockey_pads_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Dota_2_Largo_Wallpaper_3440x1440.jpeg target=_blank>![Credit: Gorodeckiy](3440x1440/Dota_2_Largo_Wallpaper_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Spectregraph_7680x2160__5120x1440_0.jpg target=_blank>![Credit: ontologicalmatrix](7680x2160/Spectregraph_7680x2160__5120x1440_0_thumbnail.jpg)</a>
+<a href=7680x2160/Spectregraph_7680x2160__5120x1440_1.jpg target=_blank>![Credit: ontologicalmatrix](7680x2160/Spectregraph_7680x2160__5120x1440_1_thumbnail.jpg)</a>
