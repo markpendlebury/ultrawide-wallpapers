@@ -5133,3 +5133,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/The_GoodSoup_Hotel_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/The_GoodSoup_Hotel_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/A_pirates_life_for_me_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/A_pirates_life_for_me_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Blood_Island_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/Blood_Island_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/A_hearty_Meal_my_lads_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/A_hearty_Meal_my_lads_3440x1440_thumbnail.png)</a>
