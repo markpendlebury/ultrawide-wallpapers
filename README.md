@@ -5137,3 +5137,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Whispers_of_the_Tri_Isle_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/Whispers_of_the_Tri_Isle_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/voodoo_ladies_domain_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/voodoo_ladies_domain_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Golden_Hour_Nostalgia_A_Girl_and_Her_Cat_5120x2160.png target=_blank>![Credit: Overall_Way_2816](5120x2160/Golden_Hour_Nostalgia_A_Girl_and_Her_Cat_5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Echoes_of_Voodoo_and_Bone_3440x1440.png target=_blank>![Credit: AstralWallpapers](3440x1440/Echoes_of_Voodoo_and_Bone_3440x1440_thumbnail.png)</a>
