@@ -5161,3 +5161,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/The_Order_Has_Abandoned_Us_3440x1440.png target=_blank>![Credit: CelestialWallpaper](3440x1440/The_Order_Has_Abandoned_Us_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/The_Sentinel_7680x2160.jpeg target=_blank>![Credit: ArsInvictus](7680x2160/The_Sentinel_7680x2160_thumbnail.jpeg)</a>
 <a href=4038x1690/Sumo_Girls___Satoshi_Kohno_4038x1690.jpeg target=_blank>![Credit: Top_Flight5486](4038x1690/Sumo_Girls___Satoshi_Kohno_4038x1690_thumbnail.jpeg)</a>
+<a href=5120x2160/Jujutsu_Kaisen_5120x2160_0.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_0_thumbnail.png)</a>
