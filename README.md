@@ -5165,3 +5165,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Jujutsu_Kaisen_5120x2160_1.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_1_thumbnail.png)</a>
 <a href=5120x2160/Jujutsu_Kaisen_5120x2160_2.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_2_thumbnail.png)</a>
 <a href=5120x2160/Jujutsu_Kaisen_5120x2160_3.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_3_thumbnail.png)</a>
+<a href=5120x2160/Jujutsu_Kaisen_5120x2160_4.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_4_thumbnail.png)</a>
