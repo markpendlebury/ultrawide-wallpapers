@@ -5174,3 +5174,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Jujutsu_Kaisen_5120x2160_10.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_10_thumbnail.png)</a>
 <a href=5120x2160/Jujutsu_Kaisen_5120x2160_11.png target=_blank>![Credit: troy57890](5120x2160/Jujutsu_Kaisen_5120x2160_11_thumbnail.png)</a>
 <a href=5120x1440/Dark_Goth_Like_Backgrounds_5120x1440_0.png target=_blank>![Credit: Orak2480](5120x1440/Dark_Goth_Like_Backgrounds_5120x1440_0_thumbnail.png)</a>
+<a href=5120x1440/Dark_Goth_Like_Backgrounds_5120x1440_1.png target=_blank>![Credit: Orak2480](5120x1440/Dark_Goth_Like_Backgrounds_5120x1440_1_thumbnail.png)</a>
