@@ -5199,3 +5199,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Watching_the_City_Dream_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/Watching_the_City_Dream_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Some_Assembly_Required_7680x2160_0.jpg target=_blank>![Credit: ontologicalmatrix](7680x2160/Some_Assembly_Required_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Some_Assembly_Required_7680x2160_1.jpg target=_blank>![Credit: ontologicalmatrix](7680x2160/Some_Assembly_Required_7680x2160_1_thumbnail.jpg)</a>
+<a href=3440x1440/Last_Street_Before_the_Sea_3440x1440.png target=_blank>![Credit: CelestialWallpaper](3440x1440/Last_Street_Before_the_Sea_3440x1440_thumbnail.png)</a>
