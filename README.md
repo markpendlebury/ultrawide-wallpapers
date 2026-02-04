@@ -5251,3 +5251,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Oldie_Remix_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Oldie_Remix_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Asuka_and_Shinji_at_a_rural_train_stop_3440x1440.png target=_blank>![Credit: YEAGERIST_420](3440x1440/Asuka_and_Shinji_at_a_rural_train_stop_3440x1440_thumbnail.png)</a>
 <a href=2560x1080/Empty_Gas_station___pixel_World_2560x1080.png target=_blank>![Credit: Ok_Bother_9638](2560x1080/Empty_Gas_station___pixel_World_2560x1080_thumbnail.png)</a>
+<a href=5120x1440/Peterbilt_589_32_9_HD_Wallpaper__5120x1440.png target=_blank>![Credit: BigK4747](5120x1440/Peterbilt_589_32_9_HD_Wallpaper__5120x1440_thumbnail.png)</a>
