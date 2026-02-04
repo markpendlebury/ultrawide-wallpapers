@@ -5249,3 +5249,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/This_weeks_wallpaper_rotation__3440x1440_9.jpg target=_blank>![Credit: ThreeFtAssassin](3440x1440/This_weeks_wallpaper_rotation__3440x1440_9_thumbnail.jpg)</a>
 <a href=2560x1080/A_moment_of_stillness_2560x1080.png target=_blank>![Credit: Ok_Bother_9638](2560x1080/A_moment_of_stillness_2560x1080_thumbnail.png)</a>
 <a href=3440x1440/Oldie_Remix_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Oldie_Remix_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Asuka_and_Shinji_at_a_rural_train_stop_3440x1440.png target=_blank>![Credit: YEAGERIST_420](3440x1440/Asuka_and_Shinji_at_a_rural_train_stop_3440x1440_thumbnail.png)</a>
