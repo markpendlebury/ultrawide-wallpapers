@@ -5286,3 +5286,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/My_Collection_of_312_Wallpapers_5120x1440_7.png target=_blank>![Credit: ontologicalmatrix](5120x1440/My_Collection_of_312_Wallpapers_5120x1440_7_thumbnail.png)</a>
 <a href=5120x1440/My_Collection_of_312_Wallpapers_5120x1440_8.png target=_blank>![Credit: ontologicalmatrix](5120x1440/My_Collection_of_312_Wallpapers_5120x1440_8_thumbnail.png)</a>
 <a href=5120x1440/My_Collection_of_312_Wallpapers_5120x1440_9.png target=_blank>![Credit: ontologicalmatrix](5120x1440/My_Collection_of_312_Wallpapers_5120x1440_9_thumbnail.png)</a>
+<a href=7680x2160/Rotating_snakes_by_Akiyoshi_Kitaoka_7680x2160.png target=_blank>![Credit: Das_Zeppelin](7680x2160/Rotating_snakes_by_Akiyoshi_Kitaoka_7680x2160_thumbnail.png)</a>
