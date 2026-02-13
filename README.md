@@ -5289,3 +5289,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Rotating_snakes_by_Akiyoshi_Kitaoka_7680x2160.png target=_blank>![Credit: Das_Zeppelin](7680x2160/Rotating_snakes_by_Akiyoshi_Kitaoka_7680x2160_thumbnail.png)</a>
 <a href=7680x2160/Wanderer_Collection_32_9_7680x2160_0.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Wanderer_Collection_32_9_7680x2160_1.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_7680x2160_1_thumbnail.jpg)</a>
+<a href=7680x2160/Wanderer_Collection_32_9_7680x2160_2.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_7680x2160_2_thumbnail.jpg)</a>
