@@ -5311,3 +5311,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_02_15_21_9_&_32_9__7680x2160_3.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_15_21_9_&_32_9__7680x2160_3_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_02_15_21_9_&_32_9__7680x2160_4.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_15_21_9_&_32_9__7680x2160_4_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_02_15_21_9_&_32_9__7680x2160_5.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_15_21_9_&_32_9__7680x2160_5_thumbnail.jpg)</a>
+<a href=5160x2160/Sanmen_Daikokuten_Temple_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Sanmen_Daikokuten_Temple_5160x2160_thumbnail.png)</a>
