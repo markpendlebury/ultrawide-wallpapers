@@ -5329,3 +5329,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Ultrawide_Garden_3440x1440.png target=_blank>![Credit: SaL](3440x1440/Ultrawide_Garden_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Moon_Ride_3440x1440.png target=_blank>![Credit: The_Catster](3440x1440/Moon_Ride_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Kyoto_Tavern_Insights_3440x1440.png target=_blank>![Credit: otacon7000](3440x1440/Kyoto_Tavern_Insights_3440x1440_thumbnail.png)</a>
+<a href=6336x2688/Boy_splitting_reality_6336x2688.jpeg target=_blank>![Credit: ravi_blade](6336x2688/Boy_splitting_reality_6336x2688_thumbnail.jpeg)</a>
