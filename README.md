@@ -5343,3 +5343,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Mix_7680x2160_5.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mix_7680x2160_5_thumbnail.jpg)</a>
 <a href=7680x2160/Mix_7680x2160_6.png target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mix_7680x2160_6_thumbnail.png)</a>
 <a href=7680x2160/Mix_7680x2160_7.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mix_7680x2160_7_thumbnail.jpg)</a>
+<a href=7680x2160/Mix_7680x2160_8.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mix_7680x2160_8_thumbnail.jpg)</a>
