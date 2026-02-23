@@ -5347,3 +5347,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Mix_7680x2160_9.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mix_7680x2160_9_thumbnail.jpg)</a>
 <a href=7680x2160/Mix_7680x2160_10.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/Mix_7680x2160_10_thumbnail.jpg)</a>
 <a href=5160x2160/Going_Home_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Going_Home_5160x2160_thumbnail.png)</a>
+<a href=7680x2160/WinXP_Bliss_Original_&_Painting_32_9__7680x2160_0.jpg target=_blank>![Credit: MitchVanHayden](7680x2160/WinXP_Bliss_Original_&_Painting_32_9__7680x2160_0_thumbnail.jpg)</a>
