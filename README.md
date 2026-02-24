@@ -5368,3 +5368,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_02_22_21_9_&_32_9__7680x2160_16.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_22_21_9_&_32_9__7680x2160_16_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_02_22_21_9_&_32_9__7680x2160_17.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_22_21_9_&_32_9__7680x2160_17_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_02_22_21_9_&_32_9__7680x2160_18.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_02_22_21_9_&_32_9__7680x2160_18_thumbnail.jpg)</a>
+<a href=7680x2160/Red_Cubed_32_9__7680x2160.jpeg target=_blank>![Credit: MitchVanHayden](7680x2160/Red_Cubed_32_9__7680x2160_thumbnail.jpeg)</a>
