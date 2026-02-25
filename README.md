@@ -5380,3 +5380,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Self_Titled_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Self_Titled_3440x1440_thumbnail.png)</a>
 <a href=5160x2160/Rainy_Midnight_Walk_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Rainy_Midnight_Walk_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/World_of_Warcraft_Paladin_Class_Hall_3440_x_1440.png target=_blank>![Credit: Soulbreeze](3440x1440/World_of_Warcraft_Paladin_Class_Hall_3440_x_1440_thumbnail.png)</a>
+<a href=7680x2160/Space_32_9__7680x2160_0.jpg target=_blank>![Credit: MitchVanHayden](7680x2160/Space_32_9__7680x2160_0_thumbnail.jpg)</a>
