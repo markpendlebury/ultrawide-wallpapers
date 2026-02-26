@@ -5387,3 +5387,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=4779x2048/Woman_holding_skull_4779x2048.jpeg target=_blank>![Credit: Snail_Boop](4779x2048/Woman_holding_skull_4779x2048_thumbnail.jpeg)</a>
 <a href=7680x2160/Space_32_9__7680x2160_4.jpg target=_blank>![Credit: MitchVanHayden](7680x2160/Space_32_9__7680x2160_4_thumbnail.jpg)</a>
 <a href=7680x2160/Space_32_9__7680x2160_5.jpg target=_blank>![Credit: MitchVanHayden](7680x2160/Space_32_9__7680x2160_5_thumbnail.jpg)</a>
+<a href=7680x2721/The_Invincible_7680x2721.jpeg target=_blank>![Credit: Das_Zeppelin](7680x2721/The_Invincible_7680x2721_thumbnail.jpeg)</a>
