@@ -5414,3 +5414,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_03_01_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_03_01_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=5160x2160/The_Restaurant_Is_Now_Closed_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/The_Restaurant_Is_Now_Closed_5160x2160_thumbnail.png)</a>
 <a href=5120x1440/Class_of_the_Elite_5120x1440.png target=_blank>![Credit: zerolight71](5120x1440/Class_of_the_Elite_5120x1440_thumbnail.png)</a>
+<a href=6336x2688/Portrait_of_a_rugged_middle_aged_man_6336x2688.jpeg target=_blank>![Credit: AndreiCiomirtan](6336x2688/Portrait_of_a_rugged_middle_aged_man_6336x2688_thumbnail.jpeg)</a>
