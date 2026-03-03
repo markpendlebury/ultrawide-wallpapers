@@ -5416,3 +5416,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Class_of_the_Elite_5120x1440.png target=_blank>![Credit: zerolight71](5120x1440/Class_of_the_Elite_5120x1440_thumbnail.png)</a>
 <a href=6336x2688/Portrait_of_a_rugged_middle_aged_man_6336x2688.jpeg target=_blank>![Credit: AndreiCiomirtan](6336x2688/Portrait_of_a_rugged_middle_aged_man_6336x2688_thumbnail.jpeg)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_0.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_1.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_1_thumbnail.jpg)</a>
