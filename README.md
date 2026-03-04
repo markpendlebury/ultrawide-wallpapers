@@ -5445,3 +5445,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_16.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_16_thumbnail.jpg)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_17.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_17_thumbnail.jpg)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_18.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_18_thumbnail.jpg)</a>
+<a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_19.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_19_thumbnail.jpg)</a>
