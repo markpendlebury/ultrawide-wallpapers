@@ -5447,3 +5447,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_18.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_18_thumbnail.jpg)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_19.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_19_thumbnail.jpg)</a>
 <a href=5600x2400/Elf_Girl_Asleep_5600x2400.png target=_blank>![Credit: Snail_Boop](5600x2400/Elf_Girl_Asleep_5600x2400_thumbnail.png)</a>
+<a href=2560x1080/Winows_10__Hero__for_ultrawide_monitrs_2560x1080.jpeg target=_blank>![Credit: Reasonable_Ad654](2560x1080/Winows_10__Hero__for_ultrawide_monitrs_2560x1080_thumbnail.jpeg)</a>
