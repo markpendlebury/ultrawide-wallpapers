@@ -5432,3 +5432,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6880x1440/Mars_6880x1440.png target=_blank>![Credit: Chance_Box9521](6880x1440/Mars_6880x1440_thumbnail.png)</a>
 <a href=5120x2160/California_State_Capitol_by_@Kbyrandart_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/California_State_Capitol_by_@Kbyrandart_5120x2160_thumbnail.png)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_5.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_5_thumbnail.jpg)</a>
+<a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_6.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_6_thumbnail.jpg)</a>
