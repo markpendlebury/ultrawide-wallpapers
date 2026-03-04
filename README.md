@@ -5449,3 +5449,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5600x2400/Elf_Girl_Asleep_5600x2400.png target=_blank>![Credit: Snail_Boop](5600x2400/Elf_Girl_Asleep_5600x2400_thumbnail.png)</a>
 <a href=2560x1080/Winows_10__Hero__for_ultrawide_monitrs_2560x1080.jpeg target=_blank>![Credit: Reasonable_Ad654](2560x1080/Winows_10__Hero__for_ultrawide_monitrs_2560x1080_thumbnail.jpeg)</a>
 <a href=3440x1440/Illuminated_Shutter_3440x1440.jpeg target=_blank>![Credit: otacon7000](3440x1440/Illuminated_Shutter_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Resident_Evil_Requiem_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Resident_Evil_Requiem_3440x1440_thumbnail.png)</a>
