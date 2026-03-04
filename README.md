@@ -5420,3 +5420,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_2.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_2_thumbnail.jpg)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_3.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_3_thumbnail.jpg)</a>
 <a href=7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_4.jpg target=_blank>![Credit: SnooStrawberries6262](7680x2160/Tech&Nature_500_Wallpapers_Pack_7680x2160_4_thumbnail.jpg)</a>
+<a href=2560x1080/Windows_10__Hero__for_ultrawide_monitors_2560x1080_0.jpg target=_blank>![Credit: Reasonable_Ad654](2560x1080/Windows_10__Hero__for_ultrawide_monitors_2560x1080_0_thumbnail.jpg)</a>
