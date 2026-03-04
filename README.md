@@ -5429,3 +5429,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Current_Playlist_5120x1440_4.png target=_blank>![Credit: zerolight71](5120x1440/Current_Playlist_5120x1440_4_thumbnail.png)</a>
 <a href=5120x1440/Current_Playlist_5120x1440_5.png target=_blank>![Credit: zerolight71](5120x1440/Current_Playlist_5120x1440_5_thumbnail.png)</a>
 <a href=5120x1440/Current_Playlist_5120x1440_6.png target=_blank>![Credit: zerolight71](5120x1440/Current_Playlist_5120x1440_6_thumbnail.png)</a>
+<a href=6880x1440/Mars_6880x1440.png target=_blank>![Credit: Chance_Box9521](6880x1440/Mars_6880x1440_thumbnail.png)</a>
