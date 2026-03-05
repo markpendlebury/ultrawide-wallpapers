@@ -5451,3 +5451,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Illuminated_Shutter_3440x1440.jpeg target=_blank>![Credit: otacon7000](3440x1440/Illuminated_Shutter_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Resident_Evil_Requiem_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Resident_Evil_Requiem_3440x1440_thumbnail.png)</a>
 <a href=4780x2048/Fantasy_Dragon_4780x2048.png target=_blank>![Credit: Snail_Boop](4780x2048/Fantasy_Dragon_4780x2048_thumbnail.png)</a>
+<a href=6880x2880/Currents____OC_by_SusManufactory_6880x2880.jpeg target=_blank>![Credit: Sinusidal](6880x2880/Currents____OC_by_SusManufactory_6880x2880_thumbnail.jpeg)</a>
