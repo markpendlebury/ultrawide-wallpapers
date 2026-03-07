@@ -5455,3 +5455,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Illuminated_Shutter_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Illuminated_Shutter_5160x2160_thumbnail.png)</a>
 <a href=7000x3000/Dark_Haired_Woman_with_Bangs_7000x3000.png target=_blank>![Credit: Snail_Boop](7000x3000/Dark_Haired_Woman_with_Bangs_7000x3000_thumbnail.png)</a>
 <a href=5120x1440/Blade_Runner_2049___5120x1440.png target=_blank>![Credit: snoopmaf](5120x1440/Blade_Runner_2049___5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Top_Cow_s_Killjoy_AI_from_Mobile_Image_3440x1440.jpeg target=_blank>![Credit: Spethual](3440x1440/Top_Cow_s_Killjoy_AI_from_Mobile_Image_3440x1440_thumbnail.jpeg)</a>
