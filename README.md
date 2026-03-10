@@ -5491,3 +5491,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Been_making_my_own_wallpapers_5120_x_1440_7.png target=_blank>![Credit: Tylopodas](5120x1440/Been_making_my_own_wallpapers_5120_x_1440_7_thumbnail.png)</a>
 <a href=3440x1440/World_s_Oldest_Library_Verona_3440x1440.jpeg target=_blank>![Credit: dixieflatline76](3440x1440/World_s_Oldest_Library_Verona_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/FLCL__Furi_Kuri_Triptychs_3440x1440_0.jpg target=_blank>![Credit: Gabohar](3440x1440/FLCL__Furi_Kuri_Triptychs_3440x1440_0_thumbnail.jpg)</a>
+<a href=3440x1440/FLCL__Furi_Kuri_Triptychs_3440x1440_1.jpg target=_blank>![Credit: Gabohar](3440x1440/FLCL__Furi_Kuri_Triptychs_3440x1440_1_thumbnail.jpg)</a>
