@@ -5514,3 +5514,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Simplified_Landscapes_5120x1440_11.png target=_blank>![Credit: Tylopodas](5120x1440/Simplified_Landscapes_5120x1440_11_thumbnail.png)</a>
 <a href=3440x1440/A_Man_A_Cat_and_the_Falling_Stars_3440x1440.jpeg target=_blank>![Credit: Hillvegxn](3440x1440/A_Man_A_Cat_and_the_Falling_Stars_3440x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Elf_Princess_5160x2160.png target=_blank>![Credit: Snail_Boop](5160x2160/Elf_Princess_5160x2160_thumbnail.png)</a>
+<a href=5160x2160/Arrow_5160x2160.png target=_blank>![Credit: Snail_Boop](5160x2160/Arrow_5160x2160_thumbnail.png)</a>
