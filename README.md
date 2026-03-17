@@ -5538,3 +5538,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/WoW_Midnight___Silvermoon_Inky___3440x1440.png target=_blank>![Credit: Soulbreeze](3440x1440/WoW_Midnight___Silvermoon_Inky___3440x1440_thumbnail.png)</a>
 <a href=3440x1440/The_USS_Enterprise_NCC_1701_A_3440x1440.jpeg target=_blank>![Credit: Goosephat](3440x1440/The_USS_Enterprise_NCC_1701_A_3440x1440_thumbnail.jpeg)</a>
 <a href=5160x2160/Downed_X_Wing_5160x2160.jpeg target=_blank>![Credit: Snail_Boop](5160x2160/Downed_X_Wing_5160x2160_thumbnail.jpeg)</a>
+<a href=5120x2160/Inspired_by_slop_created_by_hand_5120x2160.png target=_blank>![Credit: james_bourne](5120x2160/Inspired_by_slop_created_by_hand_5120x2160_thumbnail.png)</a>
