@@ -5542,3 +5542,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Warcraft_III___Alliance_vs_Horde_3440x1440.jpeg target=_blank>![Credit: MickCraftGaming](3440x1440/Warcraft_III___Alliance_vs_Horde_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x2160/Watercolor_Blast_5120x2160.jpeg target=_blank>![Credit: Snail_Boop](5120x2160/Watercolor_Blast_5120x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Aelbert_Cuyp_A_View_of_the_Maas____3440x1440.jpeg target=_blank>![Credit: Jonny_dr](3440x1440/Aelbert_Cuyp_A_View_of_the_Maas____3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/Wapple____OC_by_SusManufactory_3440x1440.jpeg target=_blank>![Credit: Sinusidal](3440x1440/Wapple____OC_by_SusManufactory_3440x1440_thumbnail.jpeg)</a>
