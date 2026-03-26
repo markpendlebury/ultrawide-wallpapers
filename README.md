@@ -5574,3 +5574,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3840x1600/GFDA___You_Won_t_Know_Until_You_Try_3840x1600.png target=_blank>![Credit: jacobfromnewmex](3840x1600/GFDA___You_Won_t_Know_Until_You_Try_3840x1600_thumbnail.png)</a>
 <a href=5160x2160/Downed_TIE_Fighter_5160x2160.png target=_blank>![Credit: Snail_Boop](5160x2160/Downed_TIE_Fighter_5160x2160_thumbnail.png)</a>
 <a href=7680x2160/New_7680x2160_0.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/New_7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/New_7680x2160_1.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/New_7680x2160_1_thumbnail.jpg)</a>
