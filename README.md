@@ -5580,3 +5580,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Shuttle_Launch_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Shuttle_Launch_3440x1440_thumbnail.png)</a>
 <a href=5886x2464/Astronaut_Kid_and_Black_Cat_5886x2464.png target=_blank>![Credit: Snail_Boop](5886x2464/Astronaut_Kid_and_Black_Cat_5886x2464_thumbnail.png)</a>
 <a href=5120x2160/Fire_Force_5120x2160_0.png target=_blank>![Credit: troy57890](5120x2160/Fire_Force_5120x2160_0_thumbnail.png)</a>
+<a href=5120x2160/Fire_Force_5120x2160_1.png target=_blank>![Credit: troy57890](5120x2160/Fire_Force_5120x2160_1_thumbnail.png)</a>
