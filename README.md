@@ -5588,3 +5588,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Fire_Force_5120x2160_6.png target=_blank>![Credit: troy57890](5120x2160/Fire_Force_5120x2160_6_thumbnail.png)</a>
 <a href=5120x2160/Fire_Force_5120x2160_7.png target=_blank>![Credit: troy57890](5120x2160/Fire_Force_5120x2160_7_thumbnail.png)</a>
 <a href=5120x2160/Fire_Force_5120x2160_8.png target=_blank>![Credit: troy57890](5120x2160/Fire_Force_5120x2160_8_thumbnail.png)</a>
+<a href=5210x2160/I_made_a_Sonic_Adventure_2_wallpaper_5210x2160.jpeg target=_blank>![Credit: Miles_Wolf](5210x2160/I_made_a_Sonic_Adventure_2_wallpaper_5210x2160_thumbnail.jpeg)</a>
