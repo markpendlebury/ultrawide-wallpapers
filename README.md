@@ -5578,3 +5578,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/New_7680x2160_2.jpg target=_blank>![Credit: Kevin_C_Knight](7680x2160/New_7680x2160_2_thumbnail.jpg)</a>
 <a href=3440x1440/Nabu_Fighter_3440x1440.png target=_blank>![Credit: leSang](3440x1440/Nabu_Fighter_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Shuttle_Launch_3440x1440.png target=_blank>![Credit: xXheroin_bobXx](3440x1440/Shuttle_Launch_3440x1440_thumbnail.png)</a>
+<a href=5886x2464/Astronaut_Kid_and_Black_Cat_5886x2464.png target=_blank>![Credit: Snail_Boop](5886x2464/Astronaut_Kid_and_Black_Cat_5886x2464_thumbnail.png)</a>
