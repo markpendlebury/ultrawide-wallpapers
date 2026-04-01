@@ -5611,3 +5611,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_03_29_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_03_29_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=3440x1440/Fatal_Fury_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Fatal_Fury_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Sunny_Green_Tech_3440x1440.png target=_blank>![Credit: perfecthue](3440x1440/Sunny_Green_Tech_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Astronaut_Fantasy_Art_5160x2160.png target=_blank>![Credit: Snail_Boop](5160x2160/Astronaut_Fantasy_Art_5160x2160_thumbnail.png)</a>
