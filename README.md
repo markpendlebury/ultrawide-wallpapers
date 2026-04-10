@@ -5654,3 +5654,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Moon_and_Crescent_Earth___Artemis_II_3440x1440.jpeg target=_blank>![Credit: thenopeburger](3440x1440/Moon_and_Crescent_Earth___Artemis_II_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Artemis_Mission_II_AI_Upscaled_and_Quote_5120x1440.png target=_blank>![Credit: ILIV_DANGEROUS](5120x1440/Artemis_Mission_II_AI_Upscaled_and_Quote_5120x1440_thumbnail.png)</a>
 <a href=6880x2880/Spinterest___OC_by_SusManufactory_6880x2880.jpeg target=_blank>![Credit: Sinusidal](6880x2880/Spinterest___OC_by_SusManufactory_6880x2880_thumbnail.jpeg)</a>
+<a href=3440x1440/Greebled_Circuitry_v5_3440x1440.png target=_blank>![Credit: RSWOL](3440x1440/Greebled_Circuitry_v5_3440x1440_thumbnail.png)</a>
