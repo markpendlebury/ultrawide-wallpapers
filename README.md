@@ -5658,3 +5658,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/5120_x_1440_Artemis_II_Moon_Earth_Photomontage.jpeg target=_blank>![Credit: ApolloSpaceMonkey](5120x1440/5120_x_1440_Artemis_II_Moon_Earth_Photomontage_thumbnail.jpeg)</a>
 <a href=5160x2160/peekaboo_5160x2160.jpeg target=_blank>![Credit: paol](5160x2160/peekaboo_5160x2160_thumbnail.jpeg)</a>
 <a href=5160x2160/Lady_with_an_Ermine_by_Leonardo_da_Vinci_5160x2160.jpeg target=_blank>![Credit: Snail_Boop](5160x2160/Lady_with_an_Ermine_by_Leonardo_da_Vinci_5160x2160_thumbnail.jpeg)</a>
+<a href=7680x2160/Wanderer_Collection_32_9_pt_2_7680x2160_0.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_pt_2_7680x2160_0_thumbnail.jpg)</a>
