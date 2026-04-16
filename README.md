@@ -5694,3 +5694,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/KOF_97_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/KOF_97_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Persona_5_Noir_5120x1440.png target=_blank>![Credit: gr8masturb8](5120x1440/Persona_5_Noir_5120x1440_thumbnail.png)</a>
 <a href=7860x2160/Mars_Jezero_Crater_Delta_2022_7860x2160_0.jpg target=_blank>![Credit: Das_Zeppelin](7860x2160/Mars_Jezero_Crater_Delta_2022_7860x2160_0_thumbnail.jpg)</a>
+<a href=7860x2160/Mars_Jezero_Crater_Delta_2022_7860x2160_1.jpg target=_blank>![Credit: Das_Zeppelin](7860x2160/Mars_Jezero_Crater_Delta_2022_7860x2160_1_thumbnail.jpg)</a>
