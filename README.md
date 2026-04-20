@@ -5701,3 +5701,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Milky_Way_32_9_5120x1440.png target=_blank>![Credit: SweatyBoi5565](5120x1440/Milky_Way_32_9_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/Matrix_Code_Error___32_9_5120x1440.png target=_blank>![Credit: Responsible_Dress375](5120x1440/Matrix_Code_Error___32_9_5120x1440_thumbnail.png)</a>
 <a href=7680x2160/My_weekly_drop_04_19_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_04_19_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/My_weekly_drop_04_19_21_9_&_32_9__7680x2160_1.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_04_19_21_9_&_32_9__7680x2160_1_thumbnail.jpg)</a>
