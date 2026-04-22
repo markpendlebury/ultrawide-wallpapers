@@ -5722,3 +5722,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_04_19_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_04_19_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=5120x2160/NASA_Artemis_II_Rocket_in_Ghibli_Style_5120x2160.jpeg target=_blank>![Credit: SolaraGrovehart](5120x2160/NASA_Artemis_II_Rocket_in_Ghibli_Style_5120x2160_thumbnail.jpeg)</a>
 <a href=5120x1440/Abstract_3D_Waves_32_9_5120x1440.png target=_blank>![Credit: Responsible_Dress375](5120x1440/Abstract_3D_Waves_32_9_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/Jellyfish_32_9_5120x1440.png target=_blank>![Credit: Responsible_Dress375](5120x1440/Jellyfish_32_9_5120x1440_thumbnail.png)</a>
