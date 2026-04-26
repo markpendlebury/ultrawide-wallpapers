@@ -5748,3 +5748,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Wallpapers_Rear_lights_3440_x_1440_5.jpg target=_blank>![Credit: ClassicUA](3440x1440/Wallpapers_Rear_lights_3440_x_1440_5_thumbnail.jpg)</a>
 <a href=6880x2880/Twisties___OC_by_SusManufactory_6880x2880.jpeg target=_blank>![Credit: Sinusidal](6880x2880/Twisties___OC_by_SusManufactory_6880x2880_thumbnail.jpeg)</a>
 <a href=2560x1080/Wipeout_omega_collection_Wallpaper_2560x1080.png target=_blank>![Credit: Robert_PL](2560x1080/Wipeout_omega_collection_Wallpaper_2560x1080_thumbnail.png)</a>
+<a href=3440x1440/Lantern_festival_night_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Lantern_festival_night_3440x1440_thumbnail.jpeg)</a>
