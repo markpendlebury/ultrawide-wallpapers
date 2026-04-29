@@ -5770,3 +5770,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_04_26_21_9_&_32_9__7680x2160_18.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_04_26_21_9_&_32_9__7680x2160_18_thumbnail.jpg)</a>
 <a href=3440x1440/Japanese_torii_shrine_at_sunset_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Japanese_torii_shrine_at_sunset_3440x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Snowy_mountain_village_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Snowy_mountain_village_3440x1440_thumbnail.jpeg)</a>
+<a href=5120x2160/Devil_s_Tower_Wyoming_in_Anime_Style_5120x2160.jpeg target=_blank>![Credit: SolaraGrovehart](5120x2160/Devil_s_Tower_Wyoming_in_Anime_Style_5120x2160_thumbnail.jpeg)</a>
