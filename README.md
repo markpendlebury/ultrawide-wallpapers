@@ -5778,3 +5778,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/Guangzhou_China_at_night_in_anime_style_5120x2160.jpeg target=_blank>![Credit: SolaraGrovehart](5120x2160/Guangzhou_China_at_night_in_anime_style_5120x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Cozy_autumn_maple_village_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Cozy_autumn_maple_village_3440x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Paper_Plane_made_with_blender_7680x2160.png target=_blank>![Credit: james_bourne](7680x2160/Paper_Plane_made_with_blender_7680x2160_thumbnail.png)</a>
+<a href=7680x2160/Fat_Rabbit_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/Fat_Rabbit_7680x2160_thumbnail.jpeg)</a>
