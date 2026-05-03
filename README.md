@@ -5780,3 +5780,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Paper_Plane_made_with_blender_7680x2160.png target=_blank>![Credit: james_bourne](7680x2160/Paper_Plane_made_with_blender_7680x2160_thumbnail.png)</a>
 <a href=7680x2160/Fat_Rabbit_7680x2160.jpeg target=_blank>![Credit: jesterjunk](7680x2160/Fat_Rabbit_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Cherry_blossom_path_in_spring_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Cherry_blossom_path_in_spring_3440x1440_thumbnail.jpeg)</a>
+<a href=3440x1440/月半与鬼哭_by_Kohakunushi_3440x1440.png target=_blank>![Credit: touglisulz](3440x1440/月半与鬼哭_by_Kohakunushi_3440x1440_thumbnail.png)</a>
