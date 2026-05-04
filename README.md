@@ -5805,3 +5805,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Forza_Dump_My_Photos__3440x1440_1.png target=_blank>![Credit: yeremyporterr](3440x1440/Forza_Dump_My_Photos__3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/Forza_Dump_My_Photos__3440x1440_2.png target=_blank>![Credit: yeremyporterr](3440x1440/Forza_Dump_My_Photos__3440x1440_2_thumbnail.png)</a>
 <a href=3440x1440/Forza_Dump_My_Photos__3440x1440_3.png target=_blank>![Credit: yeremyporterr](3440x1440/Forza_Dump_My_Photos__3440x1440_3_thumbnail.png)</a>
+<a href=3440x1440/Misa_Amane_Death_Note_wallpaper_3440x1440.png target=_blank>![Credit: wiixtoria](3440x1440/Misa_Amane_Death_Note_wallpaper_3440x1440_thumbnail.png)</a>
