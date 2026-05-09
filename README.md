@@ -5807,3 +5807,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Forza_Dump_My_Photos__3440x1440_3.png target=_blank>![Credit: yeremyporterr](3440x1440/Forza_Dump_My_Photos__3440x1440_3_thumbnail.png)</a>
 <a href=3440x1440/Misa_Amane_Death_Note_wallpaper_3440x1440.png target=_blank>![Credit: wiixtoria](3440x1440/Misa_Amane_Death_Note_wallpaper_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/When_Yesterday_Looked_Across_Tomorrow_5120x2160.jpeg target=_blank>![Credit: SolaraGrovehart](5120x2160/When_Yesterday_Looked_Across_Tomorrow_5120x2160_thumbnail.jpeg)</a>
+<a href=5120x1440/Lochnagar_Scotland_5120x1440.png target=_blank>![Credit: K4neda74](5120x1440/Lochnagar_Scotland_5120x1440_thumbnail.png)</a>
