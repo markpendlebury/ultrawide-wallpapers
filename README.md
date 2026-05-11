@@ -5813,3 +5813,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6400x2688/Western_Ultrawide_Wallpapers_6400x2688_1.jpg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Western_Ultrawide_Wallpapers_6400x2688_1_thumbnail.jpg)</a>
 <a href=6400x2688/Western_Ultrawide_Wallpapers_6400x2688_2.jpg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Western_Ultrawide_Wallpapers_6400x2688_2_thumbnail.jpg)</a>
 <a href=6400x2688/Western_Ultrawide_Wallpapers_6400x2688_3.jpg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Western_Ultrawide_Wallpapers_6400x2688_3_thumbnail.jpg)</a>
+<a href=6400x2688/Western_Ultrawide_Wallpapers_6400x2688_4.jpg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Western_Ultrawide_Wallpapers_6400x2688_4_thumbnail.jpg)</a>
