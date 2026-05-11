@@ -5809,3 +5809,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/When_Yesterday_Looked_Across_Tomorrow_5120x2160.jpeg target=_blank>![Credit: SolaraGrovehart](5120x2160/When_Yesterday_Looked_Across_Tomorrow_5120x2160_thumbnail.jpeg)</a>
 <a href=5120x1440/Lochnagar_Scotland_5120x1440.png target=_blank>![Credit: K4neda74](5120x1440/Lochnagar_Scotland_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Plum_blossoms_at_sunrise_California_3440x1440.jpeg target=_blank>![Credit: paol](3440x1440/Plum_blossoms_at_sunrise_California_3440x1440_thumbnail.jpeg)</a>
+<a href=6400x2688/Western_Ultrawide_Wallpapers_6400x2688_0.jpg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Western_Ultrawide_Wallpapers_6400x2688_0_thumbnail.jpg)</a>
