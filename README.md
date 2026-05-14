@@ -5840,3 +5840,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6400x2688/Cryptic_Command_6400x2688.jpeg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Cryptic_Command_6400x2688_thumbnail.jpeg)</a>
 <a href=3440x1440/Silent_Hill_3_3440x1440.png target=_blank>![Credit: dogebuddha](3440x1440/Silent_Hill_3_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Stray___Midtown_5120x1440.png target=_blank>![Credit: eangema](5120x1440/Stray___Midtown_5120x1440_thumbnail.png)</a>
+<a href=5120x1440/5120x1440_Meme_wallpaper_for_32_9_monitors.png target=_blank>![Credit: Witty_Zaru](5120x1440/5120x1440_Meme_wallpaper_for_32_9_monitors_thumbnail.png)</a>
