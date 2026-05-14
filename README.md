@@ -5839,3 +5839,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Borderlands_2_styled_night_ravine_3440x1440.jpeg target=_blank>![Credit: JM_TAZUR](3440x1440/Borderlands_2_styled_night_ravine_3440x1440_thumbnail.jpeg)</a>
 <a href=6400x2688/Cryptic_Command_6400x2688.jpeg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Cryptic_Command_6400x2688_thumbnail.jpeg)</a>
 <a href=3440x1440/Silent_Hill_3_3440x1440.png target=_blank>![Credit: dogebuddha](3440x1440/Silent_Hill_3_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Stray___Midtown_5120x1440.png target=_blank>![Credit: eangema](5120x1440/Stray___Midtown_5120x1440_thumbnail.png)</a>
