@@ -5842,3 +5842,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Stray___Midtown_5120x1440.png target=_blank>![Credit: eangema](5120x1440/Stray___Midtown_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/5120x1440_Meme_wallpaper_for_32_9_monitors.png target=_blank>![Credit: Witty_Zaru](5120x1440/5120x1440_Meme_wallpaper_for_32_9_monitors_thumbnail.png)</a>
 <a href=5120x1440/5120x1440_Mortal_Kombat_II_Portal_Stage_Wallpaper.jpeg target=_blank>![Credit: xinvisionx](5120x1440/5120x1440_Mortal_Kombat_II_Portal_Stage_Wallpaper_thumbnail.jpeg)</a>
+<a href=5160x2160/Character_posters_for__Masters_of_the_Universe__5160x2160.png target=_blank>![Credit: paol](5160x2160/Character_posters_for__Masters_of_the_Universe__5160x2160_thumbnail.png)</a>
