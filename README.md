@@ -5846,3 +5846,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Kyobashi_Alleyway_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Kyobashi_Alleyway_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Searenity_3440x1440.png target=_blank>![Credit: LunaMagicc](3440x1440/Searenity_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Karasuma_Oike_Lanterns_5120x1440.png target=_blank>![Credit: otacon7000](5120x1440/Karasuma_Oike_Lanterns_5120x1440_thumbnail.png)</a>
+<a href=6880x2880/The_Banner_Saga_6880x2880.jpeg target=_blank>![Credit: Cypher_Vorthos](6880x2880/The_Banner_Saga_6880x2880_thumbnail.jpeg)</a>
