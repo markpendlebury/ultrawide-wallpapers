@@ -5849,3 +5849,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6880x2880/The_Banner_Saga_6880x2880.jpeg target=_blank>![Credit: Cypher_Vorthos](6880x2880/The_Banner_Saga_6880x2880_thumbnail.jpeg)</a>
 <a href=3440x1440/Face_3440x1440.png target=_blank>![Credit: qazifaran](3440x1440/Face_3440x1440_thumbnail.png)</a>
 <a href=3840x1570/Lying_in_a_Glade_3840x1570.jpeg target=_blank>![Credit: Warm_Newt_4516](3840x1570/Lying_in_a_Glade_3840x1570_thumbnail.jpeg)</a>
+<a href=7680x2160/Upscale_courtesy_of_u_shootthesound_7680x2160_32_9_0.jpg target=_blank>![Credit: Dignified_Dingus](7680x2160/Upscale_courtesy_of_u_shootthesound_7680x2160_32_9_0_thumbnail.jpg)</a>
