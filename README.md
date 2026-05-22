@@ -5893,3 +5893,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/My_rotation_part_5_zipfile_below_5120x1440_33_wps_19.jpg target=_blank>![Credit: olsnes](5120x1440/My_rotation_part_5_zipfile_below_5120x1440_33_wps_19_thumbnail.jpg)</a>
 <a href=3440x1440/Summer_rice_fields_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Summer_rice_fields_3440x1440_thumbnail.jpeg)</a>
 <a href=5120x1440/Pazuzu_God_32_9___5120_x_1440.png target=_blank>![Credit: Due_Host_5720](5120x1440/Pazuzu_God_32_9___5120_x_1440_thumbnail.png)</a>
+<a href=3440x1440/Where_Light_Finds_Its_Way_3440x1440.jpeg target=_blank>![Credit: SolaraGrovehart](3440x1440/Where_Light_Finds_Its_Way_3440x1440_thumbnail.jpeg)</a>
