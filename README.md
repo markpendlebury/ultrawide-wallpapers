@@ -5920,3 +5920,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Tornadoes_under_sunset_and_storm_3440x1440_1.png target=_blank>![Credit: Cocotteseb](3440x1440/Tornadoes_under_sunset_and_storm_3440x1440_1_thumbnail.png)</a>
 <a href=3440x1440/Visualized_math_spiraling_chessboard__3440x1440.png target=_blank>![Credit: danielfrost40](3440x1440/Visualized_math_spiraling_chessboard__3440x1440_thumbnail.png)</a>
 <a href=3359x1440/21_9_3359x1440_PNG_Lada_autocross.png target=_blank>![Credit: E_StrnTXNRS](3359x1440/21_9_3359x1440_PNG_Lada_autocross_thumbnail.png)</a>
+<a href=5000x1458/Game_of_Thrones_5000x1458.jpeg target=_blank>![Credit: Das_Zeppelin](5000x1458/Game_of_Thrones_5000x1458_thumbnail.jpeg)</a>
