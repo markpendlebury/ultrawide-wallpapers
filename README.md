@@ -5923,3 +5923,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5000x1458/Game_of_Thrones_5000x1458.jpeg target=_blank>![Credit: Das_Zeppelin](5000x1458/Game_of_Thrones_5000x1458_thumbnail.jpeg)</a>
 <a href=5000x2256/National_Treasure_5000x2256.jpeg target=_blank>![Credit: Das_Zeppelin](5000x2256/National_Treasure_5000x2256_thumbnail.jpeg)</a>
 <a href=3440x1440/wreck_3440x1440.png target=_blank>![Credit: The_Catster](3440x1440/wreck_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Where_Light_Finds_Its_Way_5120x1440.jpeg target=_blank>![Credit: SolaraGrovehart](5120x1440/Where_Light_Finds_Its_Way_5120x1440_thumbnail.jpeg)</a>
