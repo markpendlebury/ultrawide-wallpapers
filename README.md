@@ -5926,3 +5926,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Where_Light_Finds_Its_Way_5120x1440.jpeg target=_blank>![Credit: SolaraGrovehart](5120x1440/Where_Light_Finds_Its_Way_5120x1440_thumbnail.jpeg)</a>
 <a href=7680x2160/Tropical_Glass___Night_&_Day_7680x2160_0.jpg target=_blank>![Credit: perfecthue](7680x2160/Tropical_Glass___Night_&_Day_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Tropical_Glass___Night_&_Day_7680x2160_1.jpg target=_blank>![Credit: perfecthue](7680x2160/Tropical_Glass___Night_&_Day_7680x2160_1_thumbnail.jpg)</a>
+<a href=5120x1440/The_Infinite_Archive_5120x1440.jpeg target=_blank>![Credit: SolaraGrovehart](5120x1440/The_Infinite_Archive_5120x1440_thumbnail.jpeg)</a>
