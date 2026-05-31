@@ -5933,3 +5933,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=6880x2880/Here_is_my_first_abstract_design_6880_x_2880_21_9.png target=_blank>![Credit: Cyber_Optic](6880x2880/Here_is_my_first_abstract_design_6880_x_2880_21_9_thumbnail.png)</a>
 <a href=5120x2160/Kazuha_of_LE_SSERAFIM_5120x2160_21_9.jpeg target=_blank>![Credit: MadMort](5120x2160/Kazuha_of_LE_SSERAFIM_5120x2160_21_9_thumbnail.jpeg)</a>
 <a href=5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_0.jpg target=_blank>![Credit: tonymazon](5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_0_thumbnail.jpg)</a>
+<a href=5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_1.jpg target=_blank>![Credit: tonymazon](5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_1_thumbnail.jpg)</a>
