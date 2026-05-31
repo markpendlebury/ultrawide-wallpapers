@@ -5937,3 +5937,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_2.jpg target=_blank>![Credit: tonymazon](5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_2_thumbnail.jpg)</a>
 <a href=5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_3.jpg target=_blank>![Credit: tonymazon](5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_3_thumbnail.jpg)</a>
 <a href=5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_4.jpg target=_blank>![Credit: tonymazon](5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_4_thumbnail.jpg)</a>
+<a href=5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_5.jpg target=_blank>![Credit: tonymazon](5120x1440/Fav_Arcane_S1_Walls_5120_x_1440_5_thumbnail.jpg)</a>
