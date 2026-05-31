@@ -5929,3 +5929,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/The_Infinite_Archive_5120x1440.jpeg target=_blank>![Credit: SolaraGrovehart](5120x1440/The_Infinite_Archive_5120x1440_thumbnail.jpeg)</a>
 <a href=6400x2688/Amara_Wintersword_by_Clyde_Caldwell_6400x2688.jpeg target=_blank>![Credit: Cypher_Vorthos](6400x2688/Amara_Wintersword_by_Clyde_Caldwell_6400x2688_thumbnail.jpeg)</a>
 <a href=3440x1440/Corner_Office_3440x1440.png target=_blank>![Credit: perfecthue](3440x1440/Corner_Office_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Zelda_3440x1440.png target=_blank>![Credit: The_Catster](3440x1440/Zelda_3440x1440_thumbnail.png)</a>
