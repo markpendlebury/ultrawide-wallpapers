@@ -5976,3 +5976,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7752x3244/Eowyn_vs_Nazgul_chall_by_David_Demaret_7752x3244.jpeg target=_blank>![Credit: Cypher_Vorthos](7752x3244/Eowyn_vs_Nazgul_chall_by_David_Demaret_7752x3244_thumbnail.jpeg)</a>
 <a href=7200x2592/Rogue_One_A_Star_Wars_Story_7200x2592.jpeg target=_blank>![Credit: Das_Zeppelin](7200x2592/Rogue_One_A_Star_Wars_Story_7200x2592_thumbnail.jpeg)</a>
 <a href=6000x2160/The_Mandalorian_6000x2160.jpeg target=_blank>![Credit: Das_Zeppelin](6000x2160/The_Mandalorian_6000x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/The_Grand_Fleet_of_New_Victorium_3440x1440.jpeg target=_blank>![Credit: SolaraGrovehart](3440x1440/The_Grand_Fleet_of_New_Victorium_3440x1440_thumbnail.jpeg)</a>
