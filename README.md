@@ -5990,3 +5990,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Artemis_II_mission_recap_5160x2160_9.jpg target=_blank>![Credit: paol](5160x2160/Artemis_II_mission_recap_5160x2160_9_thumbnail.jpg)</a>
 <a href=5160x2160/Artemis_II_mission_recap_5160x2160_10.jpg target=_blank>![Credit: paol](5160x2160/Artemis_II_mission_recap_5160x2160_10_thumbnail.jpg)</a>
 <a href=5160x2160/Artemis_II_mission_recap_5160x2160_11.jpg target=_blank>![Credit: paol](5160x2160/Artemis_II_mission_recap_5160x2160_11_thumbnail.jpg)</a>
+<a href=3440x1440/Winter_onsen_in_the_snow_3440x1440.jpeg target=_blank>![Credit: Odd_Impression1144](3440x1440/Winter_onsen_in_the_snow_3440x1440_thumbnail.jpeg)</a>
