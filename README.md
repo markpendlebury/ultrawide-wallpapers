@@ -6015,3 +6015,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Desolate_dusk_at_the_Yodogawa_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Desolate_dusk_at_the_Yodogawa_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Snow_Glass_Tech__3440x1440.png target=_blank>![Credit: perfecthue](3440x1440/Snow_Glass_Tech__3440x1440_thumbnail.png)</a>
 <a href=3820x1600/Surf_3820x1600_0.jpg target=_blank>![Credit: paol](3820x1600/Surf_3820x1600_0_thumbnail.jpg)</a>
+<a href=3820x1600/Surf_3820x1600_1.jpg target=_blank>![Credit: paol](3820x1600/Surf_3820x1600_1_thumbnail.jpg)</a>
