@@ -6018,3 +6018,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3820x1600/Surf_3820x1600_1.jpg target=_blank>![Credit: paol](3820x1600/Surf_3820x1600_1_thumbnail.jpg)</a>
 <a href=3820x1600/Surf_3820x1600_2.jpg target=_blank>![Credit: paol](3820x1600/Surf_3820x1600_2_thumbnail.jpg)</a>
 <a href=5120x1440/Acrylic_painting_movies_Stills_5120x1440_0.png target=_blank>![Credit: Expensive_Seaweed364](5120x1440/Acrylic_painting_movies_Stills_5120x1440_0_thumbnail.png)</a>
+<a href=5120x1440/Acrylic_painting_movies_Stills_5120x1440_1.png target=_blank>![Credit: Expensive_Seaweed364](5120x1440/Acrylic_painting_movies_Stills_5120x1440_1_thumbnail.png)</a>
