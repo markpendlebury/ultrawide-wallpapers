@@ -6057,3 +6057,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Anime_character_3440×1440.png target=_blank>![Credit: Mountain_Candle7626](3440x1440/Anime_character_3440×1440_thumbnail.png)</a>
 <a href=7680x3269/McLaren_650S_7680×3269.jpeg target=_blank>![Credit: Mountain_Candle7626](7680x3269/McLaren_650S_7680×3269_thumbnail.jpeg)</a>
 <a href=3840x1440/Particles_3840×1440.jpeg target=_blank>![Credit: Mountain_Candle7626](3840x1440/Particles_3840×1440_thumbnail.jpeg)</a>
+<a href=3440x1474/Boy_on_the_street_3440×1474.png target=_blank>![Credit: Mountain_Candle7626](3440x1474/Boy_on_the_street_3440×1474_thumbnail.png)</a>
