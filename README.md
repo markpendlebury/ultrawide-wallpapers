@@ -6053,3 +6053,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x2160/The_Forgotten_Library_5120x2160.jpeg target=_blank>![Credit: SolaraGrovehart](5120x2160/The_Forgotten_Library_5120x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Umi_3440x1440.png target=_blank>![Credit: The_Catster](3440x1440/Umi_3440x1440_thumbnail.png)</a>
 <a href=5120x2160/View_at_the_Kotor_Bay_Montenegro_OC__5120x2160.jpeg target=_blank>![Credit: pablitohernandez](5120x2160/View_at_the_Kotor_Bay_Montenegro_OC__5120x2160_thumbnail.jpeg)</a>
+<a href=3440x1440/New_York_3440×1440.png target=_blank>![Credit: Mountain_Candle7626](3440x1440/New_York_3440×1440_thumbnail.png)</a>
