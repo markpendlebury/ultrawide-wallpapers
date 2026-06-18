@@ -6061,3 +6061,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Vibrant_Coastal_Sunset_5120×1440.png target=_blank>![Credit: Mountain_Candle7626](5120x1440/Vibrant_Coastal_Sunset_5120×1440_thumbnail.png)</a>
 <a href=6719x2880/Superman_6719x2880.jpeg target=_blank>![Credit: Mountain_Candle7626](6719x2880/Superman_6719x2880_thumbnail.jpeg)</a>
 <a href=3440x1440/Cyborg_3440x1440.png target=_blank>![Credit: zuus](3440x1440/Cyborg_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Rice_Terraces_Vietnam_3440×1440.jpeg target=_blank>![Credit: Mountain_Candle7626](3440x1440/Rice_Terraces_Vietnam_3440×1440_thumbnail.jpeg)</a>
