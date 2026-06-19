@@ -6068,3 +6068,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/San_Francisco_Golden_Gate_Bridge_3440×1440.jpeg target=_blank>![Credit: Mountain_Candle7626](3440x1440/San_Francisco_Golden_Gate_Bridge_3440×1440_thumbnail.jpeg)</a>
 <a href=3440x1440/House_over_rocks_3440×1440.jpeg target=_blank>![Credit: Mountain_Candle7626](3440x1440/House_over_rocks_3440×1440_thumbnail.jpeg)</a>
 <a href=3400x1440/Swan_Lake_Kussharo_Hokkaido_3400×1440.jpeg target=_blank>![Credit: Mountain_Candle7626](3400x1440/Swan_Lake_Kussharo_Hokkaido_3400×1440_thumbnail.jpeg)</a>
+<a href=5120x1440/More_Acrylic_Paint_Movie_Stills_5120x1440_0.png target=_blank>![Credit: Expensive_Seaweed364](5120x1440/More_Acrylic_Paint_Movie_Stills_5120x1440_0_thumbnail.png)</a>
