@@ -6098,3 +6098,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_06_21_21_9_&_32_9__7680x2160_18.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_06_21_21_9_&_32_9__7680x2160_18_thumbnail.jpg)</a>
 <a href=5160x2160/Flower_Sun_and_Rain_Manual_PS2_Art__5160x2160.png target=_blank>![Credit: callmegabriel](5160x2160/Flower_Sun_and_Rain_Manual_PS2_Art__5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Resident_Evil_Veronica_3440x1440.png target=_blank>![Credit: dogebuddha](3440x1440/Resident_Evil_Veronica_3440x1440_thumbnail.png)</a>
+<a href=5160x2160/Rainy_Osaka_Cityscape_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Rainy_Osaka_Cityscape_5160x2160_thumbnail.png)</a>
