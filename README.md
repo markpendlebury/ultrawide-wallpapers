@@ -6101,3 +6101,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/Rainy_Osaka_Cityscape_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Rainy_Osaka_Cityscape_5160x2160_thumbnail.png)</a>
 <a href=7680x2160/Osaka_Rainy_Cityscape_32_9_version_7680x2160.jpeg target=_blank>![Credit: otacon7000](7680x2160/Osaka_Rainy_Cityscape_32_9_version_7680x2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Homelander_3440×1440.jpeg target=_blank>![Credit: Mountain_Candle7626](3440x1440/Homelander_3440×1440_thumbnail.jpeg)</a>
+<a href=5138x1445/Zelda_Link_sword_5138x1445.jpeg target=_blank>![Credit: leSang](5138x1445/Zelda_Link_sword_5138x1445_thumbnail.jpeg)</a>
