@@ -6159,3 +6159,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Ching_Yeh_Art_Part_2_5120_x_1440_9.jpg target=_blank>![Credit: leSang](5120x1440/Ching_Yeh_Art_Part_2_5120_x_1440_9_thumbnail.jpg)</a>
 <a href=5120x1440/Ching_Yeh_Art_Part_2_5120_x_1440_10.jpg target=_blank>![Credit: leSang](5120x1440/Ching_Yeh_Art_Part_2_5120_x_1440_10_thumbnail.jpg)</a>
 <a href=5120x1440/Ching_Yeh_Art_Part_2_5120_x_1440_11.jpg target=_blank>![Credit: leSang](5120x1440/Ching_Yeh_Art_Part_2_5120_x_1440_11_thumbnail.jpg)</a>
+<a href=5120x1440/Cyberpunk___Tarot_Cards_5120_x_1440.png target=_blank>![Credit: HeroOfHyrule91983](5120x1440/Cyberpunk___Tarot_Cards_5120_x_1440_thumbnail.png)</a>
