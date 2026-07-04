@@ -6162,3 +6162,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Cyberpunk___Tarot_Cards_5120_x_1440.png target=_blank>![Credit: HeroOfHyrule91983](5120x1440/Cyberpunk___Tarot_Cards_5120_x_1440_thumbnail.png)</a>
 <a href=3440x1440/Pragmata_Cover_Art_3440x1440.png target=_blank>![Credit: dogebuddha](3440x1440/Pragmata_Cover_Art_3440x1440_thumbnail.png)</a>
 <a href=7680x2160/Volcanic_Tropical_Archipelago_7680x2160.jpeg target=_blank>![Credit: Comfortable_Gold_645](7680x2160/Volcanic_Tropical_Archipelago_7680x2160_thumbnail.jpeg)</a>
+<a href=7680x2160/My_weekly_drop_07_04_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_07_04_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
