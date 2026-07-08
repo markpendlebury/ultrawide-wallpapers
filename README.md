@@ -6189,3 +6189,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Room_312_3440x1440.png target=_blank>![Credit: dogebuddha](3440x1440/Room_312_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Rocky_Coastline_at_dusk_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/Rocky_Coastline_at_dusk_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Jungle_Royalty_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/Jungle_Royalty_3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Kyoto_Katsuragawa___early_Sunrise_5120x1440.png target=_blank>![Credit: otacon7000](5120x1440/Kyoto_Katsuragawa___early_Sunrise_5120x1440_thumbnail.png)</a>
