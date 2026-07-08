@@ -6187,3 +6187,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Nebulae_III_3440x1440_1.jpg target=_blank>![Credit: sirgerg2](3440x1440/Nebulae_III_3440x1440_1_thumbnail.jpg)</a>
 <a href=3440x1440/Nebulae_III_3440x1440_2.jpg target=_blank>![Credit: sirgerg2](3440x1440/Nebulae_III_3440x1440_2_thumbnail.jpg)</a>
 <a href=3440x1440/Room_312_3440x1440.png target=_blank>![Credit: dogebuddha](3440x1440/Room_312_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Rocky_Coastline_at_dusk_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/Rocky_Coastline_at_dusk_3440x1440_thumbnail.png)</a>
