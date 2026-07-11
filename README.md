@@ -6193,3 +6193,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/U_F_O_Sighting_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/U_F_O_Sighting_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Lunar_Cycle_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/Lunar_Cycle_3440x1440_thumbnail.png)</a>
 <a href=3440x1440/Stonehenge_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/Stonehenge_3440x1440_thumbnail.png)</a>
+<a href=3440x1440/Wall_Street_Bull_3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/Wall_Street_Bull_3440x1440_thumbnail.png)</a>
