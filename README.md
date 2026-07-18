@@ -6225,3 +6225,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/2nd_off_rotation_dump_148_wps_zip_below_5120x1440_8.jpg target=_blank>![Credit: olsnes](5120x1440/2nd_off_rotation_dump_148_wps_zip_below_5120x1440_8_thumbnail.jpg)</a>
 <a href=5120x1440/2nd_off_rotation_dump_148_wps_zip_below_5120x1440_9.jpg target=_blank>![Credit: olsnes](5120x1440/2nd_off_rotation_dump_148_wps_zip_below_5120x1440_9_thumbnail.jpg)</a>
 <a href=5120x2160/Golden_Gate_at_Dusk_5120x2160.png target=_blank>![Credit: CommandLionInterface](5120x2160/Golden_Gate_at_Dusk_5120x2160_thumbnail.png)</a>
+<a href=5120x2160/Chicago_Winter_December_18_2008_5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Chicago_Winter_December_18_2008_5120x2160_thumbnail.png)</a>
