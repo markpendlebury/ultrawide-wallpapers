@@ -6251,3 +6251,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/the_Big_Payback___3440x1440.png target=_blank>![Credit: GeeForce2020](3440x1440/the_Big_Payback___3440x1440_thumbnail.png)</a>
 <a href=5120x2160/Going_to_Toronto_Islands_July_2026_OC__5120x2160.png target=_blank>![Credit: acoolrocket](5120x2160/Going_to_Toronto_Islands_July_2026_OC__5120x2160_thumbnail.png)</a>
 <a href=5120x1440/A_wall_of_Lanterns_5120x1440.png target=_blank>![Credit: otacon7000](5120x1440/A_wall_of_Lanterns_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Above_clouds_3440x1440.png target=_blank>![Credit: The_Catster](3440x1440/Above_clouds_3440x1440_thumbnail.png)</a>
