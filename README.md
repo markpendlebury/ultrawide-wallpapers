@@ -6287,3 +6287,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Colorful_Auroras_7680x2160_2.png target=_blank>![Credit: perfecthue](7680x2160/Colorful_Auroras_7680x2160_2_thumbnail.png)</a>
 <a href=5160x2160/INKBOUND_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/INKBOUND_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Bound_by_the_Dead_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/Bound_by_the_Dead_5160x2160_thumbnail.png)</a>
+<a href=3440x1440/Illfonic_s_Halloween_The_Game__3440x1440_0.png target=_blank>![Credit: MyNamsIsWhat](3440x1440/Illfonic_s_Halloween_The_Game__3440x1440_0_thumbnail.png)</a>
