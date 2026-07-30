@@ -6294,3 +6294,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5160x2160/KNIGHT_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/KNIGHT_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/GUTS_BERSERK_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/GUTS_BERSERK_5160x2160_thumbnail.png)</a>
 <a href=5160x2160/Gundam_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/Gundam_5160x2160_thumbnail.png)</a>
+<a href=5160x2160/Ronin_s_Requiem_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/Ronin_s_Requiem_5160x2160_thumbnail.png)</a>
