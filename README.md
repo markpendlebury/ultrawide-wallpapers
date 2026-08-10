@@ -6359,3 +6359,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_08_09_21_9_&_32_9__7680x2160_18.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_08_09_21_9_&_32_9__7680x2160_18_thumbnail.jpg)</a>
 <a href=7680x2160/My_weekly_drop_08_09_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_08_09_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=7680x2160/L_Automne_du_Temple_32_9__7680x2160_0.jpg target=_blank>![Credit: yofsh](7680x2160/L_Automne_du_Temple_32_9__7680x2160_0_thumbnail.jpg)</a>
+<a href=7680x2160/L_Automne_du_Temple_32_9__7680x2160_1.jpg target=_blank>![Credit: yofsh](7680x2160/L_Automne_du_Temple_32_9__7680x2160_1_thumbnail.jpg)</a>
