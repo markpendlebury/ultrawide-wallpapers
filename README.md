@@ -6370,3 +6370,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/L_Automne_du_Temple_32_9__7680x2160_9.jpg target=_blank>![Credit: yofsh](7680x2160/L_Automne_du_Temple_32_9__7680x2160_9_thumbnail.jpg)</a>
 <a href=5160x2160/Train_in_a_Blur_5160x2160.png target=_blank>![Credit: otacon7000](5160x2160/Train_in_a_Blur_5160x2160_thumbnail.png)</a>
 <a href=3440x1440/Beat_Saber_map_you_by_Simplifi_21_9__3440x1440.png target=_blank>![Credit: AstralKekked](3440x1440/Beat_Saber_map_you_by_Simplifi_21_9__3440x1440_thumbnail.png)</a>
+<a href=5120x1440/Long_Haul_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Long_Haul_5120x1440_thumbnail.png)</a>
