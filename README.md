@@ -6374,3 +6374,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2672x3564/Webster_Pass_12672x3564.jpeg target=_blank>![Credit: user83726169](2672x3564/Webster_Pass_12672x3564_thumbnail.jpeg)</a>
 <a href=5616x1580/Prague_5616x1580_canon_eos5dmkii_85mm.jpeg target=_blank>![Credit: user83726169](5616x1580/Prague_5616x1580_canon_eos5dmkii_85mm_thumbnail.jpeg)</a>
 <a href=5160x2160/Celestial_Eyes_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/Celestial_Eyes_5160x2160_thumbnail.png)</a>
+<a href=5120x1440/Unplugged_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Unplugged_5120x1440_thumbnail.png)</a>
