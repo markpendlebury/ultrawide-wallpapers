@@ -6413,3 +6413,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Classroom_from_Project_Hail_Mary_3440x1440.png target=_blank>![Credit: tppiel](3440x1440/Classroom_from_Project_Hail_Mary_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/The_Hangar_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/The_Hangar_5120x1440_thumbnail.png)</a>
 <a href=4096x1728/Batman_700_by_David_Finch_4096x1728.jpeg target=_blank>![Credit: tppiel](4096x1728/Batman_700_by_David_Finch_4096x1728_thumbnail.jpeg)</a>
+<a href=4192x1080/Optical_Glass_Memory___UltraWide_4192x1080.jpeg target=_blank>![Credit: Stockcrafter](4192x1080/Optical_Glass_Memory___UltraWide_4192x1080_thumbnail.jpeg)</a>
