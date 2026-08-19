@@ -6412,3 +6412,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_08_16_21_9_&_32_9__7680x2160_19.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_08_16_21_9_&_32_9__7680x2160_19_thumbnail.jpg)</a>
 <a href=3440x1440/Classroom_from_Project_Hail_Mary_3440x1440.png target=_blank>![Credit: tppiel](3440x1440/Classroom_from_Project_Hail_Mary_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/The_Hangar_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/The_Hangar_5120x1440_thumbnail.png)</a>
+<a href=4096x1728/Batman_700_by_David_Finch_4096x1728.jpeg target=_blank>![Credit: tppiel](4096x1728/Batman_700_by_David_Finch_4096x1728_thumbnail.jpeg)</a>
