@@ -6414,3 +6414,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/The_Hangar_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/The_Hangar_5120x1440_thumbnail.png)</a>
 <a href=4096x1728/Batman_700_by_David_Finch_4096x1728.jpeg target=_blank>![Credit: tppiel](4096x1728/Batman_700_by_David_Finch_4096x1728_thumbnail.jpeg)</a>
 <a href=4192x1080/Optical_Glass_Memory___UltraWide_4192x1080.jpeg target=_blank>![Credit: Stockcrafter](4192x1080/Optical_Glass_Memory___UltraWide_4192x1080_thumbnail.jpeg)</a>
+<a href=3440x1440/Photos_of_Moss_by_me_No_AI_3440_x_1440_0.jpg target=_blank>![Credit: Sentenial](3440x1440/Photos_of_Moss_by_me_No_AI_3440_x_1440_0_thumbnail.jpg)</a>
