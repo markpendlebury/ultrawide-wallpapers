@@ -6420,3 +6420,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/star_wars_wallpaper_nano_banana_2_3440x1440.jpeg target=_blank>![Credit: Former_Succotash8621](3440x1440/star_wars_wallpaper_nano_banana_2_3440x1440_thumbnail.jpeg)</a>
 <a href=4032x1728/Bathroom_Wall_Redo_4032x1728.png target=_blank>![Credit: Snail_Boop](4032x1728/Bathroom_Wall_Redo_4032x1728_thumbnail.png)</a>
 <a href=5120x1440/The_Fold_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/The_Fold_5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Spider_Man_BND_Set_Photo_3440x1440__21_9_0.png target=_blank>![Credit: CosmicJerky](3440x1440/Spider_Man_BND_Set_Photo_3440x1440__21_9_0_thumbnail.png)</a>
