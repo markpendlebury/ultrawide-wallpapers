@@ -6453,3 +6453,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Cyberscape_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Cyberscape_5120x1440_thumbnail.png)</a>
 <a href=7680x2160/Wanderer_Collection_32_9_Earth_7680x2160_0.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_Earth_7680x2160_0_thumbnail.jpg)</a>
 <a href=7680x2160/Wanderer_Collection_32_9_Earth_7680x2160_1.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_Earth_7680x2160_1_thumbnail.jpg)</a>
+<a href=7680x2160/Wanderer_Collection_32_9_Earth_7680x2160_2.jpg target=_blank>![Credit: jacobfromnewmex](7680x2160/Wanderer_Collection_32_9_Earth_7680x2160_2_thumbnail.jpg)</a>
