@@ -6450,3 +6450,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/Devil_7680x2160.jpeg target=_blank>![Credit: leSang](7680x2160/Devil_7680x2160_thumbnail.jpeg)</a>
 <a href=5120x1440/Fake_Moon_Base_5120x1440.png target=_blank>![Credit: user53298](5120x1440/Fake_Moon_Base_5120x1440_thumbnail.png)</a>
 <a href=2400x672/New_York_2077_2400x672.png target=_blank>![Credit: user53298](2400x672/New_York_2077_2400x672_thumbnail.png)</a>
+<a href=5120x1440/Cyberscape_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Cyberscape_5120x1440_thumbnail.png)</a>
