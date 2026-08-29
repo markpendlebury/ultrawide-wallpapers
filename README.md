@@ -6471,3 +6471,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Vintage_Superman_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Vintage_Superman_5120x1440_thumbnail.png)</a>
 <a href=7680x2160/Hua_Lu_art_7680_x_2160.jpeg target=_blank>![Credit: leSang](7680x2160/Hua_Lu_art_7680_x_2160_thumbnail.jpeg)</a>
 <a href=3440x1440/Made_this_week_in_Cinema_4D_3440x1440_0.png target=_blank>![Credit: perfecthue](3440x1440/Made_this_week_in_Cinema_4D_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Made_this_week_in_Cinema_4D_3440x1440_1.png target=_blank>![Credit: perfecthue](3440x1440/Made_this_week_in_Cinema_4D_3440x1440_1_thumbnail.png)</a>
