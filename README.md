@@ -6480,3 +6480,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Why_So_Serious__5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Why_So_Serious__5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Astral_Grave_Artwork_3440x1440.png target=_blank>![Credit: Craeo](3440x1440/Astral_Grave_Artwork_3440x1440_thumbnail.png)</a>
 <a href=5120x1440/Baba_Yaga_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Baba_Yaga_5120x1440_thumbnail.png)</a>
+<a href=7680x2160/My_weekly_drop_08_30_21_9_&_32_9__7680x2160_0.jpg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_08_30_21_9_&_32_9__7680x2160_0_thumbnail.jpg)</a>
