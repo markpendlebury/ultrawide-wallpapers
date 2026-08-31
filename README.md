@@ -6478,3 +6478,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Made_this_week_in_Cinema_4D_3440x1440_5.png target=_blank>![Credit: perfecthue](3440x1440/Made_this_week_in_Cinema_4D_3440x1440_5_thumbnail.png)</a>
 <a href=5160x2160/Dead_Smile_5160x2160.png target=_blank>![Credit: Heromimox](5160x2160/Dead_Smile_5160x2160_thumbnail.png)</a>
 <a href=5120x1440/Why_So_Serious__5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Why_So_Serious__5120x1440_thumbnail.png)</a>
+<a href=3440x1440/Astral_Grave_Artwork_3440x1440.png target=_blank>![Credit: Craeo](3440x1440/Astral_Grave_Artwork_3440x1440_thumbnail.png)</a>
