@@ -6514,3 +6514,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=2520x1080/Star_Trek_TOS_2520x1080.png target=_blank>![Credit: Snail_Boop](2520x1080/Star_Trek_TOS_2520x1080_thumbnail.png)</a>
 <a href=5120x2160/It_s_Falling_5120x2160.png target=_blank>![Credit: Beginning_Advance336](5120x2160/It_s_Falling_5120x2160_thumbnail.png)</a>
 <a href=5120x1440/Fallen_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Fallen_5120x1440_thumbnail.png)</a>
+<a href=5120x2160/A_kiss_for_the_fall_5120x2160.png target=_blank>![Credit: Beginning_Advance336](5120x2160/A_kiss_for_the_fall_5120x2160_thumbnail.png)</a>
