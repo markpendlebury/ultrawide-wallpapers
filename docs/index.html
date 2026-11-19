@@ -207,20 +207,7 @@
   }
   .card .res { font-family: var(--mono); color: var(--accent); }
 
-  /* ---- Load more ---- */
-  .loadmore {
-    display: block;
-    margin: 20px auto 0;
-    padding: 10px 22px;
-    background: var(--surface);
-    color: var(--text);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    font-size: 13px;
-    cursor: pointer;
-  }
-  .loadmore:hover { border-color: var(--border-hi); }
-  .loadmore:disabled { opacity: .4; cursor: default; }
+  .sentinel { height: 1px; }
 
   .empty {
     grid-column: 1 / -1;
@@ -317,7 +304,7 @@
   <header class="topbar">
     <div class="brand"><span class="mark"></span> Ultrawide Wallpapers</div>
     <div class="search">
-      <input id="search" type="text" placeholder="Search titles, authors…" autocomplete="off">
+      <input id="search" type="text" placeholder="Search titles, authors, resolution…" autocomplete="off">
     </div>
     <div class="meta" id="meta">loading…</div>
   </header>
@@ -332,7 +319,7 @@
     <div class="grid" id="grid">
       <div class="empty">Loading wallpapers…</div>
     </div>
-    <button class="loadmore" id="loadmore">Load more</button>
+    <div id="sentinel" class="sentinel"></div>
   </div>
 
   <div class="lightbox" id="lightbox">
@@ -356,14 +343,34 @@
   // gallery is published from a branch other than main.
   const RAW_BASE = "https://raw.githubusercontent.com/markpendlebury/Ultrawide-Wallpapers/main";
 
+  // Resolutions scraped from Reddit titles occasionally contain typos (e.g.
+  // "512x1440" or "5120x144") or case variants. Normalise them to the correct
+  // standard resolution so they group together in the chips and search.
+  const RESOLUTION_ALIASES = {
+    "3440x440": "3440x1440",
+    "512x1440": "5120x1440",
+    "5120x144": "5120x1440",
+    "5160x210": "5160x2160",
+  };
+
+  function canonicalResolution(res) {
+    if (!res) return res;
+    const r = String(res).toLowerCase().replace("×", "x");
+    return RESOLUTION_ALIASES[r] || r;
+  }
+
   let WALLPAPERS = [];
   const state = { filter: "All", search: "", visible: 24 };
+  const PAGE = 24;
 
   const $ = (id) => document.getElementById(id);
 
   function resolutions() {
     const map = new Map();
-    for (const w of WALLPAPERS) map.set(w.resolution, (map.get(w.resolution) || 0) + 1);
+    for (const w of WALLPAPERS) {
+      const r = canonicalResolution(w.resolution);
+      map.set(r, (map.get(r) || 0) + 1);
+    }
     return [...map.entries()].sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true }));
   }
 
@@ -376,17 +383,20 @@
       const el = document.createElement("button");
       el.className = "chip" + (state.filter === r.name ? " active" : "");
       el.innerHTML = `${r.name} <span class="count">${r.count}</span>`;
-      el.onclick = () => { state.filter = r.name; state.visible = 24; render(); };
+      el.onclick = () => { state.filter = r.name; state.visible = PAGE; render(); };
       chips.appendChild(el);
     }
   }
 
   function filtered() {
     const q = state.search.trim().toLowerCase();
-    return WALLPAPERS.filter(w =>
-      (state.filter === "All" || w.resolution === state.filter) &&
-      (!q || (w.title || "").toLowerCase().includes(q) || (w.author || "").toLowerCase().includes(q))
-    );
+    return WALLPAPERS.filter(w => {
+      if (state.filter !== "All" && canonicalResolution(w.resolution) !== state.filter) return false;
+      if (!q) return true;
+      return (w.title || "").toLowerCase().includes(q)
+        || (w.author || "").toLowerCase().includes(q)
+        || canonicalResolution(w.resolution).toLowerCase().includes(q);
+    });
   }
 
   function fullUrl(w) { return RAW_BASE + "/" + w.full; }
@@ -411,7 +421,7 @@
             <div class="sub"><span class="res"></span><span class="auth"></span></div>
           </div>`;
         card.querySelector(".title").textContent = w.title || "";
-        card.querySelector(".res").textContent = w.resolution || "";
+        card.querySelector(".res").textContent = canonicalResolution(w.resolution);
         card.querySelector(".auth").textContent = w.author || "";
         card.onclick = () => openLightbox(w);
         grid.appendChild(card);
@@ -427,8 +437,6 @@
     }
     $("showing").textContent = `${shown.length} of ${list.length}`;
 
-    $("loadmore").disabled = state.visible >= list.length;
-    $("loadmore").style.display = list.length === 0 ? "none" : "block";
     $("meta").textContent = `${WALLPAPERS.length.toLocaleString()} wallpapers · ${resolutions().length} resolutions`;
   }
 
@@ -439,7 +447,7 @@
     $("lbSub").innerHTML = "";
     const res = document.createElement("span");
     res.className = "res";
-    res.textContent = w.resolution || "";
+    res.textContent = canonicalResolution(w.resolution);
     const auth = document.createElement("span");
     auth.className = "author";
     auth.textContent = w.author || "";
@@ -452,11 +460,20 @@
 
   function closeLightbox() { $("lightbox").classList.remove("open"); }
 
-  $("search").addEventListener("input", (e) => { state.search = e.target.value; state.visible = 24; render(); });
-  $("loadmore").addEventListener("click", () => { state.visible += 24; render(); });
+  $("search").addEventListener("input", (e) => { state.search = e.target.value; state.visible = PAGE; render(); });
   $("lbClose").addEventListener("click", closeLightbox);
   $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) closeLightbox(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLightbox(); });
+
+  // Auto-load more wallpapers as the user scrolls near the bottom.
+  const observer = new IntersectionObserver((entries) => {
+    if (!entries[0].isIntersecting) return;
+    if (state.visible < filtered().length) {
+      state.visible += PAGE;
+      render();
+    }
+  }, { rootMargin: "600px" });
+  observer.observe($("sentinel"));
 
   fetch("wallpapers.json")
     .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
