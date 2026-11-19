@@ -465,13 +465,23 @@
   $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) closeLightbox(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLightbox(); });
 
-  // Auto-load more wallpapers as the user scrolls near the bottom.
-  const observer = new IntersectionObserver((entries) => {
-    if (!entries[0].isIntersecting) return;
-    if (state.visible < filtered().length) {
+  // Auto-load more wallpapers as the user scrolls near the bottom. Recurse
+  // while the sentinel is still in view, so a short/wide viewport keeps
+  // filling until the grid is taller than the screen (IntersectionObserver
+  // only fires on state *changes*, so it alone stalls when the sentinel never
+  // leaves the viewport).
+  function maybeLoadMore() {
+    if (state.visible >= filtered().length) return;
+    const rect = $("sentinel").getBoundingClientRect();
+    if (rect.top < window.innerHeight + 600) {
       state.visible += PAGE;
       render();
+      maybeLoadMore();
     }
+  }
+
+  const observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting) maybeLoadMore();
   }, { rootMargin: "600px" });
   observer.observe($("sentinel"));
 
@@ -480,6 +490,7 @@
     .then(data => {
       WALLPAPERS = Array.isArray(data) ? data.slice().reverse() : [];
       render();
+      maybeLoadMore();
     })
     .catch(err => {
       $("grid").innerHTML = `<div class="empty">Failed to load wallpapers.json: ${err.message}</div>`;
