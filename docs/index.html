@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ultrawide Wallpapers</title>
+<style>
+  :root {
+    /* Evergruv (Gruvbox Material Dark) — Mark's standard palette */
+    --bg: #141617;
+    --surface: #1D2021;
+    --surface-2: #282828;
+    --border: #3C3836;
+    --border-hi: #665C54;
+    --text: #DDC7A1;
+    --muted: #A89984;
+    --dim: #928374;
+    --accent: #E78A4E;      /* orange */
+    --accent-fg: #141617;
+    --teal: #7DAEA3;
+    --green: #A9B665;
+    --yellow: #D8A657;
+    --red: #EA6962;
+    --purple: #D3869B;
+    --radius: 10px;
+    --mono: ui-monospace, "SF Mono", "Cascadia Code", "JetBrains Mono", Menlo, monospace;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ---- Top bar ---- */
+  .topbar {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 650;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    white-space: nowrap;
+  }
+
+  .brand .mark {
+    width: 22px;
+    height: 22px;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #E78A4E 0%, #EA6962 55%, #7DAEA3 100%);
+    box-shadow: inset 0 0 0 1px rgba(221,199,161,0.10);
+  }
+
+  .search {
+    flex: 1;
+    max-width: 360px;
+    margin-left: auto;
+  }
+
+  .search input {
+    width: 100%;
+    padding: 8px 12px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 13px;
+    outline: none;
+  }
+  .search input:focus { border-color: var(--accent); }
+  .search input::placeholder { color: var(--dim); }
+
+  .meta {
+    color: var(--muted);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  /* ---- Resolution chips ---- */
+  .chips {
+    display: flex;
+    gap: 8px;
+    padding: 14px 20px;
+    overflow-x: auto;
+    border-bottom: 1px solid var(--border);
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+
+  .chip {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 6px 12px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--surface);
+    color: var(--muted);
+    font-size: 12.5px;
+    cursor: pointer;
+    transition: color .12s, border-color .12s, background .12s;
+    user-select: none;
+  }
+  .chip .count {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--dim);
+  }
+  .chip:hover { color: var(--text); border-color: var(--border-hi); }
+  .chip.active {
+    color: var(--text);
+    border-color: var(--accent);
+    background: rgba(231,138,78,0.14);
+  }
+  .chip.active .count { color: var(--accent); }
+
+  /* ---- Grid ---- */
+  .wrap { padding: 20px; }
+
+  .result-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 2px 2px 14px;
+    color: var(--muted);
+    font-size: 12.5px;
+  }
+  .result-line b { color: var(--text); font-weight: 600; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 14px;
+  }
+
+  .card {
+    position: relative;
+    aspect-ratio: 21 / 9;
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--border);
+    cursor: zoom-in;
+    background: var(--surface-2);
+    transition: transform .15s ease, border-color .15s ease;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--border-hi);
+  }
+
+  .card .img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform .4s ease;
+  }
+  .card:hover .img { transform: scale(1.04); }
+
+  .card .overlay {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 10px 12px;
+    background: linear-gradient(to top, rgba(20,22,23,.78) 0%, rgba(20,22,23,0) 45%);
+    opacity: 0;
+    transition: opacity .15s ease;
+  }
+  .card:hover .overlay { opacity: 1; }
+
+  .card .title {
+    font-size: 13px;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .card .sub {
+    font-size: 11px;
+    color: var(--muted);
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-top: 1px;
+  }
+  .card .res { font-family: var(--mono); color: var(--accent); }
+
+  /* ---- Load more ---- */
+  .loadmore {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 22px;
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .loadmore:hover { border-color: var(--border-hi); }
+  .loadmore:disabled { opacity: .4; cursor: default; }
+
+  .empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 0;
+    font-size: 14px;
+  }
+
+  /* ---- Lightbox ---- */
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(20,22,23,.88);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 50;
+    padding: 4vw;
+  }
+  .lightbox.open { display: flex; }
+
+  .lb-inner {
+    width: min(1100px, 100%);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .lb-img {
+    display: block;
+    width: 100%;
+    max-height: 70vh;
+    object-fit: contain;
+    background: var(--bg);
+  }
+
+  .lb-bar {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+  }
+  .lb-info { flex: 1; min-width: 0; }
+  .lb-title { font-size: 15px; font-weight: 650; }
+  .lb-sub { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .lb-sub .res { font-family: var(--mono); color: var(--accent); }
+  .lb-sub .author { color: var(--teal); }
+
+  .lb-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 9px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    cursor: pointer;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+  .lb-btn.primary {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border: none;
+    font-weight: 600;
+  }
+  .lb-btn.ghost {
+    background: transparent;
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+  .lb-close {
+    position: absolute;
+    top: 22px;
+    right: 26px;
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 18px;
+    cursor: pointer;
+    line-height: 1;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .card .img, .card, .card .overlay { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="brand"><span class="mark"></span> Ultrawide Wallpapers</div>
+    <div class="search">
+      <input id="search" type="text" placeholder="Search titles, authors…" autocomplete="off">
+    </div>
+    <div class="meta" id="meta">loading…</div>
+  </header>
+
+  <nav class="chips" id="chips"></nav>
+
+  <div class="wrap">
+    <div class="result-line">
+      <span id="resultLine">Loading…</span>
+      <span id="showing"></span>
+    </div>
+    <div class="grid" id="grid">
+      <div class="empty">Loading wallpapers…</div>
+    </div>
+    <button class="loadmore" id="loadmore">Load more</button>
+  </div>
+
+  <div class="lightbox" id="lightbox">
+    <button class="lb-close" id="lbClose" aria-label="Close">✕</button>
+    <div class="lb-inner">
+      <img class="lb-img" id="lbImg" alt="">
+      <div class="lb-bar">
+        <div class="lb-info">
+          <div class="lb-title" id="lbTitle"></div>
+          <div class="lb-sub" id="lbSub"></div>
+        </div>
+        <a class="lb-btn ghost" id="lbDownload" target="_blank" rel="noopener">Download</a>
+        <a class="lb-btn primary" id="lbView" target="_blank" rel="noopener">View full resolution</a>
+      </div>
+    </div>
+  </div>
+
+<script>
+  // Full-size images live at the repo root, outside the published /docs site,
+  // so they are linked via raw.githubusercontent.com. Change the branch if the
+  // gallery is published from a branch other than main.
+  const RAW_BASE = "https://raw.githubusercontent.com/markpendlebury/Ultrawide-Wallpapers/main";
+
+  let WALLPAPERS = [];
+  const state = { filter: "All", search: "", visible: 24 };
+
+  const $ = (id) => document.getElementById(id);
+
+  function resolutions() {
+    const map = new Map();
+    for (const w of WALLPAPERS) map.set(w.resolution, (map.get(w.resolution) || 0) + 1);
+    return [...map.entries()].sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true }));
+  }
+
+  function renderChips() {
+    const chips = $("chips");
+    const res = resolutions();
+    const all = [{ name: "All", count: WALLPAPERS.length }, ...res.map(([n, c]) => ({ name: n, count: c }))];
+    chips.innerHTML = "";
+    for (const r of all) {
+      const el = document.createElement("button");
+      el.className = "chip" + (state.filter === r.name ? " active" : "");
+      el.innerHTML = `${r.name} <span class="count">${r.count}</span>`;
+      el.onclick = () => { state.filter = r.name; state.visible = 24; render(); };
+      chips.appendChild(el);
+    }
+  }
+
+  function filtered() {
+    const q = state.search.trim().toLowerCase();
+    return WALLPAPERS.filter(w =>
+      (state.filter === "All" || w.resolution === state.filter) &&
+      (!q || (w.title || "").toLowerCase().includes(q) || (w.author || "").toLowerCase().includes(q))
+    );
+  }
+
+  function fullUrl(w) { return RAW_BASE + "/" + w.full; }
+
+  function render() {
+    renderChips();
+    const list = filtered();
+    const shown = list.slice(0, state.visible);
+    const grid = $("grid");
+    grid.innerHTML = "";
+
+    if (shown.length === 0) {
+      grid.innerHTML = `<div class="empty">No wallpapers match.</div>`;
+    } else {
+      for (const w of shown) {
+        const card = document.createElement("div");
+        card.className = "card";
+        card.innerHTML = `
+          <img class="img" src="${w.thumb}" loading="lazy" alt="${w.title || ""}">
+          <div class="overlay">
+            <div class="title"></div>
+            <div class="sub"><span class="res"></span><span class="auth"></span></div>
+          </div>`;
+        card.querySelector(".title").textContent = w.title || "";
+        card.querySelector(".res").textContent = w.resolution || "";
+        card.querySelector(".auth").textContent = w.author || "";
+        card.onclick = () => openLightbox(w);
+        grid.appendChild(card);
+      }
+    }
+
+    $("resultLine").innerHTML =
+      state.filter === "All"
+        ? `Showing <b>all resolutions</b>`
+        : `Showing <b></b>`;
+    if (state.filter !== "All") {
+      $("resultLine").querySelector("b").textContent = state.filter;
+    }
+    $("showing").textContent = `${shown.length} of ${list.length}`;
+
+    $("loadmore").disabled = state.visible >= list.length;
+    $("loadmore").style.display = list.length === 0 ? "none" : "block";
+    $("meta").textContent = `${WALLPAPERS.length.toLocaleString()} wallpapers · ${resolutions().length} resolutions`;
+  }
+
+  function openLightbox(w) {
+    $("lbImg").src = fullUrl(w);
+    $("lbImg").alt = w.title || "";
+    $("lbTitle").textContent = w.title || "";
+    $("lbSub").innerHTML = "";
+    const res = document.createElement("span");
+    res.className = "res";
+    res.textContent = w.resolution || "";
+    const auth = document.createElement("span");
+    auth.className = "author";
+    auth.textContent = w.author || "";
+    $("lbSub").append(" · by ", auth);
+    $("lbSub").prepend(res);
+    $("lbView").href = fullUrl(w);
+    $("lbDownload").href = fullUrl(w);
+    $("lightbox").classList.add("open");
+  }
+
+  function closeLightbox() { $("lightbox").classList.remove("open"); }
+
+  $("search").addEventListener("input", (e) => { state.search = e.target.value; state.visible = 24; render(); });
+  $("loadmore").addEventListener("click", () => { state.visible += 24; render(); });
+  $("lbClose").addEventListener("click", closeLightbox);
+  $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) closeLightbox(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLightbox(); });
+
+  fetch("wallpapers.json")
+    .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(data => {
+      WALLPAPERS = Array.isArray(data) ? data.slice().reverse() : [];
+      render();
+    })
+    .catch(err => {
+      $("grid").innerHTML = `<div class="empty">Failed to load wallpapers.json: ${err.message}</div>`;
+      $("resultLine").textContent = "Error";
+      $("meta").textContent = "failed to load";
+    });
+</script>
+</body>
+</html>
