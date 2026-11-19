@@ -6602,3 +6602,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_11_15_21_9_&_32_9__7680x2160_18.jpeg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_15_21_9_&_32_9__7680x2160_18_thumbnail.jpeg)</a>
 <a href=7680x2160/My_weekly_drop_11_15_21_9_&_32_9__7680x2160_19.jpeg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_15_21_9_&_32_9__7680x2160_19_thumbnail.jpeg)</a>
 <a href=5120x2160/Fractal_5120x2160.png target=_blank>![Credit: Tzorben](5120x2160/Fractal_5120x2160_thumbnail.png)</a>
+<a href=7680x2160/First_Contact_OC__7680x2160.jpeg target=_blank>![Credit: serdarcamlica](7680x2160/First_Contact_OC__7680x2160_thumbnail.jpeg)</a>
