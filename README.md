@@ -6553,3 +6553,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Neon_501st_Troopers_21_9_3440x1440_7.png target=_blank>![Credit: maevewastaken69](3440x1440/Neon_501st_Troopers_21_9_3440x1440_7_thumbnail.png)</a>
 <a href=5120x1440/The_Glowing_Forest_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/The_Glowing_Forest_5120x1440_thumbnail.png)</a>
 <a href=5120x2160/Iterated_Function_System_IFS__5120x2160.png target=_blank>![Credit: Tzorben](5120x2160/Iterated_Function_System_IFS__5120x2160_thumbnail.png)</a>
+<a href=3440x1440/Sailor_s_Warning_3440_x_1440.png target=_blank>![Credit: Aggravating_Big9611](3440x1440/Sailor_s_Warning_3440_x_1440_thumbnail.png)</a>
