@@ -6608,3 +6608,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Hidden_History_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Hidden_History_5120x1440_thumbnail.png)</a>
 <a href=5120x1440/War_Thunder_Screenshot_Mig_29_5120x1440.jpeg target=_blank>![Credit: leSang](5120x1440/War_Thunder_Screenshot_Mig_29_5120x1440_thumbnail.jpeg)</a>
 <a href=3440x1440/Phantom_Blade_Zero_3440x1440_0.png target=_blank>![Credit: MasterBen85](3440x1440/Phantom_Blade_Zero_3440x1440_0_thumbnail.png)</a>
+<a href=3440x1440/Phantom_Blade_Zero_3440x1440_1.png target=_blank>![Credit: MasterBen85](3440x1440/Phantom_Blade_Zero_3440x1440_1_thumbnail.png)</a>
