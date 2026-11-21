@@ -87,6 +87,18 @@
   .search input:focus { border-color: var(--accent); }
   .search input::placeholder { color: var(--dim); }
 
+  .sort {
+    padding: 8px 10px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 12.5px;
+    outline: none;
+    cursor: pointer;
+  }
+  .sort:focus { border-color: var(--accent); }
+
   .meta {
     color: var(--muted);
     font-size: 12px;
@@ -306,6 +318,10 @@
     <div class="search">
       <input id="search" type="text" placeholder="Search titles, authors, resolution…" autocomplete="off">
     </div>
+    <select id="sort" class="sort" title="Sort order">
+      <option value="newest">Newest first</option>
+      <option value="oldest">Oldest first</option>
+    </select>
     <div class="meta" id="meta">loading…</div>
   </header>
 
@@ -360,7 +376,7 @@
   }
 
   let WALLPAPERS = [];
-  const state = { filter: "All", search: "", visible: 24 };
+  const state = { filter: "All", search: "", visible: 24, sort: "newest" };
   const PAGE = 24;
 
   const $ = (id) => document.getElementById(id);
@@ -401,9 +417,24 @@
 
   function fullUrl(w) { return RAW_BASE + "/" + w.full; }
 
+  function sortByDate(list) {
+    const sorted = list.slice();
+    const desc = state.sort !== "oldest";
+    sorted.sort((a, b) => {
+      const da = a.date || "";
+      const db = b.date || "";
+      if (!da && !db) return 0;
+      if (!da) return 1;   // undated last
+      if (!db) return -1;
+      if (da === db) return 0;
+      return desc ? (db < da ? -1 : 1) : (da < db ? -1 : 1);
+    });
+    return sorted;
+  }
+
   function render() {
     renderChips();
-    const list = filtered();
+    const list = sortByDate(filtered());
     const shown = list.slice(0, state.visible);
     const grid = $("grid");
     grid.innerHTML = "";
@@ -461,6 +492,7 @@
   function closeLightbox() { $("lightbox").classList.remove("open"); }
 
   $("search").addEventListener("input", (e) => { state.search = e.target.value; state.visible = PAGE; render(); });
+  $("sort").addEventListener("change", (e) => { state.sort = e.target.value; state.visible = PAGE; render(); });
   $("lbClose").addEventListener("click", closeLightbox);
   $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) closeLightbox(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLightbox(); });
@@ -488,7 +520,7 @@
   fetch("wallpapers.json")
     .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then(data => {
-      WALLPAPERS = Array.isArray(data) ? data.slice().reverse() : [];
+      WALLPAPERS = Array.isArray(data) ? data : [];
       render();
       maybeLoadMore();
     })
