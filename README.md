@@ -6614,3 +6614,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=5120x1440/Half_Under_Water_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Half_Under_Water_5120x1440_thumbnail.png)</a>
 <a href=3440x1440/Beneath_Crystal_Lake_3440_×_1440.png target=_blank>![Credit: Aggravating_Big9611](3440x1440/Beneath_Crystal_Lake_3440_×_1440_thumbnail.png)</a>
 <a href=3440x1440/Phantom_blade_zero_3440x1440_0.jpeg target=_blank>![Credit: RSVrockey2004](3440x1440/Phantom_blade_zero_3440x1440_0_thumbnail.jpeg)</a>
+<a href=3440x1440/Phantom_blade_zero_3440x1440_1.jpeg target=_blank>![Credit: RSVrockey2004](3440x1440/Phantom_blade_zero_3440x1440_1_thumbnail.jpeg)</a>
