@@ -446,7 +446,7 @@
         const card = document.createElement("div");
         card.className = "card";
         card.innerHTML = `
-          <img class="img" src="${w.thumb}" loading="lazy" alt="${w.title || ""}">
+          <img class="img" src="${RAW_BASE}/${w.thumb}" loading="lazy" alt="${w.title || ""}">
           <div class="overlay">
             <div class="title"></div>
             <div class="sub"><span class="res"></span><span class="auth"></span></div>
