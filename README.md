@@ -6639,3 +6639,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_17.jpeg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_17_thumbnail.jpeg)</a>
 <a href=7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_18.jpeg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_18_thumbnail.jpeg)</a>
 <a href=7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_19.jpeg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_19_thumbnail.jpeg)</a>
+<a href=5120x1440/Weeping_Sunset_5120x1440.png target=_blank>![Credit: Cbo305](5120x1440/Weeping_Sunset_5120x1440_thumbnail.png)</a>
