@@ -6619,3 +6619,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Phantom_blade_zero_3440x1440_3.jpeg target=_blank>![Credit: RSVrockey2004](3440x1440/Phantom_blade_zero_3440x1440_3_thumbnail.jpeg)</a>
 <a href=5120x2160/Ethereal_Currents__5120x2160.jpeg target=_blank>![Credit: OmegaProcess](5120x2160/Ethereal_Currents__5120x2160_thumbnail.jpeg)</a>
 <a href=7680x2160/My_own_generator_OC__7680x2160.jpeg target=_blank>![Credit: ayanada](7680x2160/My_own_generator_OC__7680x2160_thumbnail.jpeg)</a>
+<a href=7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_0.jpeg target=_blank>![Credit: shootthesound](7680x2160/My_weekly_drop_11_22_21_9_&_32_9__7680x2160_0_thumbnail.jpeg)</a>
