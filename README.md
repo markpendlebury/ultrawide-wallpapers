@@ -6656,3 +6656,4 @@ A collection of ultrawide wallpapers. My aim here is to create a decent collecti
 <a href=3440x1440/Azure_Dreams_3440x1440_13.png target=_blank>![Credit: rhntrfn](3440x1440/Azure_Dreams_3440x1440_13_thumbnail.png)</a>
 <a href=3440x1440/Azure_Dreams_3440x1440_14.png target=_blank>![Credit: rhntrfn](3440x1440/Azure_Dreams_3440x1440_14_thumbnail.png)</a>
 <a href=5120x2160/Fractal_Set_Fractal_Explorer_5120x2160.png target=_blank>![Credit: Tzorben](5120x2160/Fractal_Set_Fractal_Explorer_5120x2160_thumbnail.png)</a>
+<a href=5120x2160/Hyperwave_Flow_5120x2160.jpeg target=_blank>![Credit: OmegaProcess](5120x2160/Hyperwave_Flow_5120x2160_thumbnail.jpeg)</a>
