@@ -316,7 +316,7 @@
   <header class="topbar">
     <div class="brand"><span class="mark"></span> Ultrawide Wallpapers</div>
     <div class="search">
-      <input id="search" type="text" placeholder="Search titles, authors, resolution…" autocomplete="off">
+      <input id="search" type="text" placeholder="Search titles, authors, aspect ratio, resolution…" autocomplete="off">
     </div>
     <select id="sort" class="sort" title="Sort order">
       <option value="newest">Newest first</option>
@@ -375,25 +375,41 @@
     return RESOLUTION_ALIASES[r] || r;
   }
 
+  // Bucket a wallpaper by aspect ratio rather than exact resolution. Mirrors
+  // the bucketing used when wallpapers.json is generated; the fallback keeps
+  // the gallery working for entries that predate the aspect_ratio field.
+  function aspectOf(w) {
+    if (w.aspect_ratio) return w.aspect_ratio;
+    const m = /^(\d+)x(\d+)$/.exec(String(w.resolution || "").toLowerCase());
+    if (!m) return "Other";
+    const r = +m[1] / +m[2];
+    if (Math.abs(r - 4/3) < 0.02) return "4:3";
+    if (Math.abs(r - 1.6) < 0.02) return "16:10";
+    if (Math.abs(r - 16/9) < 0.02) return "16:9";
+    if (r >= 2.30 && r <= 2.45) return "21:9";
+    if (r >= 3.40 && r <= 3.70) return "32:9";
+    return "Other";
+  }
+
   let WALLPAPERS = [];
   const state = { filter: "All", search: "", visible: 24, sort: "newest" };
   const PAGE = 24;
 
   const $ = (id) => document.getElementById(id);
 
-  function resolutions() {
+  function aspectRatios() {
     const map = new Map();
     for (const w of WALLPAPERS) {
-      const r = canonicalResolution(w.resolution);
-      map.set(r, (map.get(r) || 0) + 1);
+      const a = aspectOf(w);
+      map.set(a, (map.get(a) || 0) + 1);
     }
-    return [...map.entries()].sort((a, b) => a[0].localeCompare(b[0], undefined, { numeric: true }));
+    return [...map.entries()].sort((a, b) => b[1] - a[1]);
   }
 
   function renderChips() {
     const chips = $("chips");
-    const res = resolutions();
-    const all = [{ name: "All", count: WALLPAPERS.length }, ...res.map(([n, c]) => ({ name: n, count: c }))];
+    const ratios = aspectRatios();
+    const all = [{ name: "All", count: WALLPAPERS.length }, ...ratios.map(([n, c]) => ({ name: n, count: c }))];
     chips.innerHTML = "";
     for (const r of all) {
       const el = document.createElement("button");
@@ -407,11 +423,12 @@
   function filtered() {
     const q = state.search.trim().toLowerCase();
     return WALLPAPERS.filter(w => {
-      if (state.filter !== "All" && canonicalResolution(w.resolution) !== state.filter) return false;
+      if (state.filter !== "All" && aspectOf(w) !== state.filter) return false;
       if (!q) return true;
       return (w.title || "").toLowerCase().includes(q)
         || (w.author || "").toLowerCase().includes(q)
-        || canonicalResolution(w.resolution).toLowerCase().includes(q);
+        || canonicalResolution(w.resolution).toLowerCase().includes(q)
+        || aspectOf(w).toLowerCase().includes(q);
     });
   }
 
@@ -461,14 +478,14 @@
 
     $("resultLine").innerHTML =
       state.filter === "All"
-        ? `Showing <b>all resolutions</b>`
+        ? `Showing <b>all aspect ratios</b>`
         : `Showing <b></b>`;
     if (state.filter !== "All") {
       $("resultLine").querySelector("b").textContent = state.filter;
     }
     $("showing").textContent = `${shown.length} of ${list.length}`;
 
-    $("meta").textContent = `${WALLPAPERS.length.toLocaleString()} wallpapers · ${resolutions().length} resolutions`;
+    $("meta").textContent = `${WALLPAPERS.length.toLocaleString()} wallpapers · ${aspectRatios().length} aspect ratios`;
   }
 
   function openLightbox(w) {
