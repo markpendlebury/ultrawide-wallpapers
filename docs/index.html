@@ -106,46 +106,20 @@
     white-space: nowrap;
   }
 
-  /* ---- Resolution chips ---- */
-  .chips {
-    display: flex;
-    gap: 8px;
-    padding: 14px 20px;
-    overflow-x: auto;
-    border-bottom: 1px solid var(--border);
-    scrollbar-width: none;
-  }
-  .chips::-webkit-scrollbar { display: none; }
-
-  .chip {
-    flex: 0 0 auto;
+  /* ---- Filter dropdowns ---- */
+  .filter {
     display: inline-flex;
     align-items: center;
     gap: 7px;
-    padding: 6px 12px;
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    background: var(--surface);
+    white-space: nowrap;
+  }
+  .filter-label {
     color: var(--muted);
-    font-size: 12.5px;
-    cursor: pointer;
-    transition: color .12s, border-color .12s, background .12s;
-    user-select: none;
+    font-size: 12px;
   }
-  .chip .count {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--dim);
-  }
-  .chip:hover { color: var(--text); border-color: var(--border-hi); }
-  .chip.active {
-    color: var(--text);
-    border-color: var(--accent);
-    background: rgba(231,138,78,0.14);
-  }
-  .chip.active .count { color: var(--accent); }
 
   .ai-toggle {
+    position: relative;
     flex: 0 0 auto;
     padding: 8px 12px;
     background: var(--surface);
@@ -163,6 +137,24 @@
     border-color: var(--accent);
     background: rgba(231,138,78,0.14);
   }
+  .ai-toggle::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 6px 10px;
+    background: var(--surface-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 12px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .12s ease;
+  }
+  .ai-toggle:hover::after { opacity: 1; }
 
   /* ---- Grid ---- */
   .wrap { padding: 20px; }
@@ -337,16 +329,21 @@
     <div class="search">
       <input id="search" type="text" placeholder="Search titles, authors, aspect ratio, resolution…" autocomplete="off">
     </div>
-    <button id="aiToggle" class="ai-toggle" title="Toggle AI-generated art">Show AI</button>
+    <label class="filter">
+      <span class="filter-label">Aspect ratio</span>
+      <select id="aspectFilter" class="sort" title="Filter by aspect ratio"></select>
+    </label>
+    <label class="filter">
+      <span class="filter-label">Flair</span>
+      <select id="flairFilter" class="sort" title="Filter by flair"></select>
+    </label>
+    <button id="aiToggle" class="ai-toggle" data-tooltip="Show or hide AI-generated wallpapers">AI: Hidden</button>
     <select id="sort" class="sort" title="Sort order">
       <option value="newest">Newest first</option>
       <option value="oldest">Oldest first</option>
     </select>
     <div class="meta" id="meta">loading…</div>
   </header>
-
-  <nav class="chips" id="chips"></nav>
-  <nav class="chips" id="flairChips"></nav>
 
   <div class="wrap">
     <div class="result-line">
@@ -382,7 +379,7 @@
 
   // Resolutions scraped from Reddit titles occasionally contain typos (e.g.
   // "512x1440" or "5120x144") or case variants. Normalise them to the correct
-  // standard resolution so they group together in the chips and search.
+  // standard resolution so they group together in the filter and search.
   const RESOLUTION_ALIASES = {
     "3440x440": "3440x1440",
     "512x1440": "5120x1440",
@@ -427,17 +424,17 @@
     return [...map.entries()].sort((a, b) => b[1] - a[1]);
   }
 
-  function renderChips() {
-    const chips = $("chips");
+  function renderAspectFilter() {
+    const select = $("aspectFilter");
     const ratios = aspectRatios();
     const all = [{ name: "All", count: WALLPAPERS.length }, ...ratios.map(([n, c]) => ({ name: n, count: c }))];
-    chips.innerHTML = "";
+    select.innerHTML = "";
     for (const r of all) {
-      const el = document.createElement("button");
-      el.className = "chip" + (state.filter === r.name ? " active" : "");
-      el.innerHTML = `${r.name} <span class="count">${r.count}</span>`;
-      el.onclick = () => { state.filter = r.name; state.visible = PAGE; render(); };
-      chips.appendChild(el);
+      const opt = document.createElement("option");
+      opt.value = r.name;
+      opt.textContent = `${r.name} (${r.count})`;
+      if (state.filter === r.name) opt.selected = true;
+      select.appendChild(opt);
     }
   }
 
@@ -450,16 +447,16 @@
     return [...map.entries()].sort((a, b) => b[1] - a[1]);
   }
 
-  function renderFlairChips() {
-    const chips = $("flairChips");
+  function renderFlairFilter() {
+    const select = $("flairFilter");
     const all = [{ name: "All", count: WALLPAPERS.length }, ...flairs().map(([n, c]) => ({ name: n, count: c }))];
-    chips.innerHTML = "";
+    select.innerHTML = "";
     for (const f of all) {
-      const el = document.createElement("button");
-      el.className = "chip" + (state.flair === f.name ? " active" : "");
-      el.innerHTML = `${f.name} <span class="count">${f.count}</span>`;
-      el.onclick = () => { state.flair = f.name; state.visible = PAGE; render(); };
-      chips.appendChild(el);
+      const opt = document.createElement("option");
+      opt.value = f.name;
+      opt.textContent = `${f.name} (${f.count})`;
+      if (state.flair === f.name) opt.selected = true;
+      select.appendChild(opt);
     }
   }
 
@@ -495,9 +492,9 @@
   }
 
   function render() {
-    renderChips();
-    renderFlairChips();
-    $("aiToggle").textContent = state.showAI ? "Hide AI" : "Show AI";
+    renderAspectFilter();
+    renderFlairFilter();
+    $("aiToggle").textContent = state.showAI ? "AI: Visible" : "AI: Hidden";
     $("aiToggle").classList.toggle("on", state.showAI);
     const list = sortByDate(filtered());
     const shown = list.slice(0, state.visible);
@@ -559,6 +556,8 @@
   $("aiToggle").addEventListener("click", () => { state.showAI = !state.showAI; state.visible = PAGE; render(); });
   $("search").addEventListener("input", (e) => { state.search = e.target.value; state.visible = PAGE; render(); });
   $("sort").addEventListener("change", (e) => { state.sort = e.target.value; state.visible = PAGE; render(); });
+  $("aspectFilter").addEventListener("change", (e) => { state.filter = e.target.value; state.visible = PAGE; render(); });
+  $("flairFilter").addEventListener("change", (e) => { state.flair = e.target.value; state.visible = PAGE; render(); });
   $("lbClose").addEventListener("click", closeLightbox);
   $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) closeLightbox(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLightbox(); });
