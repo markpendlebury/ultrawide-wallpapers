@@ -145,6 +145,25 @@
   }
   .chip.active .count { color: var(--accent); }
 
+  .ai-toggle {
+    flex: 0 0 auto;
+    padding: 8px 12px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--muted);
+    font-size: 12.5px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: color .12s, border-color .12s, background .12s;
+  }
+  .ai-toggle:hover { color: var(--text); border-color: var(--border-hi); }
+  .ai-toggle.on {
+    color: var(--text);
+    border-color: var(--accent);
+    background: rgba(231,138,78,0.14);
+  }
+
   /* ---- Grid ---- */
   .wrap { padding: 20px; }
 
@@ -318,6 +337,7 @@
     <div class="search">
       <input id="search" type="text" placeholder="Search titles, authors, aspect ratio, resolution…" autocomplete="off">
     </div>
+    <button id="aiToggle" class="ai-toggle" title="Toggle AI-generated art">Show AI</button>
     <select id="sort" class="sort" title="Sort order">
       <option value="newest">Newest first</option>
       <option value="oldest">Oldest first</option>
@@ -326,6 +346,7 @@
   </header>
 
   <nav class="chips" id="chips"></nav>
+  <nav class="chips" id="flairChips"></nav>
 
   <div class="wrap">
     <div class="result-line">
@@ -392,7 +413,7 @@
   }
 
   let WALLPAPERS = [];
-  const state = { filter: "All", search: "", visible: 24, sort: "newest" };
+  const state = { filter: "All", flair: "All", showAI: false, search: "", visible: 24, sort: "newest" };
   const PAGE = 24;
 
   const $ = (id) => document.getElementById(id);
@@ -420,10 +441,34 @@
     }
   }
 
+  function flairs() {
+    const map = new Map();
+    for (const w of WALLPAPERS) {
+      const f = w.flair || "untagged";
+      map.set(f, (map.get(f) || 0) + 1);
+    }
+    return [...map.entries()].sort((a, b) => b[1] - a[1]);
+  }
+
+  function renderFlairChips() {
+    const chips = $("flairChips");
+    const all = [{ name: "All", count: WALLPAPERS.length }, ...flairs().map(([n, c]) => ({ name: n, count: c }))];
+    chips.innerHTML = "";
+    for (const f of all) {
+      const el = document.createElement("button");
+      el.className = "chip" + (state.flair === f.name ? " active" : "");
+      el.innerHTML = `${f.name} <span class="count">${f.count}</span>`;
+      el.onclick = () => { state.flair = f.name; state.visible = PAGE; render(); };
+      chips.appendChild(el);
+    }
+  }
+
   function filtered() {
     const q = state.search.trim().toLowerCase();
     return WALLPAPERS.filter(w => {
       if (state.filter !== "All" && aspectOf(w) !== state.filter) return false;
+      if (state.flair !== "All" && (w.flair || "untagged") !== state.flair) return false;
+      if (!state.showAI && w.ai) return false;
       if (!q) return true;
       return (w.title || "").toLowerCase().includes(q)
         || (w.author || "").toLowerCase().includes(q)
@@ -451,6 +496,9 @@
 
   function render() {
     renderChips();
+    renderFlairChips();
+    $("aiToggle").textContent = state.showAI ? "Hide AI" : "Show AI";
+    $("aiToggle").classList.toggle("on", state.showAI);
     const list = sortByDate(filtered());
     const shown = list.slice(0, state.visible);
     const grid = $("grid");
@@ -508,6 +556,7 @@
 
   function closeLightbox() { $("lightbox").classList.remove("open"); }
 
+  $("aiToggle").addEventListener("click", () => { state.showAI = !state.showAI; state.visible = PAGE; render(); });
   $("search").addEventListener("input", (e) => { state.search = e.target.value; state.visible = PAGE; render(); });
   $("sort").addEventListener("change", (e) => { state.sort = e.target.value; state.visible = PAGE; render(); });
   $("lbClose").addEventListener("click", closeLightbox);
