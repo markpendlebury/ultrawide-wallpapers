@@ -118,6 +118,27 @@
     font-size: 12px;
   }
 
+  .filters {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .menu-toggle {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .menu-toggle:hover { border-color: var(--border-hi); }
+
   .ai-toggle {
     position: relative;
     flex: 0 0 auto;
@@ -317,6 +338,40 @@
     line-height: 1;
   }
 
+  @media (max-width: 768px) {
+    .topbar {
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 12px 14px;
+    }
+    .brand { order: 1; }
+    .menu-toggle {
+      display: inline-flex;
+      order: 2;
+      margin-left: auto;
+    }
+    .search {
+      order: 3;
+      flex-basis: 100%;
+      margin-left: 0;
+      max-width: none;
+    }
+    .filters {
+      display: none;
+      order: 4;
+      width: 100%;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 10px;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+    }
+    .filters.open { display: flex; }
+    .filter { justify-content: space-between; }
+    .filter .sort { flex: 1; }
+    .meta { display: none; }
+  }
+
   @media (prefers-reduced-motion: reduce) {
     .card .img, .card, .card .overlay { transition: none; }
   }
@@ -329,19 +384,22 @@
     <div class="search">
       <input id="search" type="text" placeholder="Search titles, authors, aspect ratio, resolution…" autocomplete="off">
     </div>
-    <label class="filter">
-      <span class="filter-label">Aspect ratio</span>
-      <select id="aspectFilter" class="sort" title="Filter by aspect ratio"></select>
-    </label>
-    <label class="filter">
-      <span class="filter-label">Flair</span>
-      <select id="flairFilter" class="sort" title="Filter by flair"></select>
-    </label>
-    <button id="aiToggle" class="ai-toggle" data-tooltip="Show or hide AI-generated wallpapers">AI: Hidden</button>
-    <select id="sort" class="sort" title="Sort order">
-      <option value="newest">Newest first</option>
-      <option value="oldest">Oldest first</option>
-    </select>
+    <button id="menuToggle" class="menu-toggle" aria-label="Filters" aria-expanded="false">☰</button>
+    <div class="filters" id="filters">
+      <label class="filter">
+        <span class="filter-label">Aspect ratio</span>
+        <select id="aspectFilter" class="sort" title="Filter by aspect ratio"></select>
+      </label>
+      <label class="filter">
+        <span class="filter-label">Flair</span>
+        <select id="flairFilter" class="sort" title="Filter by flair"></select>
+      </label>
+      <button id="aiToggle" class="ai-toggle" data-tooltip="Show or hide AI-generated wallpapers">AI: Hidden</button>
+      <select id="sort" class="sort" title="Sort order">
+        <option value="newest">Newest first</option>
+        <option value="oldest">Oldest first</option>
+      </select>
+    </div>
     <div class="meta" id="meta">loading…</div>
   </header>
 
@@ -558,6 +616,10 @@
   $("sort").addEventListener("change", (e) => { state.sort = e.target.value; state.visible = PAGE; render(); });
   $("aspectFilter").addEventListener("change", (e) => { state.filter = e.target.value; state.visible = PAGE; render(); });
   $("flairFilter").addEventListener("change", (e) => { state.flair = e.target.value; state.visible = PAGE; render(); });
+  $("menuToggle").addEventListener("click", () => {
+    const open = $("filters").classList.toggle("open");
+    $("menuToggle").setAttribute("aria-expanded", String(open));
+  });
   $("lbClose").addEventListener("click", closeLightbox);
   $("lightbox").addEventListener("click", (e) => { if (e.target === $("lightbox")) closeLightbox(); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLightbox(); });
