@@ -11,6 +11,39 @@
     "ai": false
   },
   {
+    "title": "Made some OLED friendly stuff 21 9  3440x1440 1",
+    "author": "iRized",
+    "resolution": "10320x4320",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-26",
+    "thumb": "thumbs/10320x4320/Made_some_OLED_friendly_stuff_21_9__3440x1440_1.webp",
+    "full": "images/10320x4320/Made_some_OLED_friendly_stuff_21_9__3440x1440_1.png",
+    "flair": "Dump",
+    "ai": false
+  },
+  {
+    "title": "Made some OLED friendly stuff 21 9  3440x1440 2",
+    "author": "iRized",
+    "resolution": "10320x4320",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-26",
+    "thumb": "thumbs/10320x4320/Made_some_OLED_friendly_stuff_21_9__3440x1440_2.webp",
+    "full": "images/10320x4320/Made_some_OLED_friendly_stuff_21_9__3440x1440_2.png",
+    "flair": "Dump",
+    "ai": false
+  },
+  {
+    "title": "Made some OLED friendly stuff 21 9  3440x1440 3",
+    "author": "iRized",
+    "resolution": "10320x4320",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-26",
+    "thumb": "thumbs/10320x4320/Made_some_OLED_friendly_stuff_21_9__3440x1440_3.webp",
+    "full": "images/10320x4320/Made_some_OLED_friendly_stuff_21_9__3440x1440_3.png",
+    "flair": "Dump",
+    "ai": false
+  },
+  {
     "title": "Mont Blanc",
     "author": "Unknown",
     "resolution": "11222x3156",
@@ -17124,6 +17157,28 @@
     "thumb": "thumbs/3440x1440/Phantom_Blade_Zero_3440x1440_1.webp",
     "full": "images/3440x1440/Phantom_Blade_Zero_3440x1440_1.png",
     "flair": "",
+    "ai": false
+  },
+  {
+    "title": "Phantom blade zero 3440x1440 0",
+    "author": "RSVrockey2004",
+    "resolution": "3440x1440",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-20",
+    "thumb": "thumbs/3440x1440/Phantom_blade_zero_3440x1440_0.webp",
+    "full": "images/3440x1440/Phantom_blade_zero_3440x1440_0.jpg",
+    "flair": "Gaming",
+    "ai": false
+  },
+  {
+    "title": "Phantom blade zero 3440x1440 1",
+    "author": "RSVrockey2004",
+    "resolution": "3440x1440",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-20",
+    "thumb": "thumbs/3440x1440/Phantom_blade_zero_3440x1440_1.webp",
+    "full": "images/3440x1440/Phantom_blade_zero_3440x1440_1.jpg",
+    "flair": "Gaming",
     "ai": false
   },
   {
@@ -36806,6 +36861,17 @@
     "ai": false
   },
   {
+    "title": "Weeping Sunset",
+    "author": "Cbo305",
+    "resolution": "5120x1440",
+    "aspect_ratio": "32:9",
+    "date": "2026-11-21",
+    "thumb": "thumbs/5120x1440/Weeping_Sunset_5120x1440.webp",
+    "full": "images/5120x1440/Weeping_Sunset_5120x1440.png",
+    "flair": "AI",
+    "ai": true
+  },
+  {
     "title": "Where Light Finds Its Way",
     "author": "Unknown",
     "resolution": "5120x1440",
@@ -38049,6 +38115,17 @@
     "ai": false
   },
   {
+    "title": "Ethereal Currents",
+    "author": "OmegaProcess",
+    "resolution": "5120x2160",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-21",
+    "thumb": "thumbs/5120x2160/Ethereal_Currents__5120x2160.webp",
+    "full": "images/5120x2160/Ethereal_Currents__5120x2160.jpg",
+    "flair": "Abstract",
+    "ai": false
+  },
+  {
     "title": "Evolution of resolution",
     "author": "Unknown",
     "resolution": "5120x2160",
@@ -38211,6 +38288,17 @@
     "thumb": "thumbs/5120x2160/Fractal_5120x2160.webp",
     "full": "images/5120x2160/Fractal_5120x2160.png",
     "flair": "",
+    "ai": false
+  },
+  {
+    "title": "Fractal Set Fractal Explorer",
+    "author": "Tzorben",
+    "resolution": "5120x2160",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-21",
+    "thumb": "thumbs/5120x2160/Fractal_Set_Fractal_Explorer_5120x2160.webp",
+    "full": "images/5120x2160/Fractal_Set_Fractal_Explorer_5120x2160.png",
+    "flair": "Abstract",
     "ai": false
   },
   {
@@ -46013,6 +46101,17 @@
     "ai": false
   },
   {
+    "title": "Made some OLED friendly stuff 21 9  3440x1440 0",
+    "author": "iRized",
+    "resolution": "6880x2880",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-26",
+    "thumb": "thumbs/6880x2880/Made_some_OLED_friendly_stuff_21_9__3440x1440_0.webp",
+    "full": "images/6880x2880/Made_some_OLED_friendly_stuff_21_9__3440x1440_0.png",
+    "flair": "Dump",
+    "ai": false
+  },
+  {
     "title": "Metallic swirl",
     "author": "Unknown",
     "resolution": "6880x2880",
@@ -48144,6 +48243,17 @@
     "thumb": "thumbs/7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_9.webp",
     "full": "images/7680x2160/My_latest_walls_a_mix_of_styles_in_32_9_7680x2160_9.jpg",
     "flair": "",
+    "ai": false
+  },
+  {
+    "title": "My own generator OC",
+    "author": "ayanada",
+    "resolution": "7680x2160",
+    "aspect_ratio": "32:9",
+    "date": "2026-11-22",
+    "thumb": "thumbs/7680x2160/My_own_generator_OC__7680x2160.webp",
+    "full": "images/7680x2160/My_own_generator_OC__7680x2160.jpg",
+    "flair": "Abstract",
     "ai": false
   },
   {
