@@ -382,7 +382,7 @@
   <header class="topbar">
     <div class="brand"><span class="mark"></span> Ultrawide Wallpapers</div>
     <div class="search">
-      <input id="search" type="text" placeholder="Search titles, authors, aspect ratio, resolution…" autocomplete="off">
+      <input id="search" type="text" placeholder="Search titles, authors, keywords, description…" autocomplete="off">
     </div>
     <button id="menuToggle" class="menu-toggle" aria-label="Filters" aria-expanded="false">☰</button>
     <div class="filters" id="filters">
@@ -525,10 +525,16 @@
       if (state.flair !== "All" && (w.flair || "untagged") !== state.flair) return false;
       if (!state.showAI && w.ai) return false;
       if (!q) return true;
-      return (w.title || "").toLowerCase().includes(q)
-        || (w.author || "").toLowerCase().includes(q)
-        || canonicalResolution(w.resolution).toLowerCase().includes(q)
-        || aspectOf(w).toLowerCase().includes(q);
+      const haystack = [
+        w.title || "",
+        w.author || "",
+        canonicalResolution(w.resolution),
+        aspectOf(w),
+        w.description || "",
+        ...(w.keywords || []),
+        ...(w.title_keywords || []),
+      ];
+      return haystack.some(s => String(s).toLowerCase().includes(q));
     });
   }
 
