@@ -286,6 +286,17 @@
     "ai": false
   },
   {
+    "title": "Beneath Crystal Lake 3440 \u00d7 1440",
+    "author": "Aggravating_Big9611",
+    "resolution": "1916x821",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-20",
+    "thumb": "thumbs/1916x821/Beneath_Crystal_Lake_3440_\u00d7_1440.webp",
+    "full": "images/1916x821/Beneath_Crystal_Lake_3440_\u00d7_1440.png",
+    "flair": "AI",
+    "ai": true
+  },
+  {
     "title": "This weeks wallpaper rotation  3440x1440 8",
     "author": "Unknown",
     "resolution": "1920x1080",
@@ -33627,6 +33638,17 @@
     "ai": false
   },
   {
+    "title": "Half Under Water",
+    "author": "Cbo305",
+    "resolution": "5120x1440",
+    "aspect_ratio": "32:9",
+    "date": "2026-11-19",
+    "thumb": "thumbs/5120x1440/Half_Under_Water_5120x1440.webp",
+    "full": "images/5120x1440/Half_Under_Water_5120x1440.png",
+    "flair": "AI",
+    "ai": true
+  },
+  {
     "title": "Happy Zlda 5120 x 1440",
     "author": "Unknown",
     "resolution": "5120x1440",
@@ -38298,6 +38320,17 @@
     "date": "2026-11-21",
     "thumb": "thumbs/5120x2160/Fractal_Set_Fractal_Explorer_5120x2160.webp",
     "full": "images/5120x2160/Fractal_Set_Fractal_Explorer_5120x2160.png",
+    "flair": "Abstract",
+    "ai": false
+  },
+  {
+    "title": "Fractal Set with Quaternions",
+    "author": "Tzorben",
+    "resolution": "5120x2160",
+    "aspect_ratio": "21:9",
+    "date": "2026-11-27",
+    "thumb": "thumbs/5120x2160/Fractal_Set_with_Quaternions_5120x2160.webp",
+    "full": "images/5120x2160/Fractal_Set_with_Quaternions_5120x2160.png",
     "flair": "Abstract",
     "ai": false
   },
